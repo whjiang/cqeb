@@ -1,0 +1,272 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: cqyx
+  name: "超强音形"
+  version: "5.1"
+  author:
+    - 超强音形制作人：付东升
+  description: |
+    码表：当前即2018年11月封包时为最新版本
+
+  dependencies:
+    - pinyin
+
+menu:
+  page_size: 8 #候选项数，超强用了eiouv选重，即最高共六重码，所以本方案最低建议采用固定六候选的方式
+
+switches: # 可在状态栏上显示的内容，去掉下面的"#"号可开启
+  - options: [ _keyboard_menu, _keyboard_menu]
+    states: [ "　❖", "　❖"]
+  - options: [ _keyboard_use, _keyboard_use]
+    #states: [ "　‹ɪ›", "　‹ɪ›"]
+  - options: [ _keyboard_symbols01 ]
+    #states: [ 　☐ ]
+    reset: 1
+  - name: _hide_key_hint
+    #states: [ ≑, ≟ ]
+  - options: [ _keyboard_number ]
+    #states: [ 123 ]
+    ascii_mode: 0
+  - options: [ _key_LLQ, _key_LLQ]
+    #states: [ 🔍, 🔍]
+  - options: [ _key_VOICE_ASSIST, _key_VOICE_ASSIST]
+    #states: [ 🎤, 🎤]
+  - name: traditional
+    #states: [ Ⓙ, Ⓕ ]
+    reset: 0
+  - name: _hide_candidate
+    #states: [ ☐, ☒ ]
+    reset: 0
+  - name: _hide_comment
+    #states: [ 提示, 无]
+  - name: Emoji
+    #states: [ 🙂, 😃 ]
+    reset: 0
+  - name: Emoji_BIG
+    #states: [ 😆, 👿 ]
+    reset: 0
+  - name: PY
+    #states: [ go, Gò ]
+    reset: 0
+  - name: chaoji
+    #states: [ 🚫, ☢ ]
+    reset: 0
+  - options: [ _keyboard_.default, _keyboard_defaultYX_zj]
+    states: [ "　　　　　　", "　　　　　　"]
+  - options: [ _key_Hide]
+    states: [ "　　       ﹀"]
+
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    #- echo_translator
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+    - table_translator@custom_jiaci
+    - table_translator@custom_top
+    - table_translator@hexin
+
+  filters:
+    - reverse_lookup_filter@i_reverse_lookup
+    - simplifier
+    #- uniquifier #过滤重复字
+    #- single_char_filter #单字优先
+    - "simplifier@Emoji"
+    - "simplifier@Emoji_BIG"
+    - "simplifier@PY"
+    - "simplifier@CnEnglish"
+    - "simplifier@Cn_English"
+    - "simplifier@chaoji"
+
+custom_top:
+  dictionary: ""
+  user_dict: _User/b_YX
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 2
+
+custom_jiaci:
+  dictionary: ""
+  user_dict: _User/a_YXjiaci
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: -1
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyz'
+  initials: 'abcdefghijklmnopqrstuvwxyz'
+  auto_clear: auto #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
+  auto_select: true
+  #max_code_length: 4
+  #auto_select_pattern: '^.{2,4}$'
+
+simplifier:
+  option_name: traditional
+  opencc_config:  s2t.json
+
+translator:
+  dictionary: cqyx
+  enable_charset_filter: false
+  enable_completion: true
+  enable_sentence: false
+  enable_encoder: true
+  encode_commit_history: true
+  max_phrase_length: 4
+  enable_user_dict: false
+
+reverse_lookup:
+  dictionary: pinyin
+  prefix: "`"
+  suffix: "'"
+  #tips: 〔反查〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+  comment_format:
+    - xform/ /\ |\ /
+    - xform/$/ 〕/
+    - xform/^/〔 /
+    - xform/\ i.+?\ \|//
+    - xform/\|\ i.+?\ 〕/\ 〕/
+    - xform/(\ [^i]\S{3}).\ /$1\ /
+
+punctuator:
+  full_shape:
+    ',' : { commit: ， }
+    '.' : { commit: 。 }
+    ';' : { commit: ； }
+    ':' : { commit: ： }
+    '!' : { commit: ！ }
+    '?' : { commit: ？ }
+    "'" : { pair: [ ‘, ’ ] }
+    '"' : { pair: [ “, ” ] }
+    ' ' : { commit: '　' }
+    '/' : [ 、, ÷ ]    
+    '*' : [ ＊, × ]
+    '<' : [ 《, 〈, «, ‹, 〔 ]
+    '>' : [ 》, 〉, », ›,  〕]
+    '(' : { commit: （ }
+    ')' : { commit: ） }
+  half_shape:
+    ',' : { commit: ， }
+    '.' : { commit: 。 }
+    '/' : { commit: 、 }
+    ';' : { commit: ； }
+    ':' : { commit: ： }
+    '!' : { commit: ！ }
+    '?' : { commit: ？ }
+    '<' : { commit: 《 }
+    '>' : { commit: 》 }
+    '(' : { commit: （ }
+    ')' : { commit: ） }
+    "'" : { pair: [ ‘, ’ ] }
+    '"' : { pair: [ “, ” ] }
+  import_preset: _s
+
+key_binder:
+    bindings:
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+    - {accept: "Control+period", toggle: ascii_punct, when: always}
+    - when:  composing
+      accept: Control+bracketleft
+      send: Escape
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "^`[a-z]*'?$"
+    i_reverse_lookup_pattern: "^i[a-z;,./]+$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$' #这个地方是调用symbols文件夹的两个必要设置之二
+
+i_reverse_lookup:
+  tags: [ i_reverse_lookup_pattern ]
+  dictionary: cqyx
+  overwrite_comment: false # 覆盖其他提示
+  comment_format: &comment
+    - xform/ /\ |\ /
+    - xform/$/ 〕/
+    - xform/^/〔 /
+    #- xform/([nl])v/$1ü/
+    #- xform/([nl])ue/$1üe/
+    #- xform/([jqxy])v/$1u/
+
+
+hexin:
+  dictionary: iFC
+  user_dict: ""
+  db_class: stabledb
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0
+  enable_user_dict: false
+
+PY:
+  option_name: PY #對應switches中設定的切換項名
+  opencc_config: PY.json #用字轉換配置文件，位於【rime_dir/opencc/】
+  show_in_comment: true
+  cmment_frmat: 
+    - "xform/<br>/\n/"
+    - "xform/&nbsp//"
+  #tags: #此选项不知何用
+    - abc
+  tips: all #形码注音专用
+
+Emoji:
+  option_name: Emoji #對應switches中設定的切換項名
+  opencc_config: Emoji.json #用字轉換配置文件，位於【rime_dir/opencc/】
+  show_in_comment: false
+  cmment_frmat: 
+    - "xform/<br>/\n/"
+    - "xform/&nbsp//"
+  #tags: #此选项不知何用
+    - abc
+  #tips: all
+
+Emoji_BIG:
+  option_name: Emoji_BIG #對應switches中設定的切換項名
+  opencc_config: Emoji_BIG.json #用字轉換配置文件，位於【rime_dir/opencc/】
+  show_in_comment: false
+  cmment_frmat: 
+    - "xform/<br>/\n/"
+    - "xform/&nbsp//"
+  #tags: #此选项不知何用
+    - abc
+  #tips: all
+
+chaoji:
+  option_name: chaoji #對應switches中設定的切換項名
+  opencc_config: chaoji.json #用字轉換配置文件，位於【rime_dir/opencc/】
+  show_in_comment: false
+  cmment_frmat: 
+    - "xform/<br>/\n/"
+    - "xform/&nbsp//"
+  #tags: #此选项不知何用
+    - abc
+  #tips: all
