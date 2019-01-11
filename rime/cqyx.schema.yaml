@@ -182,7 +182,6 @@ punctuator:
     ')' : { commit: ） }
     "'" : { pair: [ ‘, ’ ] }
     '"' : { pair: [ “, ” ] }
-  import_preset: _s
 
 key_binder:
     bindings:
