@@ -1,85 +1,25 @@
-¡¡¡¡±¾ÈËÈ«²¿ÒÆÖ²ÁË¡°Í¬ÎÄÐ¡º×¡±µÄÆ¤·ô¡£¾ÍÄ¿Ç°À´Ëµ£¬Ð¡º×´ó¸ÅÊÇ×îºÃ×îÃÀ¹ÛµÄÆ¤·ô¡£
-¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­
-¡¡
-¡¡¡¡Èí¼þÉú³ÉµÄÎÄ¼þÈ«²¿·Åµ½ÁËCQrimeÎÄ¼þ¼ÐÄÚ¡£´ËÎª×îÐÂ°æ±¾£¬°²×°ÐÂ°æÇëÏÈÐ¶ÔØÀÏ°æ²¢ÇÒÇå¿ÕCQrimeÎÄ¼þ¼Ð¡£
-¡¡¡¡
-¡¡¡¡´ËÈí¼þÓÚ2019Äê1ÔÂÉú³É²¢·â°ü¡£
-¡¡¡¡
+# å¦‚ä½•åœ¨[RIME]ï¼ˆhttps://rime.im/ï¼‰ä¸­ä½¿ç”¨è¶…å¼ºéŸ³å½¢è¾“å…¥æ³•
 
-¡¡¡¡¡ù¶ÔÓÚÊ¹ÓÃÕßÀ´Ëµ£¬ÏëÒªÇ××Ôdiy»òÕßËµÏëÒª³¹µ×µÄ·¢»ÓÍ¬ÎÄµÄ¹¦ÄÜ£¬ÄÇ´ËËµÃ÷¾ÍÏÔµÃ¼«ÎªÖØÒª¡£
-¡¡¡¡
+RIMEæ˜¯ä¸€ä¸ªé€šç”¨çš„è¾“å…¥æ³•å¼•æ“Žï¼Œå®ƒæ”¯æŒå‡ ä¹Žæ‰€æœ‰çš„å¸¸è§å¹³å°ï¼š
+- åœ¨Windowsä¸Šæ˜¯å°ç‹¼æ¯«
+- åœ¨MACä¸Šæ˜¯é¼ é¡»ç®¡
+- åœ¨Linuxä¸Šæ˜¯ibus-rimeæˆ–è€…fcitx-rime
+- åœ¨æ‰‹æœºå®‰å“å¹³å°ä¸Šæ˜¯åŒæ–‡è¾“å…¥æ³•
+- åœ¨IOSï¼ˆè‹¹æžœæ‰‹æœºï¼‰ä¸Šæ˜¯iRIME
 
-¡¡¡¡Âë±íÀ´×Ô×÷Õß±¾ÈË£¬¼´¸¶¶«ÉýÀÏÊ¦¡£´ËÊ±ÊÇ×îÐÂ°æ±¾¡£
-¡¡¡¡¸¶¶«ÉýÀÏÊ¦±ÏÒµÓÚÁÉÄþÖÐÒ½Ò©´óÑ§£¬ÊÇ³¬Ç¿ÏµÁÐÁ½±ÊÊäÈë·¨µÄ×÷Õß£¬¸¶ÀÏÊ¦¼á³ÖÖ»ÒªÊðÃûÈ¨£¬²»ÇóÀû¡£Ê®ÊýÄêÀ´¼«ÉÙÊýµÄ»¹ÔÚ¼á³ÖÈýÊ®¼üÁ½±ÊµÄÈËÖ®Ò»¡£
+å› ä¸ºæ˜¯ä¸€ä¸ªé€šç”¨è¾“å…¥æ³•å¼•æ“Žï¼Œæ‰€ä»¥æˆ‘ä»¬å¯ä»¥ä½¿ç”¨ä¸€ä»½é…ç½®æ¥æ”¯æŒæ‰€æœ‰è¿™äº›å¼•æ“Žã€‚
 
-¡¡¡¡Ê×ÏÈ£º³¬Ç¿ÏµÁÐÓÃv¼üÀ´Òýµ¼²¿·Ö·ûºÅµÄÊäÈë£¬ËùÒÔ²»ÐèÒªµã¿ª·ûºÅÃæ°å£¬±ÈÈç£¬Ò»¸öÊìÁ·µÄÈËµÄÊÖÀï£¬ÎÊºÅ¼üÒ»¶¨ÊÇ°´vv£¬Á½¼üÉÏÎÊºÅ·û¡£
-¡¡¡¡Æä´Î£º±¾Æ¤·ôµÄ¸ß¶ÈÊÇ¿Éµ÷½ÚµÄ£¬µ«ÊÇ¿¼ÂÇµ½´ó¶àÊýÇé¿ö£¬±¾Ö÷ÌâÌá¹©ÁË¼¸¸ö¸ß¶È°æ±¾£¬×îµÍµÄÊÇÄ¬ÈÏ°æ±¾£¬Ö÷¸ß¶ÈÎª50£¬Äã¿ÉÒÔ×Ô¼ºÕÒµ½×Ô¼ºÏ²»¶µÄ¸ß¶ÈºóÒ²¿ÉÒÔÉ¾ÁËÆäËüµÄ¡£
-¡¡¡¡ÖÁÓÚ·½°¸£¬Ñ¡¶¨Ò»¸öÖ®ºó¿ÉÒÔÈ«²¿É¾ÁËÆäËüµÄ£¬ÈçÒÔcqlb¿ªÍ·µÄÎÄ¼þ»ò´øÓÐcqlbµÄ¶¼ÊÇ³¬Ç¿Á½±ÊµÄÎÄ¼þ¡£
-¡¡¡¡Èç¹ûÉ¾³öµÄ¶«Î÷Ïë»Ö¸´£¬¿ÉÒÔÈ¥ÉèÖÃÀïÃæ»Ö¸´³ö³§ÉèÖÃ¡£
+è¿™ä¸ªæ–‡æ¡£å°±æ˜¯å¦‚ä½•åœ¨RIMEä¸­æ”¯æŒè¶…å¼ºéŸ³å½¢è¾“å…¥æ³•ã€‚
 
+## è¶…å¼ºéŸ³å½¢è¾“å…¥æ³•
+è¶…å¼ºéŸ³å½¢ã€è¶…å¼ºäºŒç¬”ã€è¶…å¼ºå¿«ç éƒ½æ˜¯ä»˜ä¸œå‡è€å¸ˆåŸºäºŽäºŒç¬”è¾“å…¥æ³•æ”¹è¿›è€Œæ¥çš„è¾“å…¥æ³•ã€‚å®ƒä»¬çš„å®˜æ–¹ç½‘ç«™[åœ¨æ­¤]ï¼ˆhttp://fds8866.ys168.com/ï¼‰ã€‚
 
-¡¡¡¡¡¾¹¦ÄÜ£¨ÖØÒª£©¡¿£º
-¡¡¡¡1¡¢i¼ü£ºÒýµ¼È«Æ´»òÕß¼òÆ´£¬²¢½øÐÐ·´²é¡£³¬Ç¿ÏµÁÐÓöµ½Ò»¸ö×Ö²»»á¶Á¿ÉÒÔÓÃÏÈ´òi¼ü´úÌæ¶ÁÒô£¬ºó¼ÓÐÎ´ò³öÀ´£¬»òÕß³¬Ç¿Á½±ÊµÄÓÃi¼üÒýµ¼Ò»¸öÈ«Æ´´ò³öÕâ¸ö×Ö¡£
-¡¡¡¡2¡¢¼üÅÌÉÏ¿É¼ûµÄ·ûºÅºÍÊý×Ö¿É³¤°´Ò²¿ÉÉÏ»¬µÃµ½¡£
-¡¡¡¡3¡¢A-M¼üÎ»ÉÏÃæ×óÓÒ»¬¶¯¡¢¿ÉÒÔÊ¹¹â±ê×óÓÒÒÆ¶¯Ò»¸öÎ»ÖÃ¡£
-¡¡¡¡4¡¢¿Õ¸ñ¼üÉÏ»¬ÊÇÒ»¸öÇ¿ÖÆËõ½ø£¬Ä¿Ç°Í¬ÎÄÆ½Ì¨ÔÚÄÚ²â£¬Î´ÎÈ¶¨¡£
-¡¡¡¡5¡¢¿Õ¸ñ¼ü×óÓÒ»¬ÊÇ¹â±êÉÏÏÂÒÆ¶¯¡£
-¡¡¡¡6¡¢shift¼ü×ó»¬ÊÇÇåÐÐ¡£
-¡¡¡¡7¡¢X³¤°´»òÉÏ»¬ÊÇ¼ôÇÐ¡£C³¤°´»òÉÏ»¬ÊÇ¸´ÖÆ£¬V³¤°´»òÉÏ»¬ÊÇÕ³Ìù¡£AÊÇÈ«Ñ¡£¬DÉÏ»¬ÊÇÈÕÆÚÏÂ»¬ÊÇÊ±¼ä¡£
-¡¡¡¡8¡¢É¾³ý¼üÉÏ»¬¹Ø±Õ¿ªÆôºòÑ¡À¸£¬×ó»¬´ò¿ª²Ëµ¥¡£²»Ï²»¶ÎåÂë£¬¿ÉÒÔ¹Ø±Õ×¢½â¹¦ÄÜ£¬²»»á×öËÄÂë°æ±¾¡£
-¡¡¡¡9¡¢¡ù¡ù¡ù¸÷¸ö·½°¸µÄÖú¼ÇÆ¤·ôµ÷ÓÃ£ºÔÚ×Ô´øµÄÈÎºÎÖ÷ÌâµÄÇé¿öÏÂ£¬µã»÷ºòÑ¡À¸¿Õ°×´¦¡£
-¡¡¡¡10¡¢²»Ï²»¶·ûºÅ¸ÉÈÅ£¬¿ÉÒÔ¹Ø±ÕÌáÊ¾¡£
+## åŠŸèƒ½
 
-¡¡¡¡¡¾½ø½×¡¿£º
-¡¡¡¡¡ù¡ù¡ù¸½´øÁË»ìÊä·½°¸£¬»ìÊäÓÃµÄÊÇÆ´ÒôÓëÁ½±ÊµÄ×îÓÅ»ìÊä·½°¸£¬Ä¿µÄÔÚÓÚÈÝ´í£¬ÔÚÓÚÊ¹ÉÏÊÖÄÑ¶È¸üµÍ¡£²¢ÇÒ¸üÎªÓÅÐã£¬´Ê¿â¾Þ´ó£¬ËÄÂë³ÉÓï¿âµÃµ½²¹È«¡£¸üÎªÁé»î¡£
-¡¡¡¡»ìÊäÎÄ¼þÈçÏÂ£º
-¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­
-cqkm.double.schema.yaml
-cqlb.double.schema.yaml
-cqyx.double.schema.yaml
-ÒÔ¼°CQrime/build/ÏÂÒ²Éú³ÉÁËÀàËÆ¾µÏñÎÄ¼þµÄÎÄ¼þ£º
-¡¡¡¡cqkm.double.schema.yaml
-¡¡¡¡cqlb.double.schema.yaml
-¡¡¡¡cqyx.double.schema.yaml
-¼°
-¡¡¡¡pyHS.prism.bin£¨»ìÊäÖ§³ÖÎÄ¼þ£©
-¡¡¡¡pyHS.table.bin£¨»ìÊäÖ§³ÖÎÄ¼þ£©
-¡¡ÎÞÐè»ìÊä¿ÉÒ»´ÎÐÔÈ«²¿É¾³ýÕâ8¸öÎÄ¼þ¡£
-¡¡¡¡Ô¼5MB
-¡¾cqyx.doubleÔÚCQrime/build/Éú³ÉÁËÀàËÆ¾µÏñÎÄ¼þµÄÎÄ¼þ£¬³¹µ×É¾³ýÊ±·½°¸Ò»¶¨ÒªÒ»²¢É¾³ý¡£¡¿
-¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­
-Í¬Àí
-CQrimeÄÚµÄcqkmÈýÎÄ¼þ¡¢cqkm.schema.yaml¼°CQrime/build/ÏÂÒ²Éú³ÉÁËÀàËÆ¾µÏñÎÄ¼þµÄÎÄ¼þ£¬Ò»²¢É¾³ý¡£È«É¾³¬Ç¿¿ìÂëÊäÈë·¨¡£
+ã€åŠŸèƒ½ï¼ˆé‡è¦ï¼‰ã€‘ï¼š
+1. ié”®ï¼šå¼•å¯¼å…¨æ‹¼æˆ–è€…ç®€æ‹¼ï¼Œå¹¶è¿›è¡ŒåæŸ¥ã€‚è¶…å¼ºç³»åˆ—é‡åˆ°ä¸€ä¸ªå­—ä¸ä¼šè¯»å¯ä»¥ç”¨å…ˆæ‰“ié”®ä»£æ›¿è¯»éŸ³ï¼ŒåŽåŠ å½¢æ‰“å‡ºæ¥ï¼Œæˆ–è€…è¶…å¼ºä¸¤ç¬”çš„ç”¨ié”®å¼•å¯¼ä¸€ä¸ªå…¨æ‹¼æ‰“å‡ºè¿™ä¸ªå­—ã€‚
+2. vé”®æ¥å¼•å¯¼éƒ¨åˆ†ç¬¦å·çš„è¾“å…¥ï¼Œæ‰€ä»¥ä¸éœ€è¦ç‚¹å¼€ç¬¦å·é¢æ¿ï¼Œæ¯”å¦‚ï¼Œä¸€ä¸ªç†Ÿç»ƒçš„äººçš„æ‰‹é‡Œï¼Œé—®å·é”®ä¸€å®šæ˜¯æŒ‰vvï¼Œä¸¤é”®ä¸Šé—®å·ç¬¦ã€‚
+3. é™„å¸¦äº†æ··è¾“æ–¹æ¡ˆï¼Œæ··è¾“ç”¨çš„æ˜¯æ‹¼éŸ³ä¸Žä¸¤ç¬”çš„æœ€ä¼˜æ··è¾“æ–¹æ¡ˆï¼Œç›®çš„åœ¨äºŽå®¹é”™ï¼Œåœ¨äºŽä½¿ä¸Šæ‰‹éš¾åº¦æ›´ä½Žã€‚å¹¶ä¸”æ›´ä¸ºä¼˜ç§€ï¼Œè¯åº“å·¨å¤§ï¼Œå››ç æˆè¯­åº“å¾—åˆ°è¡¥å…¨ã€‚æ›´ä¸ºçµæ´»ã€‚
 
-CQrimeÄÚcqlbÈýÎÄ¼þ¡¢cqlb.schema.yaml¼°CQrime/build/ÏÂÒ²Éú³ÉÁËÀàËÆ¾µÏñÎÄ¼þµÄÎÄ¼þ£¬Ò»²¢É¾³ý¡£È«É¾³¬Ç¿Á½±ÊÊäÈë·¨¡£
-
-CQrimeÄÚcqyxÈýÎÄ¼þ¡¢cqyx.schema.yaml¼°CQrime/build/ÏÂÒ²Éú³ÉÁËÀàËÆ¾µÏñÎÄ¼þµÄÎÄ¼þ£¬Ò»²¢É¾³ý¡£È«É¾³¬Ç¿ÒôÐÎÊäÈë·¨¡£
-
-¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­
-¡ù¡ù·´²éÎÄ¼þÔÚCQrime/build/ÏÂ
-¡¡¡¡iFC.prism.bin
-¡¡¡¡iFC.table.bin
-¡¡¡¡´Ë¶þÕß²»¿ÉÉ¾³ý£¬ÊÇ·´²éÖ§³ÖÎÄ¼þ¡£¹²5.01MB
-¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­
-¡¡¡¡¡ù¡¾ÓÃ»§×ÔÐÐ¼Ó´Ê´¦¡¿£ºCQrime/_UserÎÄ¼þ¼ÐÄÚ¡££¨µÚÒ»¸öÎÄ¼þ¼Ð£©
-¡¡¡¡
-
-
-¡¡¡¡×¢ÒâÊÂÏî£¨¿ÉÂÔ¹ý£©£ºÈç¹ûÔÚÓÐµÄ¼üÅÌÉÏ£¬ºòÑ¡À¸µÄ¡¾ÏÂ½µ¼üÅÌ°´Å¥¡¿¿ÉÄÜ»á±»ÒÆ¶¯µ½ÖÐ²¿¡¢ÉõÖÁÊÇ¿´²»¼ûµÄÆÁÄ»Íâ£¬»áÅÜµ½ÊÓÒ°ÍâÃæÈ¥£¬¿ÉÒÔÔÚCQrimeÎÄ¼þ¼ÐÄÚµÄÏàÓ¦µÄ.schema.yamlÀïÃæµÄµ÷½Ú¡£
-¡¡¡¡cqyx.schema.yamlÊÇ³¬Ç¿ÒôÐÎ
-¡¡¡¡cqkm.schema.yamlÊÇ³¬Ç¿¿ìÂë
-¡¡¡¡cqlb.schema.yamlÊÇ³¬Ç¿Á½±Ê
-¡¡¡¡ÇëÇ¿ÖÆÒÔÎÄ±¾·½Ê½£¬¼´¿É´ò¿ª¡£
-
-¡¡¡¡É¾³ý»òÔö¼ÓstatesÏÂ´Ë·ûºÅ¿Õ¸ñ´¦£º
-¡¡¡¡¡¾¡¡¡¡¦å¡¿
-É¾³ý»òÔö¼ÓÉÏÃæ¿Õ°×Ê±£¬Ò»¶¨Òª½ôÌù¡°¦å¡±·ûÔö¼õ¡£
-Ôö¼õÒ»Á½¸ö³¤¿ÕÐÐÖÐµÄÒ»ÖÁÁ½¸ö¿Õ¸ñ¼´¿É¡£Àý£º
-- options: [ _key_Hide]
-  states: [ ¡¡¡¡¡¡¡¡¡¡¦å]
-¡¡¡¡£¨¦å·û×óÒÆ£©
-- options: [ _key_Hide]
-  states: [ ¡¡¦å]
-¡¡¡¡£¨¦å·ûÓÒÒÆ£©
-- options: [ _key_Hide]
-  states: [ ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¦å]
+## æ„Ÿè°¢
+æœ¬é…ç½®ä¸»è¦æ˜¯åŸºäºŽ*æŒ¥æ³ªå®¡åˆ¤è€…* åœ¨åŒæ–‡è¾“å…¥æ³•ä¸Šçš„å·¥ä½œæ”¹è¿›è€Œæˆçš„ã€‚
