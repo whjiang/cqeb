@@ -1,10 +1,11 @@
 ---
-name: cqyx
+name: cqyx_pinyin
 version: "1.0"
 sort: original
 import_tables:
   - cqyx_basic  #超强音形码表
   - iFC #反查码表
+  - pyHS #拼音混输码表
 columns:
   - text
   - code
