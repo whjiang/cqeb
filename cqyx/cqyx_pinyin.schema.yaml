@@ -7,10 +7,11 @@ schema:
   version: "5.1"
   author:
     - 超强音形制作人：付东升
-  description: |
-    码表：当前即2018年11月封包时为最新版本
-#  dependencies:
-#    - pinyin_simp
+  description:
+    超强音形混输。
+  dependencies:
+    - pyHS
+    - iFC
 
 menu:
   page_size: 8 #候选项数，超强用了eiouv选重，即最高共六重码，所以本方案最低建议采用固定六候选的方式
@@ -44,6 +45,8 @@ engine:
     - table_translator
     - table_translator@custom_userdict
     - table_translator@custom_movetop
+    - table_translator@pinyin_hunshu
+    - table_translator@ihunshu
 
   filters:
     - reverse_lookup_filter@i_reverse_lookup
@@ -53,7 +56,7 @@ engine:
 
 custom_movetop:
   dictionary: ""
-  user_dict: cqyx_movetop
+  user_dict: cqyx_user_movetop
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
@@ -80,13 +83,31 @@ simplifier:
   opencc_config:  s2t.json
 
 translator:
-  dictionary: cqyx_pinyin
+  dictionary: cqyx
   enable_charset_filter: false
   enable_completion: true
   enable_sentence: false
   enable_encoder: true
   encode_commit_history: true
   max_phrase_length: 4
+  enable_user_dict: false
+
+pinyin_hunshu:
+  dictionary: pyHS
+  user_dict: ""
+  db_class: stabledb
+  enable_completion: true
+  enable_sentence: false
+  enable_user_dict: false
+  initial_quality: -10
+
+ihunshu:
+  dictionary: iFC
+  user_dict: ""
+  db_class: stabledb
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0
   enable_user_dict: false
 
 #reverse_lookup:
@@ -111,6 +132,8 @@ punctuator:
 
 key_binder:
   import_preset: default
+  bindings:
+    - {accept: "Shift+space", toggle: noop, when: always}
 
 recognizer:
   import_preset: default
@@ -123,7 +146,7 @@ recognizer:
 
 KING:
   tags: [ King ]
-  dictionary: cqyx_pinyin
+  dictionary: cqyx
   overwrite_comment: false # 覆盖其他提提示
   comment_format: &comment
     - xform/ /\ |\ / #分隔，与【xform/ / | /】等同
@@ -132,7 +155,7 @@ KING:
 
 i_reverse_lookup:
   tags: [ i_reverse_lookup_pattern ]
-  dictionary: cqyx_pinyin
+  dictionary: cqyx
   overwrite_comment: false # 覆盖其他提示
   comment_format: &comment
     - xform/ /\ |\ /
