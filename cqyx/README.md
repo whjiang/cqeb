@@ -35,3 +35,16 @@ patch:
     - {schema: cqyx} #超强音形
     - {schema: cqyx_pinyin}  #超强音形拼音混输
 ```
+
+然后，在RIME菜单中选择“同步用户数据”和“重新部署”。就可以使用了。
+
+
+### 如何在手机（安卓/苹果）上使用
+安卓上请使用同文输入法，IOS上请使用iRIME输入法。因作者只有IOS手机，所以只测试了iRIME。
+
+因为iRIME没有编译bin文件的功能，所以必须先用上面的安装方法在电脑上安装一遍，生成出
+- cqyx.*.bin
+- iFC.*.bin
+- pyHS.*.bin
+
+把这些文件连同cqyx.schema.yaml、cqyx_pinyin.schema.yaml一起传到手机上（通过iRIME的“电脑快传”功能）。再像上面一样修改iRIME的`default.custom.yaml`就可以了。
