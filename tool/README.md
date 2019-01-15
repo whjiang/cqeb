@@ -1,4 +1,4 @@
-#如何生成iFC.dict.yaml和pyHS.dict.yaml
+# 如何生成iFC.dict.yaml和pyHS.dict.yaml
 
 iFC.dict.yaml是i键+拼音（或者简拼）的码表文件。
 pyHS.dict.yaml是拼音混输的码表文件。
