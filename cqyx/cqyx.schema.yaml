@@ -118,6 +118,10 @@ ihunshu:
 
 punctuator:
   import_preset: default
+  full_shape:
+    "/" : "、"
+  half_shape:
+    "/" : "、"
 
 key_binder:
   import_preset: default
