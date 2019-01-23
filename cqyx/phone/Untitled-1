@@ -1,0 +1,47 @@
+patch:
+  "preset_keyboards/key17":  #布局ID
+    author: "jwh"
+    name: "17音形"
+    ascii_mode: 1 #默认进入英文状态
+    height: 44   #每行高度
+    width: 11   #按键默认宽度
+    keys:   #按键排列
+      # 第一行
+      - {click: "#", long_click: cut}  
+      - {click: "%", long_click: copy}  
+      - {click: "@", long_click: paste}  
+      - {click: "+", width: 13}  
+      - {click: 7, width: 18}  
+      - {click: 8, width: 18}  
+      - {click: 9, width: 18}  
+      # 第二行  
+      - {click: Page_Up}  
+      - {click: Up}  
+      - {click: Page_Down}  
+      - {click: "-", width: 13}  
+      - {click: 4, width: 18}  
+      - {click: 5, width: 18}  
+      - {click: 6, width: 18}  
+      # 第三行  
+      - {click: Left}  
+      - {click: Tab}  
+      - {click: Right}  
+      - {click: "×", width: 13}  
+      - {click: 1, width: 18}  
+      - {click: 2, width: 18}  
+      - {click: 3, width: 18}  
+      # 第四行  
+      - {click: Home}  
+      - {click: Down}  
+      - {click: End}  
+      - {click: "÷", width: 13}  
+      - {click: ",", width: 18}  
+      - {click: 0, width: 18}  
+      - {click: BackSpace, width: 18}  
+      # 第五行  
+      - {click: Keyboard_default, long_click: Menu, width: 18}  
+      - {click: "±", width: 14.9} #如果上下的按键没有严格对齐，可以微调宽度  
+      - {click: "=", width: 13}  
+      - {click: space, width: 18}  
+      - {click: ., width: 18}  
+      - {click: Return, width: 18}  
