@@ -91,6 +91,8 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
+    - {accept: semicolon, send: 2, when: has_menu} #分號選第二重碼
+    - {accept: apostrophe, send: 3, when: has_menu} #引號選第三重碼
     - {accept: "Shift+space", toggle: noop, when: always}
 
 recognizer:
