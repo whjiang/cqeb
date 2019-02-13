@@ -1,0 +1,159 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: cqlb
+  name: "超强两笔"
+  version: "5.1"
+  author:
+    - 超强两笔制作人：付东升
+  description:
+    超强两笔
+  dependencies:
+    - iFC
+
+menu:
+  page_size: 8 #候选项数，超强用了eiouv选重，即最高共六重码，所以本方案最低建议采用固定六候选的方式
+
+switches: # 可在状态栏上显示的内容，去掉下面的"#"号可开启
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    #:w- reverse_lookup_translator
+    - table_translator
+    - table_translator@custom_userdict
+    - table_translator@custom_movetop
+    - table_translator@ihunshu
+
+  filters:
+    - reverse_lookup_filter@i_reverse_lookup
+    - reverse_lookup_filter@KING
+    - simplifier
+    - uniquifier
+
+custom_movetop:
+  dictionary: ""
+  user_dict: cqlb_user_movetop
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 2
+
+custom_userdict:
+  dictionary: ""
+  user_dict: cqlb_userdict
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: -1
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyz;,./'
+  initials: 'abcdefghijklmnopqrstuvwxyz'
+  auto_clear: auto #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
+  auto_select: true
+  #max_code_length: 4
+  #auto_select_pattern: '^.{2,4}$'
+
+simplifier:
+  option_name: traditional
+  opencc_config:  s2t.json
+
+translator:
+  dictionary: cqlb
+  enable_charset_filter: false
+  enable_completion: true
+  enable_sentence: false
+  enable_encoder: true
+  encode_commit_history: true
+  max_phrase_length: 4
+  enable_user_dict: false
+
+ihunshu:
+  dictionary: iFC
+  user_dict: ""
+  db_class: stabledb
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0
+  enable_user_dict: false
+
+#reverse_lookup:
+#  dictionary: pinyin_simp
+#  prefix: "`"
+#  suffix: "'"
+#  #tips: 〔反查〕
+#  preedit_format:
+#    - xform/([nl])v/$1ü/
+#    - xform/([nl])ue/$1üe/
+#    - xform/([jqxy])v/$1u/
+#  comment_format:
+#    - xform/ /\ |\ /
+#    - xform/$/ 〕/
+#    - xform/^/〔 /
+#    - xform/\ i.+?\ \|//
+#    - xform/\|\ i.+?\ 〕/\ 〕/
+#    - xform/(\ [^i]\S{3}).\ /$1\ /
+
+punctuator:
+  import_preset: default
+  full_shape:
+    "/" : "、"
+  half_shape:
+    "/" : "、"
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {accept: "Shift+space", toggle: noop, when: always}
+
+recognizer:
+  import_preset: default
+  patterns:
+    #reverse_lookup: "^`[a-z]*'?$"
+    i_reverse_lookup_pattern: "^i[a-z;,./]+$"
+    King: "^.....[a-z]+'?$" #此处从五码开始注形
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$' #这个地方是调用symbols文件夹的两个必要设置之二
+
+KING:
+  tags: [ King ]
+  dictionary: cqlb
+  overwrite_comment: false # 覆盖其他提提示
+  comment_format: &comment
+    - xform/ /\ |\ / #分隔，与【xform/ / | /】等同
+    - xform/$/〕/ #括号外注
+    - xform/^/〔/ #括号外注
+
+i_reverse_lookup:
+  tags: [ i_reverse_lookup_pattern ]
+  dictionary: cqlb
+  overwrite_comment: false # 覆盖其他提示
+  comment_format: &comment
+    - xform/ /\ |\ /
+    - xform/$/ 〕/
+    - xform/^/〔 /
+    #- xform/([nl])v/$1ü/
+    #- xform/([nl])ue/$1üe/
+    #- xform/([jqxy])v/$1u/
