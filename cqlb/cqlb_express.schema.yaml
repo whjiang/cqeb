@@ -2,13 +2,14 @@
 # encoding: utf-8
 
 schema:
-  schema_id: cqlb
-  name: "超强两笔"
+  schema_id: cqlb_express
+  name: "超强两笔·连打"
   version: "5.1"
   author:
     - 超强两笔制作人：付东升
   description:
-    超强两笔
+    超强两笔·连打录入
+    以单引号、数字零或冒号分詞，空格上屏。
   dependencies:
     - iFC
 
@@ -75,10 +76,11 @@ custom_userdict:
 speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyz;,./'
   initials: 'abcdefghijklmnopqrstuvwxyz'
-  auto_clear: auto #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
-  auto_select: true
+  delimiter: " ':0"
+  #auto_clear: auto #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
+  #auto_select: true
   #max_code_length: 4
-  #auto_select_pattern: '^.{2,4}$'
+  #auto_select_pattern: '^[;,]'
 
 simplifier:
   option_name: traditional
@@ -86,13 +88,17 @@ simplifier:
 
 translator:
   dictionary: cqlb
-  enable_charset_filter: false
-  enable_completion: true
-  enable_sentence: false
+  enable_charset_filter: true
   enable_encoder: true
+  enable_sentence: true
   encode_commit_history: true
+  enable_completion: true
   max_phrase_length: 4
   enable_user_dict: false
+  disable_user_dict_for_patterns:
+    - "^i.*$"
+    - "^u.*$"
+    - "^v.*$"
 
 ihunshu:
   dictionary: iFC
