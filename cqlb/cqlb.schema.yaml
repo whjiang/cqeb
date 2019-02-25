@@ -21,6 +21,10 @@ switches: # 可在状态栏上显示的内容，去掉下面的"#"号可开启
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: traditional
+    states: [ 汉字, 漢字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:
