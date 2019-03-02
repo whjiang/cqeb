@@ -7,7 +7,10 @@ columns:
   - code
   - weight
   - stem
+use_preset_vocabulary: true #使用RIME内置词库（八股文）
 encoder:
+  exclude_patterns:
+    - '^i.*$'
   rules:
     - length_equal: 2
       formula: "AaAbBaBb"
@@ -15,6 +18,8 @@ encoder:
       formula: "AaAbBaCa"
     - length_in_range: [4, 10]
       formula: "AaBaCaZa"
+import_tables:
+  - cqkm_user
 ...
 安	a
 艾	aa

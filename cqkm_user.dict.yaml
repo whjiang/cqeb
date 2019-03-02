@@ -1,0 +1,12 @@
+---
+name: cqkm_user
+sort: original 
+version: "1.0"
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+可以	kmyx
+
