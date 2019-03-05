@@ -7,7 +7,7 @@ columns:
   - code
   - weight
   - stem
-use_preset_vocabulary: true #使用RIME内置词库（八股文）
+use_preset_vocabulary: false #使用RIME内置词库（八股文）
 encoder:
   exclude_patterns:
     - '^i.*$'
