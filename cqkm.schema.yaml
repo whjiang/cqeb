@@ -45,6 +45,7 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
+    - table_translator@custom_userdict
 
 speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyz'
@@ -64,6 +65,14 @@ translator:
   encode_commit_history: true
   enable_user_dict: false
   max_phrase_length: 4
+
+custom_userdict:
+  dictionary: ""
+  user_dict: cqkm_userdict
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: -1
 
 #拼音反查和混输
 reverse_lookup:

@@ -18,8 +18,8 @@ encoder:
       formula: "AaAbBaCa"
     - length_in_range: [4, 10]
       formula: "AaBaCaZa"
-import_tables:
-  - cqkm_user
+#import_tables:
+#  - cqkm_user
 ...
 安	a
 艾	aa
