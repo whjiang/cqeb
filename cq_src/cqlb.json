@@ -1,0 +1,9 @@
+{
+    "schema_id": "cqlb",
+    "name": "超强两笔",
+    "version": "1.0",
+    "author": "付东升",
+    "description": "超强两笔。按`键临时拼音或者用拼音反查编码",
+    "alphabet": "abcdefghijklmnopqrstuvwxyz;,./",
+    "key26": false
+}

@@ -44,10 +44,10 @@ Windows上用家可以通過 小狼毫 0.11 以上「輸入法設定／獲取更
 ### 安装超强系列
 在Linux、MAC上使用以下命令安装：
 ```
-bash rime-install whjiang/cqeb_rime
+bash rime-install pinyin-simp whjiang/cqeb_rime
 ```
 
-其中, `bash rime-install`是[東風破](https://github.com/rime/plum) 的命令。在Windows上，请替换为相应的命令（例如：`rime-install.bat`）。`pinyin-simp`和`whjiang/zzdyx_rime`是我们要通过[東風破](https://github.com/rime/plum) 安装的两个输入法名字。
+其中, `bash rime-install`是[東風破](https://github.com/rime/plum) 的命令。在Windows上，请替换为相应的命令（例如：`rime-install.bat`）。`pinyin-simp`和`whjiang/cqeb_rime`是我们要通过[東風破](https://github.com/rime/plum) 安装的两个输入法名字。
 
 ### 修改Rime的配置增加超强系列选项
 然后在`~/Library/Rime`创建一个`default.custom.yaml`文件。文件内容如下：
@@ -55,11 +55,6 @@ bash rime-install whjiang/cqeb_rime
 patch:
   schema_list:
     - {schema: cqlb} #超强二笔
-    - {schema: cqlb_pinyin} #超强二笔、拼音混输
-    - {schema: cqlb_express} #超强二笔、连打
-    - {schema: cqlb_fluency} #超强二笔、语句流
     - {schema: cqkm} #超强快码
-    - {schema: cqkm_pinyin} #超强快码、拼音混输
     - {schema: cqyx} #超强音形
-    - {schema: cqyx_pinyin} #超强音形、拼音混输
 ```

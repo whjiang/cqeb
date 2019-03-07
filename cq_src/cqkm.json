@@ -3,7 +3,7 @@
     "name": "超强快码",
     "version": "1.0",
     "author": "付东升",
-    "description": "超强快码。\n按`键临时拼音或者用拼音反查编码",
+    "description": "超强快码。按`键临时拼音或者用拼音反查编码",
     "alphabet": "abcdefghijklmnopqrstuvwxyz",
     "key26": true
 }

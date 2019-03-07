@@ -23,6 +23,8 @@ switches:
     states: [ 半角, 全角 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+  - name: traditional
+    states: [ 汉字, 漢字 ]
 
 engine:
   processors:
@@ -54,7 +56,7 @@ speller:
   {{/key26}}
   #auto_clear: auto #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
   auto_select: true 
-  #max_code_length: 4  # 四碼頂字上屏
+  #max_code_length: 4  # 4码顶字上屏
 
 translator:
   dictionary: {{schema_id}}
@@ -96,8 +98,8 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - {accept: semicolon, send: 2, when: has_menu} #分號選第二重碼
-    - {accept: apostrophe, send: 3, when: has_menu} #引號選第三重碼
+    - {accept: semicolon, send: 2, when: has_menu} #分号选第2重码
+    - {accept: apostrophe, send: 3, when: has_menu} #引号选第3重码
     - {accept: "Shift+space", toggle: noop, when: always}
 
 recognizer:
