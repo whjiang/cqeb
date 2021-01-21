@@ -51,7 +51,7 @@ engine:
 speller:
   alphabet: 'abcdefghijklmnopqrstuvwxyz;,./'
   initials: 'abcdefghijklmnopqrstuvwxyz'
-  #auto_clear: auto #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
+  auto_clear: max_length #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
   auto_select: true 
   #max_code_length: 4  # 4码顶字上屏
 
@@ -100,4 +100,6 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "i[a-z]*'?$"
+    reverse_lookup: "^i[a-z][a-z]+$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$"
+    xxx: "^[^v][a-z]{2}$"

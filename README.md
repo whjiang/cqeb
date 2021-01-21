@@ -88,7 +88,15 @@ bash rime-install pinyin-simp whjiang/cqeb
 其中, `bash rime-install`是[東風破](https://github.com/rime/plum) 的命令。在Windows上，请替换为相应的命令（例如：`rime-install.bat`）。`pinyin-simp`和`whjiang/cqeb`是我们要通过[東風破](https://github.com/rime/plum) 安装的两个输入法名字。
 
 ### 修改Rime的配置增加超强系列选项
-然后在`~/Library/Rime`创建一个`default.custom.yaml`文件。文件内容如下：
+然后创建一个`default.custom.yaml`文件。该文件的位置为：
+- MAC `~/Library/Rime`
+- Linux
+  - fcitx   `~/.config/fcitx/rime`
+  - ibus    `~/.config/ibus/rime`
+  - fcitx5  `~/.local/share/fcitx5/rime`
+- Windows 应该可以通过界面选择，所以不需要创建此文件（本人无Windows，所以无法验证）
+
+文件内容如下：
 ```yaml
 patch:
   schema_list:

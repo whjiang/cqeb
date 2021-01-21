@@ -103,4 +103,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "i[a-z]*'?$"
+    reverse_lookup: "^i.[a-z]+$"
