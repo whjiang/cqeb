@@ -99,8 +99,9 @@ bash rime-install pinyin-simp whjiang/cqeb
 ```yaml
 patch:
   schema_list:
-    - {schema: cqlb} #超强二笔
     - {schema: cqkm} #超强快码
+    - {schema: cqkm_cm} #超强快码(重码版)，重码版相比无重码版并没有增加更多的词，仅是调整了编码方式
+    - {schema: cqlb} #超强二笔
     - {schema: cqyx} #超强音形
 ```
 

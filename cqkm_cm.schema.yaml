@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: cqkm
-  name: "超强快码"
+  schema_id: cqkm_cm
+  name: "超强快码重码"
   version: "1.0"
   author:
     - 付东升
@@ -25,7 +25,6 @@ switches:
     states: [ 。，, ．， ]
   - name: traditional
     states: [ 汉字, 漢字 ]
-
 
 engine:
   processors:
@@ -58,8 +57,8 @@ speller:
   #max_code_length: 4  # 4码顶字上屏
 
 translator:
-  dictionary: cqkm
-  prism: cqkm
+  dictionary: cqkm_cm
+  prism: cqkm_cm
   enable_charset_filter: true
   enable_encoder: false
   enable_completion: true
