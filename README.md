@@ -104,15 +104,3 @@ patch:
     - {schema: cqlb} #超强二笔
     - {schema: cqyx} #超强音形
 ```
-
-# 修正逗号和句号变为翻页键问题
-## 问题描述
-输入`y.`，希望输入`一。`，但实际会变成翻页键，不能自动上屏。
-
-## 修复方法
-用本项目里的`key_bindings.yaml`替换Rime自带的文件 （linux/MAC需要sudo权限）。
-
-具体替换方法：
-- MAC: `sudo cp  key_bindings.yaml /Library/Input\ Methods/Squirrel.app/Contents/SharedSupport/key_bindings.yaml`
-- Linux: `sudo cp key_bindings.yaml /usr/share/rime-data/`
-- Windows: 在安装目录/data文件夹下，找到相应文件进行替换。

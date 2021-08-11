@@ -96,6 +96,8 @@ key_binder:
   import_preset: default
   bindings:
     - {accept: "Shift+space", toggle: noop, when: always}
+    - { when: paging, accept: comma, send: comma } #逗号顶屏
+    - { when: has_menu, accept: period, send: period } #句号顶屏
 
 recognizer:
   import_preset: default
