@@ -31,8 +31,8 @@ paging_with_minus_equal:
 
 paging_with_comma_period:
   __append:
-    #- { when: paging, accept: comma, send: Page_Up }
-    #- { when: has_menu, accept: period, send: Page_Down }
+    - { when: paging, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }
 
 paging_with_brackets:
   __append:
