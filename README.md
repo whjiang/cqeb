@@ -63,6 +63,8 @@ Win怎样在RIME小狼毫输入法平台上使用超强系列两笔输入法？
 谢谢使用！
 
 # Mac/Linux安装方法
+## 步骤1: 安装输入方案
+### 方案1
 安装步骤：
 1. 安装 [東風破](https://github.com/rime/plum) 。
 2. 使用 [東風破](https://github.com/rime/plum) 安装超强系列。
@@ -87,6 +89,24 @@ bash rime-install pinyin-simp whjiang/cqeb
 
 其中, `bash rime-install`是[東風破](https://github.com/rime/plum) 的命令。在Windows上，请替换为相应的命令（例如：`rime-install.bat`）。`pinyin-simp`和`whjiang/cqeb`是我们要通过[東風破](https://github.com/rime/plum) 安装的两个输入法名字。
 
+### 方案2
+把目录下的所有文件拷贝到`~/Library/Rime`, 然后在鼠须管里，选择“重新部署”即可。
+
+## 步骤2: 配置RIME字体 (可选)
+
+1. 双击`cqkmcf.otf` 来安装字体（不安装的话，正常输入没有问题，就是不能进行笔画显示）。
+
+2. 修改MAC的`~/Library/Rime/squirrel.custom.yaml` 文件，增加如下内容：
+```yaml
+patch:
+  style/font_face: "cqkmcf"
+```
+让鼠须管里用cqkmcf作为字体来显示笔画。
+
+然后在鼠须管里，选择“重新部署”即可。
+ 
+可以用`ctrl-```打开鼠须管的选单，在`中/隐/亚/半`菜单里把`隐`改成`显`。这样，候选的第一个字会自动显示字是怎么分解的。对于学习快码非常有帮助。
+ 
 ### 修改Rime的配置增加超强系列选项
 然后创建一个`default.custom.yaml`文件。该文件的位置为：
 - MAC `~/Library/Rime`
