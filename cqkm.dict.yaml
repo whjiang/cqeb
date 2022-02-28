@@ -1,4 +1,4 @@
-﻿#超强快码输入法8.0.3版[220215版]无重码版
+﻿#超强快码输入法8.0.3版[210215版]无重码版
 #用户许可协议：
 #1.付东升拥有超强两笔输入法全分阴阳规则的著作权。
 #2.本码表受著作权保护，只限您私人使用，不得修改和发布。
@@ -6447,10 +6447,10 @@ columns:
 臂章	bvzu	1
 臂展	bvzv	1
 八	bw	1	bwww
-⑧	bw	1
-Ⅷ	bw	1
-⁸	bw	1
-₈	bw	1
+⑧	bw	1	
+Ⅷ	bw	1	
+⁸	bw	1	
+₈	bw	1	
 半文半白	bwbb	1
 颁布	bwbh	1
 不温不火	bwbhe	1
@@ -13071,7 +13071,7 @@ columns:
 多党合作	ddhz	1
 眈	ddi	1	ddic
 眈	ddic	1	ddic
-帱	ddj	1	cdjm
+帱	ddj	1	ddjm
 盯紧	ddja	1
 奠定基础	ddjc	1
 大大降低	ddjd	1
@@ -13082,7 +13082,7 @@ columns:
 电击	ddjj	1
 党的纪律	ddjl	1
 电教	ddjm	1
-帱	ddjme	1	cdjm
+帱	ddjme	1	ddjm
 电教片	ddjp	1
 大大加强	ddjq	1
 典籍	ddjr	1
@@ -13782,7 +13782,7 @@ columns:
 毒副作用	dfzy	1
 点着	dfzye	1
 大费周章	dfzz	1
-呆	dg	1	agff
+呆	dg	1	dgff
 嗒	dga	1	dgah
 定国安邦	dgab	1
 嗒	dgah	1	dgah
@@ -13821,9 +13821,9 @@ columns:
 跺	dgefe	1	dgef
 咚	dgeo	1	dgeo
 啗	dgeq	1	dgeq
-呆	dgf	1	agff
+呆	dgf	1	dgff
 跌幅	dgfd	1
-呆	dgff	1	agff
+呆	dgff	1	dgff
 吊放	dgfu	1
 大功告成	dggc	1
 吊杆	dggf	1
@@ -13947,13 +13947,13 @@ columns:
 喋血	dgxq	1
 多管闲事	dgxs	1
 倒戈相向	dgxx	1
-蹲	dgy	1	cgym
+蹲	dgy	1	dgym
 道高一尺	dgyc	1
 叮咬	dgyg	1
 吊唁	dgyge	1
 登高一呼	dgyh	1
 吊运	dgyj	1
-蹲	dgym	1	cgym
+蹲	dgym	1	dgym
 登高远眺	dgyt	1
 啖	dgyy	1	dgyy
 道高一丈	dgyz	1
@@ -14684,7 +14684,7 @@ columns:
 调	die	1	diel
 诋	diei	1	diei
 调	diel	1	diel
-襜	dieu	1	cieu
+襜	dieu	1	dieu
 祋	diex	1	diex
 扂	dif	1	difg
 待发	difb	1
@@ -14948,7 +14948,7 @@ columns:
 钝	djkc	1	djkc
 动口	djkg	1
 等级考试	djks	1
-铛	djkv	1	cjkv
+铛	djkv	1	djkv
 靛蓝	djla	1
 动力	djlb	1
 当机立断	djld	1
@@ -15444,7 +15444,7 @@ columns:
 地道战	dldz	1
 垛	dle	1	dlef
 垛	dlef	1	dlef
-坻	dlei	1	clei
+坻	dlei	1	dlei
 夺路而逃	dlet	1
 坫	dlf	1	dlfg
 地方病	dlfb	1
@@ -16696,9 +16696,9 @@ columns:
 打扫卫生	dsws	1
 淡忘	dswu	1
 多说无益	dswy	1
-澄	dsx	1	csxk
+澄	dsx	1	dsxk
 大声喧哗	dsxh	1
-澄	dsxk	1	csxk
+澄	dsxk	1	dsxk
 滴下	dsxm	1
 洞穴	dsxo	1
 东施效颦	dsxp	1
@@ -17664,10 +17664,10 @@ columns:
 断炊	dycy	1
 第一产业	dycye	1
 电源插座	dycz	1
-单	dyd	1	cydd
+单	dyd	1	dydd
 大摇大摆	dydb	1
 断电	dydd	1
-单	dydde	1	cydd
+单	dydde	1	dydd
 单独	dyde	1
 断档	dydf	1
 断代	dydh	1
@@ -17705,7 +17705,7 @@ columns:
 第一反应	dyfy	1
 打预防针	dyfz	1
 兑	dyg	1	dyge
-☱	dyg	1
+☱	dyg	1	dyg
 党员干部	dygb	1
 递给	dygc	1
 党要管党	dygd	1
@@ -18347,10 +18347,10 @@ columns:
 诶	eixr	1	eixr
 讹诈	eizi	1
 二	ej	1	ejjj
-②	ej	1
-Ⅱ	ej	1
-²	ej	1
-₂	ej	1
+②	ej	1	
+Ⅱ	ej	1	
+²	ej	1	
+₂	ej	1	
 二百	ejbh	1
 二班	ejbj	1
 二八开	ejbk	1
@@ -18646,8 +18646,8 @@ columns:
 陑	enh	1	enhd
 陑	enhd	1	enhd
 阿胶	enjc	1
-阿	enm	1	anmg
-阿	enmg	1	anmg
+阿	enm	1	enmg
+阿	enmg	1	enmg
 阿房宫	enpg	1
 儿女情长	enqc	1
 儿女亲家	enqj	1
@@ -18883,7 +18883,7 @@ columns:
 芬	faw	1	fawb
 芬	fawb	1	fawb
 范围	fawd	1
-蕃	fawde	1	bawd
+蕃	fawde	1	fawd
 藩王	fawj	1
 范围内	fawn	1
 莩	fawne	1	fawn
@@ -19587,8 +19587,8 @@ columns:
 贩	fdt	1	fdtx
 畈	fdtx	1	fdtx
 贩	fdtxe	1	fdtx
-蚄	fdu	1	bdue
-蚄	fdue	1	bdue
+蚄	fdu	1	fdue
+蚄	fdue	1	fdue
 幡	fdw	1	fdwd
 幡	fdwd	1	fdwd
 蜂王	fdwj	1
@@ -20498,8 +20498,8 @@ columns:
 钫	fjue	1	fjue
 镄	fjv	1	fjvd
 镄	fjvd	1	fjvd
-玢	fjw	1	bjwb
-玢	fjwb	1	bjwb
+玢	fjw	1	fjwb
+玢	fjwb	1	fjwb
 封建王朝	fjwc	1
 璠	fjwd	1	fjwd
 琈	fjwn	1	fjwn
@@ -21876,8 +21876,8 @@ columns:
 扶梯	futf	1
 废铁	futj	1
 方糖	futy	1
-拂	fuv	1	buvd
-拂	fuvd	1	buvd
+拂	fuv	1	fuvd
+拂	fuvd	1	fuvd
 方位词	fuwc	1
 放网	fuwd	1
 扶危	fuwe	1
@@ -26560,7 +26560,7 @@ columns:
 改行	gvhi	1
 改换	gvhu	1
 艮	gvi	1	gvii
-☶	gvi	1
+☶	gvi	1	gvi
 夬	gvii	1	gvii
 艮	gviie	1	gvii
 改嫁	gvjb	1
@@ -27731,7 +27731,7 @@ columns:
 好找	hbzu	1
 好主意	hbzy	1
 贺知章	hbzz	1
-红	hc	1	gcmk
+红	hc	1	hcmk
 红安	hcao	1
 厚此薄彼	hcbb	1
 红包	hcbe	1
@@ -27821,12 +27821,12 @@ columns:
 红楼梦	hclm	1
 红利	hclr	1
 好吃懒做	hclz	1
-红	hcm	1	gcmk
+红	hcm	1	hcmk
 缓脉	hcmc	1
 红梅	hcmf	1
 红玫瑰	hcmg	1
 幻灭	hcmk	1
-红	hcmke	1	gcmk
+红	hcmke	1	hcmk
 缓慢	hcmo	1
 红霉素	hcms	1
 红娘	hcnb	1
@@ -27845,8 +27845,8 @@ columns:
 红旗渠	hcqq	1
 红旗手	hcqs	1
 红旗	hcqu	1
-纥	hcr	1	gcrc
-纥	hcrc	1	gcrc
+纥	hcr	1	hcrc
+纥	hcrc	1	hcrc
 骇然	hcre	1
 红人	hcrh	1
 红壤	hcrl	1
@@ -27990,7 +27990,7 @@ columns:
 患儿	hdee	1
 夥	hdeee	1	hdee
 囫	hdeei	1	hdee
-鹘	hdek	1	gdek
+鹘	hdek	1	hdek
 鹮	hdeke	1	hdek
 黑恶	hdem	1
 黑发	hdfb	1
@@ -28023,7 +28023,7 @@ columns:
 贿	hdh	1	hdhc
 贿	hdhc	1	hdhc
 回回	hdhd	1
-蛤	hdhg	1	gdhg
+蛤	hdhg	1	hdhg
 回合	hdhh	1
 黑化	hdhhe	1
 黑乎乎	hdhhi	1
@@ -28260,8 +28260,8 @@ columns:
 猴	hehv	1	hehv
 忽	hei	1	heii
 忽	heii	1	heii
-犴	hej	1	aejd
-犴	hejd	1	aejd
+犴	hej	1	hejd
+犴	hejd	1	hejd
 猴急	heje	1
 昏厥	hejh	1
 忽觉	hejo	1
@@ -28392,7 +28392,7 @@ columns:
 桦	hfh	1	hfhm
 槐花	hfha	1
 横祸	hfhi	1
-桧	hfhj	1	gfhj
+桧	hfhj	1	hfhj
 桦	hfhm	1	hfhm
 核黄素	hfhs	1
 呼风唤雨	hfhy	1
@@ -28627,16 +28627,16 @@ columns:
 嚯	hglhe	1	hglh
 呼啦啦	hgll	1
 呼兰	hgly	1
-呵	hgm	1	agmg
+呵	hgm	1	hgmg
 号码簿	hgmb	1
 号脉	hgmc	1
-唝	hgmd	1	ggmd
+唝	hgmd	1	hgmd
 哈密瓜	hgmg	1
-呵	hgmge	1	agmg
+呵	hgmge	1	hgmg
 号码	hgmh	1
 吓	hgmi	1	hgmi
 呼玛	hgmj	1
-咁	hgmk	1	ggmk
+咁	hgmk	1	hgmk
 红光满面	hgmm	1
 哈密	hgmo	1
 哈马斯	hgms	1
@@ -28746,11 +28746,11 @@ columns:
 华安	hhao	1
 会按	hhau	1
 厚爱	hhaw	1
-夯	hhb	1	bhbb
+夯	hhb	1	hhbb
 厚薄	hhba	1
 惶惶不安	hhbae	1
 合办	hhbb	1
-夯	hhbbe	1	bhbb
+夯	hhbbe	1	hhbb
 合编	hhbc	1
 还不到	hhbd	1
 汉化补丁	hhbde	1
@@ -28856,7 +28856,7 @@ columns:
 灰分	hhfw	1
 合法性	hhfx	1
 化合反应	hhfy	1
-合	hhg	1	ghgg
+合	hhg	1	hhgg
 化工部	hhgb	1
 化工厂	hhgc	1
 还给	hhgce	1
@@ -28866,7 +28866,7 @@ columns:
 合格	hhgf	1
 含	hhgg	1	hhgg
 还跟	hhgge	1
-合	hhggi	1	ghgg
+合	hhggi	1	hhgg
 何干	hhgj	1
 合规	hhgje	1
 合格率	hhgl	1
@@ -28882,7 +28882,7 @@ columns:
 花花公子	hhgze	1
 颔	hhh	1	hhhd
 还好	hhhb	1
-颌	hhhd	1	ghhd
+颌	hhhd	1	hhhd
 灰黑	hhhde	1
 厚黑	hhhdi	1
 颔	hhhdo	1	hhhd
@@ -29622,8 +29622,8 @@ columns:
 后劲十足	hjsz	1
 环跳	hjtg	1
 海角天涯	hjty	1
-镐	hju	1	gjug
-镐	hjug	1	gjug
+镐	hju	1	hjug
+镐	hjug	1	hjug
 彗	hjv	1	hjvk
 彗	hjvk	1	hjvk
 锾	hjw	1	hjwj
@@ -29725,11 +29725,11 @@ columns:
 画稿	hkgr	1
 航空公司	hkgs	1
 户口关系	hkgx	1
-𬌗	hkh	1	hkhg
+	hkh	1	hkhg
 画好	hkhb	1
 划火柴	hkhc	1
 画虎	hkhf	1
-𬌗	hkhg	1	hkhg
+	hkhg	1	hkhg
 画画	hkhk	1
 轰轰	hkhke	1
 花开花落	hkhl	1
@@ -29954,7 +29954,7 @@ columns:
 黄粱美梦	hlmm	1
 郝	hln	1	hlnn
 恚怒	hlnb	1
-垾	hlnj	1	alnj
+垾	hlnj	1	hlnj
 获利能力	hlnl	1
 郝	hlnn	1	hlnn
 获利颇丰	hlpf	1
@@ -30649,9 +30649,9 @@ columns:
 环绕地球	hrdq	1
 轰然倒塌	hrdt	1
 恍然大悟	hrdw	1
-鹄	hre	1	grek
+鹄	hre	1	hrek
 笏	hree	1	hree
-鹄	hrek	1	grek
+鹄	hrek	1	hrek
 和服	hrfc	1
 和风	hrfe	1
 和法	hrfs	1
@@ -30838,7 +30838,7 @@ columns:
 涣	hsed	1	hsed
 海尔	hsee	1
 淴	hsei	1	hsei
-浲	hsej	1	fsej
+浲	hsej	1	hsej
 鸿	hsek	1	hsek
 滹	hsf	1	hsfw
 洪范	hsfa	1
@@ -30932,7 +30932,7 @@ columns:
 汉口	hskge	1
 河口	hskgi	1
 湖口	hskgo	1
-洸	hskh	1	gskh
+洸	hskh	1	hskh
 汇	hskk	1	hskk
 汇款	hskl	1
 汗孔	hskn	1
@@ -53638,7 +53638,7 @@ columns:
 坚厚	jahh	1
 荐	jahn	1	jahn
 蕉	jaho	1	jaho
-芥	jahq	1	gahq
+芥	jahq	1	jahq
 监护人	jahr	1
 节后	jaht	1
 监护	jahu	1
@@ -54127,8 +54127,8 @@ columns:
 拒不执行	jbzx	1
 加州	jbzy	1
 经	jc	1	jcxm
-剿	jca	1	ccaa
-剿	jcaa	1	ccaa
+剿	jca	1	jcaa
+剿	jcaa	1	jcaa
 骄傲	jcah	1
 机场安检	jcaj	1
 结案率	jcal	1
@@ -54263,7 +54263,7 @@ columns:
 骄横	jchfe	1
 脚踝	jchg	1
 脚后跟	jchge	1
-给	jchgi	1	gchg
+给	jchgi	1	jchg
 结合	jchh	1
 绝户	jchi	1
 结核菌	jchj	1
@@ -54695,7 +54695,7 @@ columns:
 鸡蛋里挑骨头	jdlt	1
 甲类	jdly	1
 既得利益	jdlye	1
-虹	jdm	1	hdmk
+虹	jdm	1	jdmk
 既定目标	jdmb	1
 羁	jdmc	1	jdmc
 加德满都	jdmd	1
@@ -54704,7 +54704,7 @@ columns:
 睫毛膏	jdmg	1
 见面	jdmh	1
 界面	jdmhe	1
-虹	jdmk	1	hdmk
+虹	jdmk	1	jdmk
 简单明了	jdml	1
 见面礼	jdmle	1
 贱卖	jdmm	1
@@ -54834,10 +54834,10 @@ columns:
 经典著作	jdzze	1
 基地组织	jdzzi	1
 九	je	1	jeee
-⑨	je	1
-Ⅸ	je	1
-⁹	je	1
-₉	je	1
+⑨	je	1	
+Ⅸ	je	1	
+⁹	je	1	
+₉	je	1	
 鲣	jea	1	jeal
 桀骜	jeaj	1
 鲣	jeal	1	jeal
@@ -54928,12 +54928,12 @@ columns:
 几番	jefwe	1
 解乏	jefwi	1
 几分钟	jefz	1
-句	jeg	1	gegg
+句	jeg	1	jegg
 狷	jegc	1	jegc
 加尔各答	jegd	1
 及格	jegf	1
 咎	jegg	1	jegg
-句	jegge	1	gegg
+句	jegge	1	jegg
 几个	jegh	1
 九个	jeghe	1
 解雇	jegi	1
@@ -55278,7 +55278,7 @@ columns:
 桷	jfee	1	jfee
 机	jfeee	1	jfee
 榤	jfef	1	jfef
-枸	jfeg	1	gfeg
+枸	jfeg	1	jfeg
 极	jfei	1	jfei
 椈	jfey	1	jfey
 椒	jff	1	jffx
@@ -55337,7 +55337,7 @@ columns:
 禁忌症	jfjz	1
 韭	jfk	1	jfkk
 极苦	jfka	1
-柜	jfkc	1	gfkc
+柜	jfkc	1	jfkc
 柩	jfke	1	jfke
 韭	jfkk	1	jfkk
 校勘	jfkm	1
@@ -55629,7 +55629,7 @@ columns:
 结构调整	jgtz	1
 跤	jgu	1	jguw
 蹐	jguc	1	jguc
-蹴	jguh	1	cguh
+蹴	jguh	1	jguh
 跡	jgui	1	jgui
 跻	jguq	1	jguq
 哜	jguqe	1	jguq
@@ -55677,10 +55677,10 @@ columns:
 剑	jhaai	1	jhaa
 假案	jhao	1
 儆	jhar	1	jhar
-伽	jhb	1	ghbg
+伽	jhb	1	jhbg
 隽	jhbb	1	jhbb
 健步	jhbf	1
-伽	jhbg	1	ghbg
+伽	jhbg	1	jhbg
 几乎不会	jhbh	1
 假币	jhbq	1
 假扮	jhbu	1
@@ -56841,10 +56841,10 @@ columns:
 较差	jkcy	1
 艰苦创业	jkcye	1
 交口称赞	jkcz	1
-车	jkd	1	ckdd
+车	jkd	1	jkdd
 尖刀	jkdb	1
 戒赌	jkdd	1
-车	jkdde	1	ckdd
+车	jkdde	1	jkdd
 较多	jkde	1
 巨大	jkdh	1
 较大	jkdhe	1
@@ -57244,7 +57244,7 @@ columns:
 基础上	jmcs	1
 基层	jmcv	1
 教参	jmcx	1
-贾	jmd	1	gmdh
+贾	jmd	1	jmdh
 解密档案	jmda	1
 救命稻草	jmdc	1
 教导处	jmdce	1
@@ -57254,7 +57254,7 @@ columns:
 基点	jmdfe	1
 晋代	jmdh	1
 赍	jmdhe	1	jmdh
-贾	jmdhi	1	gmdh
+贾	jmdhi	1	jmdh
 基调	jmdi	1
 基督教	jmdj	1
 堇	jmdk	1	jmdk
@@ -57435,7 +57435,7 @@ columns:
 截瘫	jmtu	1
 聚糖	jmty	1
 鞬	jmv	1	jmvx
-嘏	jmvv	1	gmvv
+嘏	jmvv	1	jmvv
 鞬	jmvx	1	jmvx
 教务处	jmwc	1
 教务	jmwe	1
@@ -57616,12 +57616,12 @@ columns:
 降序	jnxu	1
 晙	jnxw	1	jnxw
 艰难险阻	jnxz	1
-炅	jny	1	gnyh
+炅	jny	1	jnyh
 晶莹	jnya	1
 际遇	jnyd	1
 降压	jnyh	1
 景仰	jnyhe	1
-炅	jnyhi	1	gnyh
+炅	jnyhi	1	jnyh
 今年以来	jnyl	1
 降雨	jnym	1
 九牛一毛	jnyme	1
@@ -58298,7 +58298,7 @@ columns:
 酒店	jsdu	1
 脊索动物	jsdw	1
 汲	jse	1	jsei
-氿	jsee	1	gsee
+氿	jsee	1	jsee
 泃	jseg	1	jseg
 汲	jsei	1	jsei
 漈	jsej	1	jsej
@@ -58338,7 +58338,7 @@ columns:
 集思广益	jsgy	1
 娇生惯养	jsgye	1
 精神贵族	jsgz	1
-洊	jsh	1	cshn
+洊	jsh	1	jshn
 浇花	jsha	1
 竞赛活动	jshd	1
 精神焕发	jshf	1
@@ -58351,7 +58351,7 @@ columns:
 技术含量	jshl	1
 酒壶	jshle	1
 激活码	jshm	1
-洊	jshn	1	cshn
+洊	jshn	1	jshn
 江湖气	jshq	1
 激活	jshs	1
 江湖	jshse	1
@@ -59748,11 +59748,11 @@ columns:
 甲型肝炎	jxgy	1
 绩效工资	jxgz	1
 吉星高照	jxgze	1
-颈	jxh	1	gxhd
-颈	jxhd	1	gxhd
+颈	jxh	1	jxhd
+颈	jxhd	1	jxhd
 吉凶祸福	jxhf	1
 精心呵护	jxhh	1
-矜	jxhi	1	gxhi
+矜	jxhi	1	jxhi
 锦绣河山	jxhs	1
 举行会谈	jxht	1
 交相辉映	jxhy	1
@@ -60640,8 +60640,8 @@ columns:
 狂追	kezq	1
 狂涨	kezs	1
 肯	kf	1	kfcc
-槛	kfa	1	jfad
-槛	kfad	1	jfad
+槛	kfa	1	kfad
+槛	kfad	1	kfad
 肯不肯	kfbk	1
 克服不了	kfbl	1
 卡宾枪	kfbq	1
@@ -60702,7 +60702,7 @@ columns:
 框	kfkje	1	kfkj
 卡壳	kfkl	1
 克服困难	kfkn	1
-楷	kfkq	1	jfkq
+楷	kfkq	1	kfkq
 开发力度	kfld	1
 卡路里	kfll	1
 卡拉奇	kflq	1
@@ -60727,9 +60727,9 @@ columns:
 肯去	kfql	1
 櫆	kfqo	1	kfqo
 空乏其身	kfqs	1
-栝	kfr	1	gfrg
+栝	kfr	1	kfrg
 枯荣	kfra	1
-栝	kfrg	1	gfrg
+栝	kfrg	1	kfrg
 开发软件	kfrj	1
 客服热线	kfrx	1
 开发人员	kfry	1
@@ -60780,10 +60780,10 @@ columns:
 口	kg	1	kggg
 口岸	kgad	1
 开关按钮	kgan	1
-咖	kgb	1	ggbg
+咖	kgb	1	kgbg
 喀布尔	kgbe	1
 口杯	kgbf	1
-咖	kgbg	1	ggbg
+咖	kgbg	1	kgbg
 口碑	kgbh	1
 跨部门	kgbm	1
 口鼻	kgbq	1
@@ -60813,9 +60813,9 @@ columns:
 口淡	kgds	1
 跨度	kgdu	1
 开关电源	kgdy	1
-咯	kge	1	ggeg
+咯	kge	1	kgeg
 口儿	kgee	1
-咯	kgeg	1	ggeg
+咯	kgeg	1	kgeg
 口耳	kgem	1
 啃	kgf	1	kgfc
 口服	kgfc	1
@@ -60887,8 +60887,8 @@ columns:
 哭灵	kglv	1
 口粮	kgly	1
 啃老族	kglz	1
-呵	kgm	1	agmg
-呵	kgmg	1	agmg
+呵	kgm	1	kgmg
+呵	kgmg	1	kgmg
 开弓没有回头箭	kgmj	1
 喀麦隆	kgml	1
 叩门	kgmp	1
@@ -60948,9 +60948,9 @@ columns:
 口头上	kgts	1
 咳痰	kgtu	1
 口头语	kgty	1
-咳	kgu	1	hguh
-吭	kgue	1	hgue
-咳	kguh	1	hguh
+咳	kgu	1	kguh
+吭	kgue	1	kgue
+咳	kguh	1	kguh
 口外	kgwe	1
 口味	kgwg	1
 口吻	kgwge	1
@@ -61051,7 +61051,7 @@ columns:
 会计师	khjs	1
 夸奖	khju	1
 会计学	khjx	1
-会	khjxe	1	hhjx
+会	khjxe	1	khjx
 会计员	khjy	1
 抗洪救灾	khjz	1
 夸口	khkg	1
@@ -61080,14 +61080,14 @@ columns:
 考核评比	khpb	1
 考核评定	khpd	1
 磕碰	khph	1
-傀	khq	1	ghqx
+傀	khq	1	khqx
 夼	khqd	1	khqd
 矿区	khqk	1
 砍去	khql	1
 矿泉	khqq	1
 矿泉水	khqs	1
 抗洪抢险	khqx	1
-傀	khqxe	1	ghqx
+傀	khqxe	1	khqx
 矻	khr	1	khrc
 矻	khrc	1	khrc
 砍人	khrh	1
@@ -61157,9 +61157,9 @@ columns:
 课间	kijp	1
 诓	kik	1	kikj
 诓	kikj	1	kikj
-诃	kim	1	himg
+诃	kim	1	kimg
 课目	kimd	1
-诃	kimg	1	himg
+诃	kimg	1	kimg
 课内	kind	1
 诓骗	kipc	1
 裤裙	kiqi	1
@@ -61363,7 +61363,7 @@ columns:
 开幕式	kjms	1
 琨	kjn	1	kjnk
 亏你	kjnh	1
-锟	kjnk	1	gjnk
+锟	kjnk	1	kjnk
 琨	kjnke	1	kjnk
 开年	kjnr	1
 锎	kjp	1	kjpj
@@ -61497,10 +61497,10 @@ columns:
 可靠保证	kkbz	1
 慷慨陈词	kkcc	1
 可靠程度	kkcd	1
-匮	kkd	1	gkdd
+匮	kkd	1	kkdd
 空空荡荡	kkdd	1
 苦苦等待	kkdde	1
-匮	kkddi	1	gkdd
+匮	kkddi	1	kkdd
 慷慨大方	kkdf	1
 侃侃而谈	kket	1
 匡复	kkfr	1
@@ -61557,14 +61557,14 @@ columns:
 堪比	klbk	1
 看了半天	klbt	1
 考虑不周	klbz	1
-坳	klc	1	alcb
+坳	klc	1	klcb
 坤草	klca	1
-坳	klcb	1	alcb
+坳	klcb	1	klcb
 堪察加	klcj	1
 堪称	klcr	1
 快乐成长	klcz	1
 坤	kld	1	kldd
-☷	kld	1
+☷	kld	1	kld
 坤	kldd	1	kldd
 款冬花	kldh	1
 款待	kldi	1
@@ -61578,7 +61578,7 @@ columns:
 款	kle	1	kleh
 壳	klee	1	klee
 坎	kleh	1	kleh
-☵	kleh	1
+☵	kleh	1	kleh
 款	klehe	1	kleh
 坎儿井	klej	1
 款额	kleo	1
@@ -62096,9 +62096,9 @@ columns:
 客居	kojv	1
 快节奏	kojz	1
 空间站	kojze	1
-悈	kok	1	jokh
+悈	kok	1	kokh
 空口	kokg	1
-悈	kokh	1	jokh
+悈	kokh	1	kokh
 空壳	kokl	1
 空旷	kokn	1
 空空	koko	1
@@ -62261,8 +62261,8 @@ columns:
 考评体系	kptx	1
 闶	kpu	1	kpue
 闶	kpue	1	kpue
-阚	kpv	1	hpvr
-阚	kpvr	1	hpvr
+阚	kpv	1	kpvr
+阚	kpvr	1	kpvr
 科普宣传	kpxc	1
 阔叶	kpyg	1
 阔叶林	kpyl	1
@@ -62516,8 +62516,8 @@ columns:
 开始菜单	kscd	1
 考试成绩	kscj	1
 靠山吃山	kscs	1
-溃	ksd	1	hsdd
-溃	ksdd	1	hsdd
+溃	ksd	1	ksdd
+溃	ksdd	1	ksdd
 可视电话	ksdh	1
 溃堤	ksdl	1
 空手而归	kseg	1
@@ -62525,9 +62525,9 @@ columns:
 考试辅导	ksfd	1
 快速反应	ksfy	1
 快速发展	ksfz	1
-浍	ksh	1	hshj
+浍	ksh	1	kshj
 考试合格	kshg	1
-浍	kshj	1	hshj
+浍	kshj	1	kshj
 开始阶段	ksjd	1
 洭	ksk	1	kskj
 矿山开采	kskc	1
@@ -62657,7 +62657,7 @@ columns:
 库尔德	kued	1
 亢	kuee	1	kuee
 竘	kueg	1	kueg
-欬	kueh	1	aueh
+欬	kueh	1	kueh
 库尔勒	kuel	1
 扣发	kufb	1
 捆缚	kufc	1
@@ -62693,7 +62693,7 @@ columns:
 抗洪	kuhs	1
 刻痕	kuhu	1
 括弧	kuhv	1
-廒	kuj	1	aujr
+廒	kuj	1	kujr
 抗菌	kuja	1
 扣缴	kujc	1
 抗击打	kujd	1
@@ -62702,7 +62702,7 @@ columns:
 扩军	kuji	1
 亢进	kujj	1
 抗击	kujje	1
-廒	kujr	1	aujr
+廒	kujr	1	kujr
 抗菌素	kujs	1
 抗拒	kuju	1
 扩建	kujv	1
@@ -62726,12 +62726,12 @@ columns:
 刻录盘	kulp	1
 扣篮	kulr	1
 刻录	kulv	1
-扛	kum	1	gumk
+扛	kum	1	kumk
 抠门儿	kume	1
 疴	kumg	1	kumg
 抗命	kumh	1
 拷	kumk	1	kumk
-扛	kumke	1	gumk
+扛	kumke	1	kumk
 库门	kump	1
 抠门	kumpe	1
 抗美	kumy	1
@@ -62755,9 +62755,9 @@ columns:
 扛起	kuql	1
 扣去	kuqle	1
 廓清	kuqs	1
-括	kur	1	gurg
+括	kur	1	kurg
 扣肉	kurd	1
-括	kurg	1	gurg
+括	kurg	1	kurg
 抗日	kurn	1
 扩容	kuro	1
 库容	kuroe	1
@@ -63016,7 +63016,7 @@ columns:
 炕头	kyto	1
 炕	kyu	1	kyue
 炕	kyue	1	kyue
-熇	kyug	1	hyug
+熇	kyug	1	kyug
 糠	kyuv	1	kyuv
 可以完成	kywc	1
 口眼斜	kywx	1
@@ -63410,12 +63410,12 @@ columns:
 腊八	lcbw	1
 临床表现	lcbx	1
 驴唇不对马嘴	lcbz	1
-〇	lcc	1
+〇	lcc	1	lccc
 绿茶	lcca	1
 绿草	lccae	1
 联产承包	lccb	1
 腊肠	lccc	1
-〇	lccce	1
+〇	lccce	1	lccc
 练唱	lccg	1
 练成	lcch	1
 绿春	lccj	1
@@ -63462,7 +63462,7 @@ columns:
 练好	lchb	1
 脸红	lchc	1
 绿化带	lchd	1
-纶	lche	1	gche
+纶	lche	1	lche
 绿化	lchh	1
 胧	lchi	1	lchi
 绿化率	lchl	1
@@ -64277,7 +64277,7 @@ columns:
 路灯	lgdy	1
 路	lge	1	lgeg
 蹓	lged	1	lged
-咯	lgeg	1	ggeg
+咯	lgeg	1	lgeg
 路	lgege	1	lgeg
 跞	lgei	1	lgei
 鹭	lgek	1	lgek
@@ -64306,11 +64306,11 @@ columns:
 唳	lgih	1	lgih
 踉	lgii	1	lgii
 啷	lgin	1	lgin
-哢	lgj	1	kgjh
+哢	lgj	1	lgjh
 另加	lgjb	1
 路经	lgjc	1
 两个基本点	lgjd	1
-哢	lgjh	1	kgjh
+哢	lgjh	1	lgjh
 路径	lgji	1
 路基	lgjm	1
 留个纪念	lgjn	1
@@ -64483,7 +64483,7 @@ columns:
 领导者	lhdz	1
 仑	lhe	1	lhee
 仑	lhee	1	lhee
-硌	lheg	1	gheg
+硌	lheg	1	lheg
 砾	lhei	1	lhei
 尥	lheie	1	lhei
 鹩	lhek	1	lhek
@@ -64677,7 +64677,7 @@ columns:
 龙庭	lhtu	1
 领头羊	lhty	1
 裂	lhu	1	lhui
-倞	lhug	1	jhug
+倞	lhug	1	lhug
 裂	lhui	1	lhui
 砬	lhuk	1	lhuk
 硫	lhuq	1	lhuq
@@ -64939,7 +64939,7 @@ columns:
 锂电池	ljdc	1
 镙	ljdce	1	ljdc
 锂电	ljdd	1
-靓	ljde	1	jjde
+靓	ljde	1	ljde
 锣	ljdee	1	ljde
 铃铛	ljdj	1
 锂	ljdk	1	ljdk
@@ -65152,12 +65152,12 @@ columns:
 洛克菲勒	lkfl	1
 轳	lkfv	1	lkfv
 轮番	lkfw	1
-鬲	lkg	1	gkgd
+鬲	lkg	1	lkgd
 连根拔	lkgb	1
 连贯	lkgc	1
 轮岗	lkgd	1
 连锅端	lkgde	1
-鬲	lkgdi	1	gkgd
+鬲	lkgdi	1	lkgd
 连杆	lkgf	1
 劳苦功高	lkgg	1
 连冠	lkgi	1
@@ -66012,7 +66012,7 @@ columns:
 陋	lnm	1	lnmc
 陵墓	lnma	1
 陋	lnmc	1	lnmc
-暕	lnmi	1	jnmi
+暕	lnmi	1	lnmi
 了	lnn	1	lnnn
 辽南	lnnm	1
 陇南	lnnme	1
@@ -66077,7 +66077,7 @@ columns:
 愣	lod	1	lodu
 帘	lodd	1	lodd
 懒得	lodi	1
-悝	lodk	1	kodk
+悝	lodk	1	lodk
 懒惰	lodo	1
 愣	lodu	1	lodu
 牢饭	lofe	1
@@ -66799,10 +66799,10 @@ columns:
 乐天知命	ltzm	1
 雷霆之怒	ltzn	1
 六	lu	1	luii
-⑥	lu	1
-Ⅵ	lu	1
-⁶	lu	1
-₆	lu	1
+⑥	lu	1	
+Ⅵ	lu	1	
+⁶	lu	1	
+₆	lu	1	
 刘	lua	1	luaa
 刘	luaa	1	luaa
 捞	luab	1	luab
@@ -66867,7 +66867,7 @@ columns:
 冷藏箱	lucx	1
 羸	lucy	1	lucy
 离	lud	1	ludi
-☲	lud	1
+☲	lud	1	lud
 抡刀	ludb	1
 摞	ludc	1	ludc
 瘰	ludce	1	ludc
@@ -67984,7 +67984,7 @@ columns:
 媒	mbm	1	mbmf
 妈妈	mbmb	1
 妹妹	mbmbe	1
-姥	mbme	1	lbme
+姥	mbme	1	mbme
 媒	mbmf	1	mbmf
 妈咪	mbmg	1
 妙曼	mbmn	1
@@ -68880,12 +68880,12 @@ columns:
 吗	mgck	1	mgck
 骂	mgcke	1	mgck
 目光长远	mgcy	1
-嘿	mgd	1	hgdo
+嘿	mgd	1	mgdo
 黾	mgdc	1	mgdc
 美观大方	mgdf	1
 嘧啶	mgdg	1
 没过多久	mgdj	1
-嘿	mgdo	1	hgdo
+嘿	mgdo	1	mgdo
 目光短浅	mgdq	1
 鸣笛	mgdr	1
 骂道	mgdy	1
@@ -68991,7 +68991,7 @@ columns:
 面对	mhdx	1
 殁	mhe	1	mhex
 面红耳赤	mhec	1
-俛	mhed	1	fhed
+俛	mhed	1	mhed
 沐猴而冠	mheg	1
 仫	mhei	1	mhei
 碈	mhen	1	mhen
@@ -69871,8 +69871,8 @@ columns:
 慢的	modq	1
 密度	modu	1
 慢动作	modz	1
-惛	moe	1	hoen
-惛	moen	1	hoen
+惛	moe	1	moen
+惛	moen	1	moen
 蜜蜂	mofd	1
 密封	mofl	1
 密封圈	mofq	1
@@ -70214,8 +70214,8 @@ columns:
 每行	mrhie	1
 毛孩	mrhn	1
 蓦然回首	mrhs	1
-秘	mri	1	brii
-秘	mrii	1	brii
+秘	mri	1	mrii
+秘	mrii	1	mrii
 秣	mrj	1	mrji
 每节	mrja	1
 毛巾被	mrjb	1
@@ -70491,9 +70491,9 @@ columns:
 漠河	mshs	1
 没换	mshu	1
 没收货物	mshw	1
-泌	msi	1	bsii
+泌	msi	1	msii
 懑	msii	1	msii
-泌	msiie	1	bsii
+泌	msiie	1	msii
 溟	msin	1	msin
 沫	msj	1	msji
 没加	msjb	1
@@ -71740,8 +71740,8 @@ columns:
 脑补	ncbi	1
 脑白金	ncbj	1
 脑部	ncbu	1
-乜	ncc	1	mccc
-乜	nccc	1	mccc
+乜	ncc	1	nccc
+乜	nccc	1	nccc
 纳粹党	nccd	1
 脑残	ncch	1
 内存储器	nccq	1
@@ -72104,7 +72104,7 @@ columns:
 男装	ndzu	1
 内质网	ndzw	1
 拿定主意	ndzy	1
-鸟	ne	1	dekk
+鸟	ne	1	nekk
 男儿本色	nebs	1
 鸟巢	necc	1
 鸟蛋	nedn	1
@@ -72120,9 +72120,9 @@ columns:
 努尔哈赤	nehc	1
 鲶	nehi	1	nehi
 鸟叫	nejg	1
-鸟	nek	1	dekk
+鸟	nek	1	nekk
 鸟瞰	nekd	1
-鸟	nekk	1	dekk
+鸟	nekk	1	nekk
 鸟笼	nelr	1
 鸟类	nely	1
 馕	nem	1	nemg
@@ -72174,8 +72174,8 @@ columns:
 柰	nfj	1	nfjk
 能否坚持	nfjc	1
 柰	nfjk	1	nfjk
-桡	nfk	1	rfkh
-桡	nfkh	1	rfkh
+桡	nfk	1	nfkh
+桡	nfkh	1	nfkh
 虐	nfkk	1	nfkk
 南方口音	nfky	1
 檽	nfl	1	nflh
@@ -72202,8 +72202,8 @@ columns:
 农夫山泉	nfsq	1
 虐杀	nfsw	1
 能否突破	nftp	1
-柅	nfv	1	cfve
-柅	nfve	1	cfve
+柅	nfv	1	nfve
+柅	nfve	1	nfve
 能否完成	nfwc	1
 内服外敷	nfwf	1
 虐心	nfxi	1
@@ -72231,7 +72231,7 @@ columns:
 哪点	ngdf	1
 能够带给	ngdg	1
 那该多好	ngdh	1
-嗯	ngdi	1	egdi
+嗯	ngdi	1	ngdi
 呐	ngdie	1	ngdi
 能够打破	ngdp	1
 哪儿	ngee	1
@@ -72427,7 +72427,7 @@ columns:
 你们	nhmh	1
 耐	nhmi	1	nhmi
 碾米机	nhmj	1
-佴	nhmk	1	ehmk
+佴	nhmk	1	nhmk
 耐磨	nhmu	1
 耐磨性	nhmx	1
 碾米	nhmy	1
@@ -72462,8 +72462,8 @@ columns:
 拿手	nhsu	1
 耐受	nhsw	1
 拿手戏	nhsx	1
-耏	nht	1	ehte
-耏	nhte	1	ehte
+耏	nht	1	nhte
+耏	nhte	1	nhte
 拿铁	nhtj	1
 念头	nhto	1
 拿	nhu	1	nhuu
@@ -72519,8 +72519,8 @@ columns:
 衲	nidi	1	nidi
 讷	nidie	1	nidi
 农地	nidl	1
-祢	nie	1	miek
-祢	niek	1	miek
+祢	nie	1	niek
+祢	niek	1	niek
 农妇	nifb	1
 农夫	nifj	1
 农副	nifk	1
@@ -72590,7 +72590,7 @@ columns:
 农转非	nizf	1
 农资	nizu	1
 农作物	nizw	1
-弄	nj	1	ljhd
+弄	nj	1	njhd
 锘	nja	1	njah
 锘	njah	1	njah
 钕	njb	1	njbk
@@ -72626,7 +72626,7 @@ columns:
 镎	njh	1	njhu
 弄好	njhb	1
 弄回	njhd	1
-弄	njhde	1	ljhd
+弄	njhde	1	njhd
 弄坏	njhl	1
 耨	njhm	1	njhm
 弄混	njhs	1
@@ -73470,8 +73470,8 @@ columns:
 捏把汗	nubh	1
 拧巴	nubn	1
 拟拨	nubu	1
-拗	nuc	1	aucb
-拗	nucb	1	aucb
+拗	nuc	1	nucb
+拗	nucb	1	nucb
 拧成	nuch	1
 拟订	nudi	1
 扭动	nudj	1
@@ -74203,7 +74203,7 @@ columns:
 偶尔一次	oeyc	1
 偶尔遇到	oeyd	1
 偶发事件	ofsj	1
-哦	og	1	egri
+哦	og	1	ogri
 呕恶	ogem	1
 呕	ogk	1	ogkw
 呕	ogkw	1	ogkw
@@ -74211,9 +74211,9 @@ columns:
 哦哦	ogog	1
 噢	ogq	1	ogqh
 噢	ogqh	1	ogqh
-吽	ogr	1	hgrd
-吽	ogrd	1	hgrd
-哦	ogri	1	egri
+吽	ogr	1	ogrd
+吽	ogrd	1	ogrd
+哦	ogri	1	ogri
 呕吐	ogtg	1
 喔	ogv	1	ogvk
 喔	ogvk	1	ogvk
@@ -74355,8 +74355,8 @@ columns:
 拍案叫绝	pajj	1
 拍案惊奇	pajq	1
 蒲江	pajs	1
-芘	pak	1	bake
-芘	pake	1	bake
+芘	pak	1	pake
+芘	pake	1	pake
 苹	pal	1	pald
 蓬莱	pala	1
 苹	pald	1	pald
@@ -74389,9 +74389,9 @@ columns:
 菩	pau	1	paug
 菩	paug	1	paug
 蒱	paum	1	paum
-藨	pauo	1	bauo
-莩	paw	1	fawn
-莩	pawn	1	fawn
+藨	pauo	1	pauo
+莩	paw	1	pawn
+莩	pawn	1	pawn
 平安无事	paws	1
 萍乡	paxc	1
 荓	pay	1	payj
@@ -74506,10 +74506,10 @@ columns:
 姘头	pbto	1
 皮艇	pbtt	1
 脾不统血	pbtx	1
-婄	pbu	1	bbug
-婄	pbug	1	bbug
-妃	pbv	1	fbvc
-妃	pbvc	1	fbvc
+婄	pbu	1	pbug
+婄	pbug	1	pbug
+妃	pbv	1	pbvc
+妃	pbvc	1	pbvc
 皮纹	pbwc	1
 平白无故	pbwg	1
 皮外伤	pbws	1
@@ -74578,7 +74578,7 @@ columns:
 膨化	pchh	1
 胖乎乎	pchhe	1
 胚	pchk	1	pchk
-缏	pchm	1	bchm
+缏	pchm	1	pchm
 骗	pci	1	pcid
 骗	pcid	1	pcid
 脾经	pcjc	1
@@ -74593,11 +74593,11 @@ columns:
 骗来	pcll	1
 纰漏	pcls	1
 膨	pclt	1	pclt
-脯	pcm	1	fcmi
+脯	pcm	1	pcmi
 缥缈	pcmc	1
-脯	pcmi	1	fcmi
+脯	pcmi	1	pcmi
 缥	pcmj	1	pcmj
-骠	pcmje	1	bcmj
+骠	pcmje	1	pcmj
 骗卖	pcmm	1
 破除迷信	pcmx	1
 破财免灾	pcmz	1
@@ -74635,8 +74635,8 @@ columns:
 排出体外	pctw	1
 胚胎学	pctx	1
 胖头鱼	pcty	1
-膀	pcu	1	bcuu
-膀	pcuu	1	bcuu
+膀	pcu	1	pcuu
+膀	pcuu	1	pcuu
 脬	pcw	1	pcwn
 脾胃	pcwd	1
 排除危害	pcwh	1
@@ -74738,7 +74738,7 @@ columns:
 赔钱	pdqj	1
 帕	pdqk	1	pdqk
 平等权利	pdql	1
-睥	pdqm	1	bdqm
+睥	pdqm	1	pdqm
 蜱	pdqme	1	pdqm
 平淡如水	pdrs	1
 平淡日子	pdrz	1
@@ -74770,9 +74770,9 @@ columns:
 赔罪	pdzd	1
 普度众生	pdzs	1
 盼着	pdzy	1
-刨	pe	1	beaa
-刨	pea	1	beaa
-刨	peaa	1	beaa
+刨	pe	1	peaa
+刨	pea	1	peaa
+刨	peaa	1	peaa
 狓	peb	1	pebx
 狓	pebx	1	pebx
 狍	pee	1	peev
@@ -74872,7 +74872,7 @@ columns:
 频数	pfsy	1
 攀谈	pfti	1
 攀	pfu	1	pfuu
-棓	pfug	1	bfug
+棓	pfug	1	pfug
 裴	pfui	1	pfui
 攀	pfuu	1	pfuu
 疲乏无力	pfwl	1
@@ -74972,9 +74972,9 @@ columns:
 啤酒	pgjs	1
 喷剂	pgju	1
 评估机制	pgjz	1
-吡	pgk	1	bgke
+吡	pgk	1	pgke
 盘古开天地	pgkd	1
-吡	pgke	1	bgke
+吡	pgke	1	pgke
 喷口	pgkg	1
 跑开	pgkj	1
 品控	pgku	1
@@ -75147,9 +75147,9 @@ columns:
 偏废	phfue	1
 破费	phfv	1
 碰翻	phfw	1
-否	phg	1	fhgg
+否	phg	1	phgg
 破格	phgf	1
-否	phgg	1	fhgg
+否	phgg	1	phgg
 凭感觉	phgj	1
 披红挂绿	phgl	1
 偏官	phgo	1
@@ -75205,14 +75205,14 @@ columns:
 破裂	phlh	1
 破例	phlhe	1
 偏历	phlhi	1
-堡	phll	1	bhll
+堡	phll	1	phll
 破浪	phls	1
 炮火连天	phlt	1
 偏离	phlu	1
 破烂	phly	1
-便	phm	1	bhmi
+便	phm	1	phmi
 碰面	phmh	1
-便	phmi	1	bhmi
+便	phmi	1	phmi
 破灭	phmk	1
 破密	phmo	1
 破门	phmp	1
@@ -75268,8 +75268,8 @@ columns:
 碰头	phto	1
 偏头痛	phtt	1
 偏瘫	phtu	1
-磅	phu	1	bhuu
-磅	phuu	1	bhuu
+磅	phu	1	phuu
+磅	phuu	1	phuu
 僻	phv	1	phvu
 僻	phvu	1	phvu
 殍	phw	1	phwn
@@ -75321,8 +75321,8 @@ columns:
 评比	pibk	1
 评出	picn	1
 评测	pics	1
-扁	pid	1	bidd
-扁	pidd	1	bidd
+扁	pid	1	pidd
+扁	pidd	1	pidd
 评点	pidf	1
 评定	pido	1
 评断	pidy	1
@@ -75356,19 +75356,19 @@ columns:
 评评理	pipl	1
 评聘	pipm	1
 评判	pipy	1
-裨	piq	1	biqm
+裨	piq	1	piqm
 谱曲	piqd	1
 评球	piqj	1
-裨	piqm	1	biqm
+裨	piqm	1	piqm
 翩然	pire	1
 评书	pisc	1
 评述	pisf	1
 评上	pisfe	1
 评说	pisi	1
 评审	piso	1
-彷	piu	1	fiue
-房	piue	1	fiue
-彷	piuee	1	fiue
+彷	piu	1	piue
+房	piue	1	piue
+彷	piuee	1	piue
 评委会	piwh	1
 评委	piwr	1
 评为	piwy	1
@@ -75455,9 +75455,9 @@ columns:
 铺满	pjms	1
 平均每天	pjmt	1
 评价模型	pjmx	1
-耙	pjn	1	bjnc
+耙	pjn	1	pjnc
 琶	pjnc	1	pjnc
-耙	pjnce	1	bjnc
+耙	pjnce	1	pjnc
 平均年龄	pjnl	1
 评价内容	pjnr	1
 破镜难圆	pjny	1
@@ -75685,11 +75685,11 @@ columns:
 霹	plv	1	plvu
 圮	plvc	1	plvc
 霹	plvu	1	plvu
-垺	plw	1	flwn
+垺	plw	1	plwn
 平纹	plwc	1
 平武	plwj	1
 平卧	plwm	1
-垺	plwn	1	flwn
+垺	plwn	1	plwn
 平稳	plwr	1
 平胃散	plws	1
 评论文章	plwz	1
@@ -75884,10 +75884,10 @@ columns:
 配制	pmzr	1
 飘着	pmzy	1
 陪	pn	1	pnug
-陂	pnb	1	bnbx
+陂	pnb	1	pnbx
 陪绑	pnbc	1
 陪伴	pnbh	1
-陂	pnbx	1	bnbx
+陂	pnbx	1	pnbx
 陪吃	pncg	1
 陪衬	pnci	1
 陪床	pncu	1
@@ -75907,11 +75907,11 @@ columns:
 陪客	pnko	1
 陪练	pnlc	1
 陪聊	pnlm	1
-暴	pnm	1	bnms
-暴	pnms	1	bnms
-曝	pnn	1	bnnm
+暴	pnm	1	pnms
+暴	pnms	1	pnms
+曝	pnn	1	pnnm
 陪你	pnnh	1
-曝	pnnm	1	bnnm
+曝	pnnm	1	pnnm
 陴	pnq	1	pnqm
 陴	pnqm	1	pnqm
 陪侍	pnsh	1
@@ -76127,9 +76127,9 @@ columns:
 穙	pra	1	pray
 穙	pray	1	pray
 篷布	prbh	1
-繁	prc	1	frck
+繁	prc	1	prck
 派人参加	prcj	1
-繁	prck	1	frck
+繁	prck	1	prck
 派人调查	prdc	1
 庞然大物	prdw	1
 篷	pre	1	prev
@@ -76152,11 +76152,11 @@ columns:
 笸	prkg	1	prkg
 旁人看来	prkl	1
 判若两人	prlr	1
-馞	prm	1	brmn
+馞	prm	1	prmn
 篇目	prmd	1
 篇名	prme	1
 篇末	prmj	1
-馞	prmn	1	brmn
+馞	prmn	1	prmn
 篇篇	prpr	1
 派人前去	prqq	1
 派人前往	prqw	1
@@ -76259,11 +76259,11 @@ columns:
 扑朔迷离	psml	1
 溥	psmm	1	psmm
 泡沫	psms	1
-瀑	psn	1	bsnm
+瀑	psn	1	psnm
 泡妞	psnb	1
 婆娘	psnbe	1
 派你	psnh	1
-瀑	psnm	1	bsnm
+瀑	psnm	1	psnm
 泼皮	pspb	1
 拼死拼活	psph	1
 婆说婆有理	pspl	1
@@ -76272,9 +76272,9 @@ columns:
 澎湃	pspsi	1
 漂漂	pspso	1
 泡泡糖	pspt	1
-泊	psq	1	bsqk
+泊	psq	1	psqk
 派遣	psqd	1
-泊	psqk	1	bsqk
+泊	psqk	1	psqk
 派去	psql	1
 婆娑起舞	psqw	1
 派遣证	psqz	1
@@ -76474,7 +76474,7 @@ columns:
 疲	pubx	1	pubx
 披	pubxe	1	pubx
 拍巴掌	pubz	1
-冯	puc	1	fuck
+冯	puc	1	puck
 拼刺刀	pucd	1
 排查	pucf	1
 排除法	pucfe	1
@@ -76482,7 +76482,7 @@ columns:
 排成	puch	1
 拼错	pucj	1
 拼车	puck	1
-冯	pucke	1	fuck
+冯	pucke	1	puck
 捧场	pucl	1
 排场	pucle	1
 批处理	pucli	1
@@ -76676,11 +76676,11 @@ columns:
 旁	puue	1	puue
 掊	puug	1	puug
 㾦	puuge	1	puug
-搒	puuu	1	buuu
+搒	puuu	1	puuu
 癖	puv	1	puvu
 擗	puvu	1	puvu
 癖	puvue	1	puvu
-扒	puw	1	buww
+扒	puw	1	puww
 排外	puwe	1
 排位	puwh	1
 拍外景	puwj	1
@@ -76690,7 +76690,7 @@ columns:
 排污	puws	1
 批文	puwu	1
 排尾	puwv	1
-扒	puww	1	buww
+扒	puww	1	puww
 抛物线	puwx	1
 拚	pux	1	puxh
 旁系	puxe	1
@@ -76740,7 +76740,7 @@ columns:
 拼装	puzue	1
 疱疹	puzui	1
 捧着	puzy	1
-屏	pv	1	bvyj
+屏	pv	1	pvyj
 劈	pvb	1	pvbb
 屏蔽	pvba	1
 劈	pvbb	1	pvbb
@@ -76777,15 +76777,15 @@ columns:
 屁事	pvsm	1
 劈腿	pvtc	1
 劈头	pvto	1
-辟	pvu	1	bvum
+辟	pvu	1	pvum
 譬	pvuj	1	pvuj
-辟	pvum	1	bvum
-屏	pvy	1	bvyj
+辟	pvum	1	pvum
+屏	pvy	1	pvyj
 屁眼	pvyd	1
 屁用	pvye	1
 譬喻	pvyg	1
 辟谣	pvyi	1
-屏	pvyj	1	bvyj
+屏	pvyj	1	pvyj
 屏住	pvzh	1
 屏障	pvzn	1
 贫	pw	1	pwdh
@@ -76796,7 +76796,7 @@ columns:
 颇为不易	pwby	1
 盆	pwd	1	pwdk
 贫	pwdh	1	pwdh
-番	pwdk	1	fwdk
+番	pwdk	1	pwdk
 盆	pwdke	1	pwdk
 盆地	pwdl	1
 评委点评	pwdp	1
@@ -76945,11 +76945,11 @@ columns:
 炮弹	pydv	1
 培养对象	pydx	1
 判断	pydy	1
-炮	pye	1	byev
+炮	pye	1	pyev
 喷涌而出	pyec	1
 普尔	pyee	1
 普洱	pyes	1
-炮	pyev	1	byev
+炮	pyev	1	pyev
 培养方案	pyfa	1
 判罚	pyfd	1
 培养方法	pyff	1
@@ -76987,7 +76987,7 @@ columns:
 瓶颈	pyjx	1
 判卷	pyjy	1
 瓶	pyk	1	pyki
-粃	pyke	1	byke
+粃	pyke	1	pyke
 瓶口	pykg	1
 瓶	pyki	1	pyki
 普快	pyko	1
@@ -77119,8 +77119,8 @@ columns:
 缺点	q	1
 清楚	q	1
 擎	qa	1	qauu
-茄	qab	1	jabg
-茄	qabg	1	jabg
+茄	qab	1	qabg
+茄	qabg	1	qabg
 芹菜	qaca	1
 蕲春	qacj	1
 苘	qad	1	qadg
@@ -77146,7 +77146,7 @@ columns:
 葜	qajh	1	qajh
 萋	qak	1	qakb
 萋	qakb	1	qakb
-苣	qakc	1	jakc
+苣	qakc	1	qakc
 颧髎	qald	1
 茜	qam	1	qamk
 蔷	qamd	1	qamd
@@ -77172,8 +77172,8 @@ columns:
 擎天	qatj	1
 弃暗投明	qatm	1
 擎天柱	qatz	1
-荠	qau	1	jauq
-荠	qauq	1	jauq
+荠	qau	1	qauq
+荠	qauq	1	qauq
 擎	qauu	1	qauu
 茕	qav	1	qavd
 芑	qavc	1	qavc
@@ -77258,7 +77258,7 @@ columns:
 全部转让	qbzr	1
 情报中心	qbzx	1
 情不自已	qbzy	1
-骑	qc	1	jchm
+骑	qc	1	qchm
 取长补短	qcbd	1
 千疮百孔	qcbk	1
 千锤百炼	qcbl	1
@@ -77297,14 +77297,14 @@ columns:
 牵肠挂肚	qcgd	1
 缲	qcgf	1	qcgf
 驱赶	qcgl	1
-缉	qcgm	1	jcgm
+缉	qcgm	1	qcgm
 驱鬼	qcgq	1
 汽车公司	qcgs	1
 绮	qch	1	qchm
 骑虎	qchf	1
 驱护舰	qchj	1
 青春活力	qchl	1
-骑	qchm	1	jchm
+骑	qchm	1	qchm
 绮	qchme	1	qchm
 驱寒	qcho	1
 清产核资	qchz	1
@@ -77386,7 +77386,7 @@ columns:
 清偿债务	qczw	1
 骑着	qczy	1
 浅尝辄止	qczz	1
-且	qd	1	jdkk
+且	qd	1	qdkk
 确定按钮	qdan	1
 气度不凡	qdbf	1
 岂不	qdbh	1
@@ -77446,7 +77446,7 @@ columns:
 岐黄	qdhme	1
 瞧	qdho	1	qdho
 签订合同	qdht	1
-瞿	qdhu	1	jdhu
+瞿	qdhu	1	qdhu
 蜻	qdj	1	qdjc
 取得进步	qdjb	1
 圊	qdjc	1	qdjc
@@ -77465,7 +77465,7 @@ columns:
 曲	qdk	1	qdkk
 峭	qdkc	1	qdkc
 岂肯	qdkf	1
-且	qdkk	1	jdkk
+且	qdkk	1	qdkk
 曲	qdkke	1	qdkk
 岂可	qdkm	1
 且看	qdkr	1
@@ -77480,10 +77480,10 @@ columns:
 曲率	qdlu	1
 取得联系	qdlx	1
 岂料	qdly	1
-嵌	qdm	1	kdme
+嵌	qdm	1	qdme
 确定目标	qdmb	1
 曲目	qdmd	1
-嵌	qdme	1	kdme
+嵌	qdme	1	qdme
 曲面	qdmh	1
 赇	qdmi	1	qdmi
 瞿麦	qdmj	1
@@ -77513,12 +77513,12 @@ columns:
 全党全国	qdqg	1
 圈钱	qdqj	1
 蚯	qdqk	1	qdqk
-峤	qdr	1	jdrq
+峤	qdr	1	qdrq
 氍	qdrc	1	qdrc
 囷	qdri	1	qdri
 驱动软件	qdrj	1
 岂容	qdro	1
-峤	qdrq	1	jdrq
+峤	qdrq	1	qdrq
 嵌入式	qdrs	1
 嵌入	qdrw	1
 蜷缩	qdsc	1
@@ -77564,12 +77564,12 @@ columns:
 圈选	qdxr	1
 曲线图	qdxt	1
 黢	qdxw	1	qdxw
-圈	qdy	1	jdyc
+圈	qdy	1	qdyc
 曲艺	qdya	1
 强调一遍	qdyb	1
 蜷	qdyc	1	qdyc
 蜣	qdyce	1	qdyc
-圈	qdyci	1	jdyc
+圈	qdyci	1	qdyc
 蚯蚓	qdyd	1
 圈椅	qdyf	1
 岂有	qdyh	1
@@ -77614,10 +77614,10 @@ columns:
 鸲	qeek	1	qeek
 欠发达	qefd	1
 欠费	qefv	1
-觭	qeh	1	jehm
+觭	qeh	1	qehm
 欠火候	qehh	1
 欠	qehhe	1	qehh
-觭	qehm	1	jehm
+觭	qehm	1	qehm
 鲭	qej	1	qejc
 欠缴	qejc	1
 鲭	qejce	1	qejc
@@ -77715,7 +77715,7 @@ columns:
 勤奋好学	qfhx	1
 前俯后仰	qfhy	1
 榷	qfi	1	qfiu
-卡	qfii	1	kfii
+卡	qfii	1	qfii
 榷	qfiu	1	qfiu
 棈	qfj	1	qfjc
 祛风解表	qfjb	1
@@ -77876,7 +77876,7 @@ columns:
 曲高和寡	qghg	1
 器	qghge	1	qghg
 跧	qghj	1	qghj
-踦	qghm	1	jghm
+踦	qghm	1	qghm
 噙	qghu	1	qghu
 吣	qgi	1	qgii
 吣	qgii	1	qgii
@@ -77894,11 +77894,11 @@ columns:
 跷	qgk	1	qgkh
 跷	qgkh	1	qgkh
 全国考试	qgks	1
-咭	qgl	1	jglg
+咭	qgl	1	qglg
 全国联保	qglb	1
 千古流传	qglc	1
 全国劳动模范	qglf	1
-咭	qglg	1	jglg
+咭	qglg	1	qglg
 全国劳模	qglm	1
 器量	qgln	1
 强国论坛	qglt	1
@@ -77977,12 +77977,12 @@ columns:
 切换按钮	qhan	1
 奇案	qhao	1
 强化安全	qhaq	1
-伽	qhb	1	ghbg
+伽	qhb	1	qhbg
 侨办	qhbb	1
 侨胞	qhbc	1
 清华北大	qhbd	1
 全包	qhbe	1
-伽	qhbg	1	ghbg
+伽	qhbg	1	qhbg
 确保	qhbh	1
 全被	qhbi	1
 全班	qhbj	1
@@ -78029,7 +78029,7 @@ columns:
 全等于	qhdy	1
 牵动着	qhdz	1
 确	qhe	1	qhee
-仇	qhee	1	chee
+仇	qhee	1	qhee
 确	qheee	1	qhee
 欹	qheh	1	qheh
 磜	qhej	1	qhej
@@ -78051,7 +78051,7 @@ columns:
 倾覆	qhfme	1
 全反射	qhfs	1
 全方位	qhfw	1
-敧	qhfx	1	jhfx
+敧	qhfx	1	qhfx
 唘	qhg	1	qhgg
 全给	qhgc	1
 全过程	qhgce	1
@@ -78083,7 +78083,7 @@ columns:
 前呼后拥	qhhyi	1
 犬	qhi	1	qhii
 犬	qhii	1	qhii
-傕	qhiu	1	jhiu
+傕	qhiu	1	qhiu
 倩	qhj	1	qhjc
 奇迹般	qhjb	1
 奇经	qhjc	1
@@ -78140,13 +78140,13 @@ columns:
 佉	qhlx	1	qhlx
 禽类	qhly	1
 侵略者	qhlz	1
-奇	qhm	1	jhmg
+奇	qhm	1	qhmg
 倾慕	qhma	1
 奇妙	qhmb	1
 犬马	qhmc	1
 全名	qhme	1
 全免费	qhmf	1
-奇	qhmg	1	jhmg
+奇	qhmg	1	qhmg
 全面	qhmh	1
 奇谋	qhmi	1
 俅	qhmie	1	qhmi
@@ -78399,7 +78399,7 @@ columns:
 请功	qigme	1
 诠	qih	1	qihj
 请回	qihd	1
-袷	qihg	1	jihg
+袷	qihg	1	qihg
 诠	qihj	1	qihj
 谯	qiho	1	qiho
 谦和	qihr	1
@@ -78470,8 +78470,8 @@ columns:
 请听	qitg	1
 请他	qith	1
 祛痰	qitu	1
-隺	qiu	1	hiuk
-隺	qiuk	1	hiuk
+隺	qiu	1	qiuk
+隺	qiuk	1	qiuk
 裙	qiv	1	qivg
 襁	qivg	1	qivg
 裙	qivge	1	qivg
@@ -78525,11 +78525,11 @@ columns:
 钱币	qjbq	1
 铅笔	qjbr	1
 趋吉避凶	qjbx	1
-钆	qjc	1	gjcc
+钆	qjc	1	qjcc
 青菜	qjca	1
 青草	qjcae	1
 青	qjcc	1	qjcc
-钆	qjcce	1	gjcc
+钆	qjcce	1	qjcc
 钱财	qjcd	1
 青春痘	qjcde	1
 青春饭	qjcf	1
@@ -78778,10 +78778,10 @@ columns:
 青州	qjzye	1
 情急之中	qjzz	1
 七	qk	1	qkkk
-⑦	qk	1
-Ⅶ	qk	1
-⁷	qk	1
-₇	qk	1
+⑦	qk	1	
+Ⅶ	qk	1	
+⁷	qk	1	
+₇	qk	1	
 轻按	qkau	1
 切	qkb	1	qkbb
 轻薄	qkba	1
@@ -78952,7 +78952,7 @@ columns:
 轻推	qktu	1
 轻弹	qktv	1
 情况通知	qktz	1
-区	qkw	1	okww
+区	qkw	1	qkww
 翘尾巴	qkwb	1
 切勿	qkwe	1
 区位	qkwh	1
@@ -78964,7 +78964,7 @@ columns:
 区委	qkwr	1
 翘望	qkwu	1
 翘尾	qkwv	1
-区	qkww	1	okww
+区	qkww	1	qkww
 情况危险	qkwx	1
 穷寇勿追	qkwz	1
 轻	qkx	1	qkxm
@@ -79046,14 +79046,14 @@ columns:
 强力措施	qlcs	1
 起床	qlcu	1
 去粗	qlcy	1
-趄	qld	1	jldk
+趄	qld	1	qldk
 强烈对比	qldb	1
 起电	qldd	1
 起点	qldf	1
 敲锣打鼓	qldg	1
 去得	qldi	1
 起动	qldj	1
-趄	qldk	1	jldk
+趄	qldk	1	qldk
 起到了	qldl	1
 墙垛	qldle	1
 却都	qldm	1
@@ -79062,7 +79062,7 @@ columns:
 枪林弹雨	qldy	1
 全力打造	qldz	1
 趋	qle	1	qlev
-壳	qlee	1	klee
+壳	qlee	1	qlee
 起而	qleh	1
 千里鹅毛	qlem	1
 趋	qlev	1	qlev
@@ -79455,10 +79455,10 @@ columns:
 求签	qmqr	1
 娶亲	qmqu	1
 全民企业	qmqy	1
-乾	qmr	1	gmrc
-☰	qmr	1
+乾	qmr	1	qmrc
+☰	qmr	1	qmr
 求荣	qmra	1
-乾	qmrc	1	gmrc
+乾	qmrc	1	qmrc
 求饶	qmre	1
 求人	qmrh	1
 鞒	qmrq	1	qmrq
@@ -79598,7 +79598,7 @@ columns:
 戕	qnk	1	qnki
 潜能开发	qnkf	1
 戕	qnki	1	qnki
-亟	qnkk	1	jnkk
+亟	qnkk	1	qnkk
 晴空	qnko	1
 去年开始	qnks	1
 墙内开花墙外香	qnkx	1
@@ -80011,7 +80011,7 @@ columns:
 签	qrh	1	qrho
 签好	qrhb	1
 迁回	qrhd	1
-稽	qrhe	1	jrhe
+稽	qrhe	1	qrhe
 气候	qrhh	1
 气化	qrhhe	1
 缺货	qrhhi	1
@@ -80157,7 +80157,7 @@ columns:
 缺	qrvi	1	qrvi
 迁	qrvv	1	qrvv
 迄	qrvve	1	qrvv
-犍	qrvx	1	jrvx
+犍	qrvx	1	qrvx
 气味	qrwg	1
 缺位	qrwh	1
 迁往	qrwi	1
@@ -80281,9 +80281,9 @@ columns:
 清淡	qsds	1
 渠道	qsdy	1
 清单	qsdye	1
-氿	qse	1	gsee
+氿	qse	1	qsee
 七十二变	qseb	1
-氿	qsee	1	gsee
+氿	qsee	1	qsee
 穷山恶水	qses	1
 全身而退	qset	1
 亲生儿子	qsez	1
@@ -80333,7 +80333,7 @@ columns:
 清	qsjci	1	qsjc
 浅见	qsjd	1
 清洁工	qsjg	1
-浅	qsji	1	jsji
+浅	qsji	1	qsji
 清静	qsjj	1
 亲身经历	qsjl	1
 清教	qsjm	1
@@ -80414,7 +80414,7 @@ columns:
 请神容易送神难	qsrn	1
 清热	qsru	1
 潜入	qsrw	1
-湫	qsry	1	jsry
+湫	qsry	1	qsry
 潜山	qssd	1
 浅色	qsse	1
 清水房	qssf	1
@@ -80614,9 +80614,9 @@ columns:
 抢断	qudy	1
 掐	que	1	queq
 弃儿	quee	1
-竘	queg	1	kueg
+竘	queg	1	queg
 亲耳	quem	1
-将	queme	1	juem
+将	queme	1	quem
 掐	queq	1	queq
 敲	quf	1	qufx
 齐发	qufb	1
@@ -80688,7 +80688,7 @@ columns:
 弃疗	quluo	1
 麒	qum	1	qumw
 亲妈	qumb	1
-廑	qumd	1	jumd
+廑	qumd	1	qumd
 齐名	qume	1
 齐鸣	qumg	1
 掐灭	qumk	1
@@ -80801,7 +80801,7 @@ columns:
 抢注	quzs	1
 亲族	quzu	1
 抢着	quzy	1
-强	qv	1	jvgd
+强	qv	1	qvgd
 强暴	qvbn	1
 强辩	qvbu	1
 屈从	qvch	1
@@ -80827,9 +80827,9 @@ columns:
 强风	qvfe	1
 群防	qvfn	1
 屈服于	qvfy	1
-强	qvg	1	jvgd
+强	qvg	1	qvgd
 强国	qvgd	1
-强	qvgde	1	jvgd
+强	qvgde	1	qvgd
 群公告	qvgg	1
 群规	qvgj	1
 强光	qvgk	1
@@ -81260,7 +81260,7 @@ columns:
 拳	qyu	1	qyuu
 拳	qyuu	1	qyuu
 遒	qyv	1	qyvv
-炔	qyvi	1	gyvi
+炔	qyvi	1	qyvi
 遒	qyvv	1	qyvv
 趋于稳定	qywd	1
 企业文化	qywh	1
@@ -81285,7 +81285,7 @@ columns:
 前些年	qyxn	1
 前囟	qyxq	1
 前些天	qyxt	1
-焌	qyxw	1	jyxw
+焌	qyxw	1	qyxw
 前戏	qyxx	1
 气焰嚣张	qyxz	1
 前缘	qyyc	1
@@ -81552,8 +81552,8 @@ columns:
 热爱祖国	razg	1
 惹众怒	razn	1
 如	rb	1	rbgg
-婼	rba	1	cbah
-婼	rbah	1	cbah
+婼	rba	1	rbah
+婼	rbah	1	rbah
 如不	rbbh	1
 忍不了	rbbl	1
 忍不住	rbbz	1
@@ -81975,8 +81975,8 @@ columns:
 桡	rfk	1	rfkh
 桡	rfkh	1	rfkh
 睿	rfkw	1	rfkw
-檽	rfl	1	nflh
-檽	rflh	1	nflh
+檽	rfl	1	rflh
+檽	rflh	1	rflh
 榕	rfo	1	rfow
 榕	rfow	1	rfow
 如法炮制	rfpz	1
@@ -81986,8 +81986,8 @@ columns:
 人浮于事	rfys	1
 睿智	rfzr	1
 嚷	rg	1	rgug
-喏	rga	1	ngah
-喏	rgah	1	ngah
+喏	rga	1	rgah
+喏	rgah	1	rgah
 如果不能	rgbn	1
 如果不是	rgbs	1
 人工操作	rgcz	1
@@ -82120,7 +82120,7 @@ columns:
 任何个人	rhgr	1
 任何公司	rhgs	1
 融会贯通	rhgt	1
-耎	rhh	1	nhhi
+耎	rhh	1	rhhi
 任何回报	rhhb	1
 任何好处	rhhc	1
 如何划分	rhhf	1
@@ -82129,7 +82129,7 @@ columns:
 仁厚	rhhhi	1
 人	rhhho	1	rhhh
 人祸	rhhi	1
-耎	rhhie	1	nhhi
+耎	rhhie	1	rhhi
 仁怀	rhho	1
 任何人	rhhr	1
 人海	rhhs	1
@@ -82651,7 +82651,7 @@ columns:
 热浪滚滚	rlgg	1
 颥	rlh	1	rlhd
 颥	rlhd	1	rlhd
-堧	rlhh	1	nlhh
+堧	rlhh	1	rlhh
 热烈欢迎	rlhy	1
 人类进步	rljb	1
 人类健康	rljk	1
@@ -83146,8 +83146,8 @@ columns:
 人生态度	rstd	1
 人是铁饭是钢	rstg	1
 人生体验	rsty	1
-瀼	rsu	1	nsug
-瀼	rsug	1	nsug
+瀼	rsu	1	rsug
+瀼	rsug	1	rsug
 人生无常	rswc	1
 润物	rswr	1
 认识问题	rswt	1
@@ -83846,7 +83846,7 @@ columns:
 苏杭	sahf	1
 薞	sahh	1	sahh
 荗	sahi	1	sahi
-葰	sahx	1	jahx
+葰	sahx	1	sahx
 蒜	saj	1	sajj
 肾经	sajc	1
 涉案金额	saje	1
@@ -83865,7 +83865,7 @@ columns:
 蓍	sam	1	samn
 蒜苗	sama	1
 萨姆	samb	1
-葚	samc	1	ramc
+葚	samc	1	samc
 苏美尔	same	1
 蔌	samee	1	same
 苏木	samf	1
@@ -83990,11 +83990,11 @@ columns:
 事不过三	sbgse	1
 食不甘味	sbgw	1
 善罢甘休	sbgx	1
-娠	sbh	1	cbhj
+娠	sbh	1	sbhj
 始皇帝	sbhd	1
 死不悔改	sbhg	1
 睡不好觉	sbhj	1
-娠	sbhje	1	cbhj
+娠	sbhje	1	sbhj
 水不涵木	sbhm	1
 始皇	sbhq	1
 三八红旗手	sbhs	1
@@ -84201,7 +84201,7 @@ columns:
 臊	scgf	1	scgf
 书柜	scgfe	1
 诗词歌赋	scgfi	1
-缲	scgfo	1	qcgf
+缲	scgfo	1	scgf
 生产工具	scgj	1
 丝光	scgk	1
 生产管理	scgl	1
@@ -84355,8 +84355,8 @@ columns:
 书摊	sctu	1
 书同文	sctw	1
 市场体系	sctx	1
-膻	scu	1	dcud
-膻	scud	1	dcud
+膻	scu	1	scud
+膻	scud	1	scud
 骕	scv	1	scvi
 骕	scvi	1	scvi
 绥	scw	1	scwb
@@ -84426,10 +84426,10 @@ columns:
 缩着	sczy	1
 生产总值	sczz	1
 四	sd	1	sdkk
-④	sd	1
-Ⅳ	sd	1
-⁴	sd	1
-₄	sd	1
+④	sd	1	
+Ⅳ	sd	1	
+⁴	sd	1	
+₄	sd	1	
 沙丁胺醇	sdac	1
 山坳	sdal	1
 山隘	sdan	1
@@ -84488,7 +84488,7 @@ columns:
 睡大觉	sddj	1
 受到打击	sddje	1
 蛇毒	sddji	1
-瞤	sddjo	1	rddj
+瞤	sddjo	1	sddj
 山东	sddk	1
 山地	sddl	1
 山顶	sddm	1
@@ -84950,7 +84950,7 @@ columns:
 鳋	sexd	1	sexd
 色系	sexe	1
 色相	sexf	1
-鲹	sexh	1	cexh
+鲹	sexh	1	sexh
 煞星	sexn	1
 色香	sexr	1
 飧泻	sexs	1
@@ -85041,12 +85041,12 @@ columns:
 师范大学	sfdxe	1
 上道	sfdy	1
 示范动作	sfdz	1
-栅	sfe	1	cfek
+栅	sfe	1	sfek
 十分恩爱	sfea	1
 上颚	sfeg	1
 顺风而呼	sfeh	1
-杓	sfei	1	bfei
-栅	sfek	1	cfek
+杓	sfei	1	sfei
+栅	sfek	1	sfek
 随风而去	sfeq	1
 随风而逝	sfes	1
 森	sff	1	sfff
@@ -85256,7 +85256,7 @@ columns:
 上调	sfti	1
 上天	sftj	1
 松土	sftl	1
-楯	sftm	1	dftm
+楯	sftm	1	sftm
 上题	sftn	1
 上头	sfto	1
 梳头	sftoe	1
@@ -85424,7 +85424,7 @@ columns:
 收归国有	sggy	1
 啥	sgh	1	sghj
 嗜好	sghb	1
-嗄	sghe	1	aghe
+嗄	sghe	1	sghe
 啥	sghj	1	sghj
 师河区	sghq	1
 嗣后	sght	1
@@ -85620,7 +85620,7 @@ columns:
 似曾	shcy	1
 伸	shd	1	shdd
 食道癌	shda	1
-厕	shdae	1	chda
+厕	shdae	1	shda
 社会调查	shdc	1
 砷	shdd	1	shdd
 盛典	shdde	1
@@ -85635,7 +85635,7 @@ columns:
 舍得	shdie	1
 死得	shdii	1
 蜃	shdio	1	shdi
-盛	shdk	1	chdk
+盛	shdk	1	shdk
 伸到	shdke	1
 死党	shdki	1
 畲	shdko	1	shdk
@@ -85678,14 +85678,14 @@ columns:
 什邡	shfue	1
 售后服务	shfw	1
 社会发展	shfz	1
-石	shg	1	dhgg
+石	shg	1	shgg
 食管癌	shga	1
 硕果	shgd	1
 社会公德	shgde	1
 使馆	shge	1
 售	shgg	1	shgg
 深化改革	shgge	1
-石	shggi	1	dhgg
+石	shggi	1	shgg
 伤感	shgh	1
 社会各界	shgj	1
 砂锅	shgje	1
@@ -85977,8 +85977,8 @@ columns:
 食糖	shtye	1
 碎	shu	1	shuh
 碎	shuh	1	shuh
-伺	shv	1	chvg
-伺	shvg	1	chvg
+伺	shv	1	shvg
+伺	shvg	1	shvg
 俗	shw	1	shwg
 伤胃	shwd	1
 舍务	shwe	1
@@ -86015,7 +86015,7 @@ columns:
 死穴	shxo	1
 伸向	shxq	1
 傻笑	shxr	1
-俟	shxre	1	qhxr
+俟	shxre	1	shxr
 伤心事	shxs	1
 三好学生	shxse	1
 飱泻	shxsi	1
@@ -86355,12 +86355,12 @@ columns:
 说笑	sixr	1
 神效	sixu	1
 扇	sixx	1	sixx
-禅	siy	1	ciyd
+禅	siy	1	siyd
 试用版	siyb	1
 试验	siyc	1
 视野	siyd	1
 谥	siyde	1	siyd
-禅	siydi	1	ciyd
+禅	siydi	1	siyd
 试用	siye	1
 社员	siyg	1
 说	siyge	1	siyg
@@ -86403,10 +86403,10 @@ columns:
 试着	sizye	1
 神州	sizyi	1
 三	sj	1	sjkk
-③	sj	1
-Ⅲ	sj	1
-³	sj	1
-₃	sj	1
+③	sj	1	
+Ⅲ	sj	1	
+³	sj	1	
+₃	sj	1	
 时间安排	sjap	1
 生机盎然	sjar	1
 示爱	sjaw	1
@@ -86873,8 +86873,8 @@ columns:
 输送	sksye	1
 省厅	skth	1
 时刻提醒	sktx	1
-裳	sku	1	ckui
-裳	skui	1	ckui
+裳	sku	1	skui
+裳	skui	1	skui
 省外	skwe	1
 省委会	skwh	1
 式微	skwi	1
@@ -86993,8 +86993,8 @@ columns:
 声泪俱下	sljx	1
 十聋九哑	sljy	1
 十六进制	sljz	1
-埫	slk	1	clkd
-埫	slkd	1	clkd
+埫	slk	1	slkd
+埫	slkd	1	slkd
 声卡	slkf	1
 松了口气	slkq	1
 声控	slku	1
@@ -87110,8 +87110,8 @@ columns:
 水利资源	slzy	1
 审理之中	slzz	1
 十	sm	1	smmm
-⑩	sm	1
-Ⅹ	sm	1
+⑩	sm	1	
+Ⅹ	sm	1	
 生命安全	smaq	1
 索爱	smaw	1
 上门安装	smaz	1
@@ -87237,9 +87237,9 @@ columns:
 世界语	smjy	1
 十进制	smjz	1
 散架子	smjze	1
-鞘	smk	1	qmkc
+鞘	smk	1	smkc
 酸苦	smka	1
-鞘	smkc	1	qmkc
+鞘	smkc	1	smkc
 酾	smkd	1	smkd
 生命可贵	smkg	1
 四面开花	smkh	1
@@ -87481,9 +87481,9 @@ columns:
 时代性	sndx	1
 隧道	sndy	1
 少年得志	sndz	1
-匙	sne	1	cnee
+匙	sne	1	snee
 孙儿	snee	1
-匙	sneee	1	cnee
+匙	sneee	1	snee
 时而	sneh	1
 少年儿童	snet	1
 收发	snfb	1
@@ -88309,7 +88309,7 @@ columns:
 升幅	srfd	1
 适逢	srfe	1
 税负	srfee	1
-乘	srfei	1	crfe
+乘	srfei	1	srfe
 生非	srff	1
 杀人放火	srfh	1
 秫	srfi	1	srfi
@@ -88791,10 +88791,10 @@ columns:
 淞	ssfwe	1	ssfw
 淑	ssfx	1	ssfx
 水粉	ssfy	1
-渑	ssg	1	msgd
+渑	ssg	1	ssgd
 水果	ssgd	1
 水果店	ssgde	1
-渑	ssgdi	1	msgd
+渑	ssgdi	1	ssgd
 深感	ssgh	1
 深耕	ssgj	1
 水垢	ssgl	1
@@ -88835,7 +88835,7 @@ columns:
 水火	sshy	1
 水浒传	sshz	1
 深	ssi	1	ssif
-沈	ssic	1	csic
+沈	ssic	1	ssic
 深	ssif	1	ssif
 湿巾	ssjd	1
 涉及到	ssjde	1
@@ -89382,7 +89382,7 @@ columns:
 商报	subuo	1
 撒播	subuu	1
 手臂	subv	1
-率	suc	1	lucm
+率	suc	1	sucm
 市场部	sucb	1
 手抄本	sucbe	1
 手串	sucd	1
@@ -89395,7 +89395,7 @@ columns:
 商场	sucle	1
 商城	sucli	1
 商朝	sucm	1
-率	sucme	1	lucm
+率	sucme	1	sucm
 扫除	sucn	1
 搜出	sucne	1
 庶出	sucni	1
@@ -89579,7 +89579,7 @@ columns:
 庶母	sumc	1
 授帽	sumd	1
 商贸	sume	1
-揲	sumf	1	dumf
+揲	sumf	1	sumf
 扫码	sumh	1
 市面	sumhe	1
 竦	sumi	1	sumi
@@ -89740,7 +89740,7 @@ columns:
 授勋	suxg	1
 摄像	suxh	1
 瘆	suxhe	1	suxh
-掺	suxhi	1	cuxh
+掺	suxhi	1	suxh
 手写	suxi	1
 手心	suxie	1
 授衔	suxii	1
@@ -89769,7 +89769,7 @@ columns:
 搠	suyc	1	suyc
 拾遗	suyd	1
 撒野	suyde	1
-掸	suydi	1	duyd
+掸	suydi	1	suyd
 商用	suye	1
 手印	suyee	1
 撕咬	suyg	1
@@ -89886,11 +89886,11 @@ columns:
 刷墙	svql	1
 肃清	svqs	1
 肃然	svre	1
-尿	svs	1	nvss
+尿	svs	1	svss
 巳时	svsn	1
 属实	svso	1
 尸身	svsq	1
-尿	svss	1	nvss
+尿	svss	1	svss
 肃杀	svsw	1
 尸首	svsy	1
 司汤达	svtd	1
@@ -89915,8 +89915,8 @@ columns:
 刷子	svzn	1
 司长	svzr	1
 受	sw	1	swxx
-刹	swa	1	cwaa
-刹	swaa	1	cwaa
+刹	swa	1	swaa
+刹	swaa	1	swaa
 受案	swao	1
 杀败	swbd	1
 受不了	swbl	1
@@ -90228,7 +90228,7 @@ columns:
 双关	sxgy	1
 思想工作	sxgz	1
 双轨制	sxgze	1
-参	sxh	1	cxht
+参	sxh	1	sxht
 双花	sxha	1
 思想汇报	sxhb	1
 颡	sxhd	1	sxhd
@@ -90239,7 +90239,7 @@ columns:
 思想混乱	sxhl	1
 双簧	sxhr	1
 双汇	sxhs	1
-参	sxht	1	cxht
+参	sxht	1	sxht
 圣火	sxhy	1
 死刑核准	sxhz	1
 双节	sxja	1
@@ -90469,10 +90469,10 @@ columns:
 首次	sycu	1
 数次	sycue	1
 师夷长技以制夷	sycy	1
-单	syd	1	cydd
+单	syd	1	sydd
 送电	sydd	1
 省油的灯	sydde	1
-单	syddi	1	cydd
+单	syddi	1	sydd
 送点	sydf	1
 送达	sydh	1
 善待	sydi	1
@@ -90960,8 +90960,8 @@ columns:
 特别	t	1
 通过	t	1
 藤	ta	1	tacy
-苕	tab	1	sabg
-苕	tabg	1	sabg
+苕	tab	1	tabg
+苕	tabg	1	tabg
 藤	tac	1	tacy
 藤	tacy	1	tacy
 茼	tad	1	tadk
@@ -91177,11 +91177,11 @@ columns:
 脱稿	tcgr	1
 突出贡献	tcgx	1
 同床共枕	tcgz	1
-驮	tch	1	dchi
+驮	tch	1	tchi
 统合	tchh	1
 肽	tchi	1	tchi
 豚	tchie	1	tchi
-驮	tchii	1	dchi
+驮	tchii	1	tchi
 图财害命	tchm	1
 贪财好色	tchs	1
 同窗好友	tchy	1
@@ -91291,7 +91291,7 @@ columns:
 膛线	tcxc	1
 滕县	tcxd	1
 痛彻心扉	tcxf	1
-骀	tcxg	1	dcxg
+骀	tcxg	1	tcxg
 胎	tcxge	1	tcxg
 腾讯	tcxi	1
 脱销	tcxj	1
@@ -91316,7 +91316,7 @@ columns:
 滕	tcys	1	tcys
 推迟一天	tcyt	1
 脱衣	tcyu	1
-绨	tcyv	1	dcyv
+绨	tcyv	1	tcyv
 提出疑问	tcyw	1
 统一性	tcyx	1
 同出一辙	tcyz	1
@@ -91371,14 +91371,14 @@ columns:
 同船	tdct	1
 同床	tdcu	1
 图层	tdcv	1
-峒	tdd	1	dddk
+峒	tdd	1	tddk
 铁打的营盘流水的兵	tddb	1
 同等对待	tddd	1
 同德	tddi	1
 图钉	tddj	1
 贴到	tddk	1
 同党	tddke	1
-峒	tddki	1	dddk
+峒	tddki	1	tddk
 田地	tddl	1
 团队	tddn	1
 同等	tddr	1
@@ -91390,7 +91390,7 @@ columns:
 蜩	tdel	1	tdel
 图	tdeo	1	tdeo
 盷	tdeu	1	tdeu
-骰	tdex	1	sdex
+骰	tdex	1	tdex
 贴	tdf	1	tdfg
 田赋	tdfd	1
 同犯	tdfe	1
@@ -91445,7 +91445,7 @@ columns:
 同居	tdjv	1
 田鸡	tdjx	1
 田	tdk	1	tdkk
-囤	tdkc	1	ddkc
+囤	tdkc	1	tdkc
 土地开发	tdkf	1
 同	tdkg	1	tdkg
 田	tdkk	1	tdkk
@@ -91481,7 +91481,7 @@ columns:
 同盟军	tdmj	1
 团灭	tdmk	1
 态度明朗	tdml	1
-町	tdmm	1	ddmm
+町	tdmm	1	tdmm
 同盟	tdmn	1
 同门	tdmp	1
 贴满	tdms	1
@@ -91720,11 +91720,11 @@ columns:
 梯度	tfdu	1
 天覆地载	tfdz	1
 桶盖	tfgy	1
-梌	tfh	1	cfhj
+梌	tfh	1	tfhj
 桃花	tfha	1
 桃红	tfhc	1
 桃核	tfhf	1
-梌	tfhj	1	cfhj
+梌	tfhj	1	tfhj
 桃花运	tfhy	1
 忐	tfi	1	tfii
 忐	tfii	1	tfii
@@ -91750,13 +91750,13 @@ columns:
 桶内	tfnd	1
 椭	tfnh	1	tfnh
 榻	tfnx	1	tfnx
-柁	tfo	1	dfoe
-柁	tfoe	1	dfoe
+柁	tfo	1	tfoe
+柁	tfoe	1	tfoe
 椭球	tfqj	1
 凸起	tfql	1
 突发奇想	tfqx	1
 梃	tfr	1	tfrx
-栝	tfrg	1	gfrg
+栝	tfrg	1	tfrg
 桃仁	tfrh	1
 天赋人权	tfrq	1
 梃	tfrx	1	tfrx
@@ -91776,7 +91776,7 @@ columns:
 桃	tfwb	1	tfwb
 桶	tfx	1	tfxd
 桶	tfxd	1	tfxd
-枱	tfxg	1	sfxg
+枱	tfxg	1	tfxg
 梯形	tfxj	1
 凸显	tfxn	1
 檀香	tfxr	1
@@ -91800,11 +91800,11 @@ columns:
 桶装水	tfzs	1
 桶装	tfzu	1
 听	tg	1	tgtd
-嗒	tga	1	dgah
-嗒	tgah	1	dgah
-叨	tgb	1	dgbb
+嗒	tga	1	tgah
+嗒	tgah	1	tgah
+叨	tgb	1	tgbb
 吐蕃	tgba	1
-叨	tgbb	1	dgbb
+叨	tgbb	1	tgbb
 同工不同酬	tgbc	1
 听不懂	tgbd	1
 听不到	tgbde	1
@@ -91874,7 +91874,7 @@ columns:
 叹号	tghg	1
 听候	tghh	1
 听话	tghi	1
-呔	tghie	1	dghi
+呔	tghie	1	tghi
 饕	tghii	1	tghi
 天高海阔	tghk	1
 退耕还林	tghl	1
@@ -92004,9 +92004,9 @@ columns:
 弹冠相庆	tgxqi	1
 嗵	tgxv	1	tgxv
 叹	tgxx	1	tgxx
-啴	tgy	1	cgyd
+啴	tgy	1	tgyd
 跳崖	tgyd	1
-啴	tgyde	1	cgyd
+啴	tgyde	1	tgyd
 天各一方	tgyf	1
 跳跃	tgyg	1
 韬光养晦	tgyh	1
@@ -92092,8 +92092,8 @@ columns:
 贪	thdho	1	thdh
 他得	thdi	1
 停顿	thdk	1
-佃	thdke	1	dhdk
-侗	thdki	1	dhdk
+佃	thdke	1	thdk
+侗	thdki	1	thdk
 太多了	thdl	1
 他都	thdm	1
 太短	thdr	1
@@ -92106,7 +92106,7 @@ columns:
 套儿	thee	1
 倜	thel	1	thel
 佟	theo	1	theo
-俶	thf	1	chfx
+俶	thf	1	thfx
 停发	thfb	1
 停飞	thfbe	1
 套服	thfc	1
@@ -92115,7 +92115,7 @@ columns:
 套房	thfi	1
 贪腐	thfu	1
 停放	thfue	1
-俶	thfx	1	chfx
+俶	thfx	1	thfx
 碳粉	thfy	1
 太复杂	thfz	1
 他给	thgc	1
@@ -92189,10 +92189,10 @@ columns:
 停建	thjv	1
 厅局	thjve	1
 厅局长	thjz	1
-倘	thk	1	chkd
+倘	thk	1	thkd
 太苦	thka	1
 太空船	thkc	1
-倘	thkd	1	chkd
+倘	thkd	1	thkd
 傥	thke	1	thke
 太空服	thkf	1
 停课	thki	1
@@ -92437,11 +92437,11 @@ columns:
 调补	tibi	1
 谈不来	tibl	1
 谈不上	tibs	1
-褖	tic	1	trci
+褖	tic	1	tici
 调畅	ticd	1
 调处	tice	1
 谈成	tich	1
-褖	tici	1	trci
+褖	tici	1	tici
 谈点	tidf	1
 调低	tidh	1
 谈得	tidi	1
@@ -92449,8 +92449,8 @@ columns:
 谈得来	tidl	1
 谈得上	tids	1
 徒弟	tidy	1
-调	tie	1	diel
-调	tiel	1	diel
+调	tie	1	tiel
+调	tiel	1	tiel
 祹	tier	1	tier
 调幅	tifd	1
 讨饭	tife	1
@@ -92744,7 +92744,7 @@ columns:
 天冷	tjlue	1
 铁路网	tjlw	1
 铁路线	tjlx	1
-镡	tjm	1	cjmn
+镡	tjm	1	tjmn
 天幕	tjma	1
 天马	tjmc	1
 天门冬	tjmd	1
@@ -92754,7 +92754,7 @@ columns:
 铁锚	tjmj	1
 吞灭	tjmk	1
 天明	tjmn	1
-镡	tjmne	1	cjmn
+镡	tjmne	1	tjmn
 铁门	tjmp	1
 天门	tjmpe	1
 吞没	tjms	1
@@ -92772,9 +92772,9 @@ columns:
 天年	tjnr	1
 天南星	tjnx	1
 铁娘子	tjnz	1
-焘	tjo	1	djoo
+焘	tjo	1	tjoo
 铊	tjoe	1	tjoe
-焘	tjoo	1	djoo
+焘	tjoo	1	tjoo
 铁皮	tjpb	1
 天疱疮	tjpc	1
 天棚	tjpf	1
@@ -92810,7 +92810,7 @@ columns:
 天然气	tjrq	1
 天热	tjru	1
 吞入	tjrw	1
-铤	tjrx	1	djrx
+铤	tjrx	1	tjrx
 统计人员	tjry	1
 泰	tjs	1	tjss
 铴	tjsb	1	tjsb
@@ -92856,7 +92856,7 @@ columns:
 璮	tjud	1	tjud
 瑭	tjuv	1	tjuv
 韬	tjw	1	tjwq
-铫	tjwb	1	djwb
+铫	tjwb	1	tjwb
 铁腕	tjwc	1
 天网	tjwd	1
 铁网	tjwde	1
@@ -92973,8 +92973,8 @@ columns:
 特快专递	tkzd	1
 屯子	tkzn	1
 土	tl	1	tlll
-塔	tla	1	dlah
-塔	tlah	1	dlah
+塔	tla	1	tlah
+塔	tlah	1	tlah
 天龙八部	tlbb	1
 土鳖虫	tlbc	1
 螳螂捕蝉	tlbce	1
@@ -93005,12 +93005,12 @@ columns:
 土层	tlcv	1
 填充物	tlcw	1
 土财主	tlcz	1
-垌	tld	1	dldk
+垌	tld	1	tldk
 坦荡	tlda	1
 土地法	tldf	1
 塔吊	tldg	1
 土豆	tldk	1
-垌	tldke	1	dldk
+垌	tldke	1	tldk
 土地	tldl	1
 塔顶	tldm	1
 土豆泥	tldn	1
@@ -93033,11 +93033,11 @@ columns:
 土方	tlfu	1
 塌方	tlfue	1
 讨论范围	tlfw	1
-埕	tlg	1	clgj
+埕	tlg	1	tlgj
 铁路公安	tlga	1
 铁路工程	tlgc	1
 土岗	tlgd	1
-埕	tlgj	1	clgj
+埕	tlgj	1	tlgj
 土工	tlgm	1
 塘沽区	tlgq	1
 塘沽	tlgs	1
@@ -93215,8 +93215,8 @@ columns:
 土木建筑	tmjz	1
 天蒙蒙亮	tmml	1
 醍	tmn	1	tmnm
-髢	tmnc	1	dmnc
-覃	tmnm	1	qmnm
+髢	tmnc	1	tmnc
+覃	tmnm	1	tmnm
 醍	tmnme	1	tmnm
 酡	tmo	1	tmoe
 酡	tmoe	1	tmoe
@@ -93375,8 +93375,8 @@ columns:
 它将	toju	1
 头奖	tojue	1
 头颈	tojx	1
-惝	tok	1	cokd
-惝	tokd	1	cokd
+惝	tok	1	tokd
+惝	tokd	1	tokd
 恸哭	tokg	1
 头盔	tokh	1
 头脸	tolc	1
@@ -93525,12 +93525,12 @@ columns:
 天气闷热	tqmr	1
 躺平	tqpl	1
 听取批评	tqpp	1
-魄	tqq	1	pqqx
+魄	tqq	1	tqqx
 躺枪	tqqf	1
 天气情况	tqqk	1
 天气晴朗	tqql	1
 提前确认	tqqr	1
-魄	tqqx	1	pqqx
+魄	tqqx	1	tqqx
 同情弱者	tqrz	1
 谈情说爱	tqsa	1
 投其所好	tqsh	1
@@ -93757,12 +93757,12 @@ columns:
 笤帚	trzv	1
 透着	trzy	1
 甜滋滋	trzz	1
-汤	ts	1	ssbe
+汤	ts	1	tsbe
 妥善安排	tsap	1
 妥善安置	tsaz	1
-汤	tsb	1	ssbe
+汤	tsb	1	tsbe
 泰山北斗	tsbd	1
-汤	tsbe	1	ssbe
+汤	tsbe	1	tsbe
 妥善保管	tsbg	1
 涂布	tsbh	1
 添补	tsbi	1
@@ -93783,7 +93783,7 @@ columns:
 妥善处置	tscz	1
 湍	tsd	1	tsdh
 天上掉馅饼	tsdb	1
-漯	tsdc	1	lsdc
+漯	tsdc	1	tsdc
 天时地利人和	tsdh	1
 湍	tsdhe	1	tsdh
 沺	tsdk	1	tsdk
@@ -93797,7 +93797,7 @@ columns:
 淘	tse	1	tser
 挺身而出	tsec	1
 淘	tser	1	tser
-澹	tseu	1	dseu
+澹	tseu	1	tseu
 烫发	tsfb	1
 提升幅度	tsfd	1
 添饭	tsfe	1
@@ -93863,9 +93863,9 @@ columns:
 添满	tsms	1
 涂抹	tsmu	1
 淘米	tsmy	1
-沓	tsn	1	dsnn
+沓	tsn	1	tsnn
 潼南	tsnm	1
-沓	tsnn	1	dsnn
+沓	tsnn	1	tsnn
 洮南市	tsns	1
 溻	tsnx	1	tsnx
 坦桑尼亚	tsny	1
@@ -94033,7 +94033,7 @@ columns:
 贪天之功	ttzg	1
 滔天罪行	ttzx	1
 堂堂正正	ttzz	1
-提	tu	1	dunm
+提	tu	1	tunm
 提案	tuao	1
 投案	tuaoe	1
 疼爱	tuaw	1
@@ -94256,7 +94256,7 @@ columns:
 童女	tunb	1
 童男	tund	1
 推拿	tunh	1
-提	tunm	1	dunm
+提	tunm	1	tunm
 鄌	tunn	1	tunn
 童年	tunr	1
 痰凝	tunu	1
@@ -94570,9 +94570,9 @@ columns:
 退学	tvxoe	1
 退虚热	tvxr	1
 退席	tvxu	1
-弹	tvy	1	dvyd
+弹	tvy	1	tvyd
 退一步	tvyb	1
-弹	tvyd	1	dvyd
+弹	tvyd	1	tvyd
 弹压	tvyh	1
 退役	tvyi	1
 退翳	tvyk	1
@@ -95113,25 +95113,25 @@ columns:
 弹指之间	tzzj	1
 投资主体	tzzt	1
 题中之义	tzzy	1
-有	u	1	yhcc
-要	ua	1	ymbk
-吧	ub	1	bgnc
-重	uc	1	crkk
-第	ud	1	drve
-久	ue	1	jeii
-会	uf	1	hhjx
-长	ug	1	crii
-拿	ui	1	nhuu
-自	uq	1	zqkk
-如	ur	1	rbgg
-她	us	1	tbnc
-体	ut	1	thmk
-应	uu	1	yuok
-种	uv	1	zrdd
-于	uw	1	yjdd
-对	ux	1	dxmi
-正	uz	1	zmkk
-这	v	1	zuvv
+有	u	1
+要	ua	1
+吧	ub	1
+重	uc	1
+第	ud	1
+久	ue	1
+会	uf	1
+长	ug	1
+拿	ui	1
+自	uq	1
+如	ur	1
+她	us	1
+体	ut	1
+应	uu	1
+种	uv	1
+于	uw	1
+对	ux	1
+正	uz	1
+这	v	1
 这些	v	1
 这样	v	1
 ～	va	1
@@ -95319,11 +95319,11 @@ columns:
 蔚蓝	wala	1
 蔚蓝色	wals	1
 萎靡	wamu	1
-蔓	wan	1	mand
-蔓	wand	1	mand
-莞	wao	1	gaoj
+蔓	wan	1	wand
+蔓	wand	1	wand
+莞	wao	1	waoj
 菀	waoe	1	waoe
-莞	waoj	1	gaoj
+莞	waoj	1	waoj
 萎	war	1	warb
 葳蕤	wara	1
 萎	warb	1	warb
@@ -95347,8 +95347,8 @@ columns:
 无比沉重	wbcz	1
 文不对题	wbdt	1
 万不得已	wbdy	1
-姽	wbe	1	gbec
-姽	wbec	1	gbec
+姽	wbe	1	wbec
+姽	wbec	1	wbec
 温布尔登	wbed	1
 我不犯人	wbfr	1
 我必犯人	wbfre	1
@@ -95372,7 +95372,7 @@ columns:
 外部矛盾	wbmd	1
 温补命门	wbmm	1
 婉	wbo	1	wboe
-婠	wbod	1	gbod
+婠	wbod	1	wbod
 婉	wboe	1	wboe
 温补脾肾	wbps	1
 温补脾胃	wbpw	1
@@ -95606,7 +95606,7 @@ columns:
 网课	wdki	1
 畏	wdkie	1	wdki
 网刊	wdkj	1
-凹	wdkk	1	adkk
+凹	wdkk	1	wdkk
 围垦	wdkv	1
 胃溃疡	wdky	1
 蛙	wdl	1	wdll
@@ -96087,8 +96087,8 @@ columns:
 物阜民丰	wfmf	1
 梧	wfmg	1	wfmg
 万夫莫开	wfmk	1
-椀	wfo	1	mfoe
-椀	wfoe	1	mfoe
+椀	wfo	1	wfoe
+椀	wfoe	1	wfoe
 无法排除	wfpc	1
 无法判断	wfpd	1
 无法平衡	wfph	1
@@ -96210,9 +96210,9 @@ columns:
 哇	wgll	1	wgll
 喂料	wgly	1
 歪瓜裂枣	wglz	1
-唔	wgm	1	egmg
+唔	wgm	1	wgmg
 喂马	wgmc	1
-唔	wgmg	1	egmg
+唔	wgmg	1	wgmg
 唯命	wgmh	1
 外国名牌	wgmp	1
 万古霉素	wgms	1
@@ -96247,8 +96247,8 @@ columns:
 五光十色	wgss	1
 无关痛痒	wgty	1
 外国投资	wgtz	1
-喔	wgv	1	ogvk
-喔	wgvk	1	ogvk
+喔	wgv	1	wgvk
+喔	wgvk	1	wgvk
 嗡	wgw	1	wgwx
 呜呜	wgwg	1
 哇哇	wgwge	1
@@ -96401,9 +96401,9 @@ columns:
 戊土	whtl	1
 歪头	whto	1
 伪托	whtu	1
-隹	whu	1	chuk
+隹	whu	1	whuk
 位	whuk	1	whuk
-隹	whuke	1	chuk
+隹	whuke	1	whuk
 偓	whv	1	whvk
 偓	whvk	1	whvk
 威武	whwj	1
@@ -96936,8 +96936,8 @@ columns:
 未通	wjtx	1
 无糖	wjty	1
 物竞天择	wjtz	1
-玟	wju	1	mjui
-玟	wjui	1	mjui
+玟	wju	1	wjui
+玟	wjui	1	wjui
 违	wjv	1	wjvv
 违	wjvv	1	wjvv
 未完成	wjwc	1
@@ -97054,7 +97054,7 @@ columns:
 无助于	wjzy	1
 王炸	wjzye	1
 文景之治	wjzz	1
-万	wk	1	mkee
+万	wk	1	wkee
 万安	wkao	1
 无可辩驳	wkbb	1
 万宝路	wkbl	1
@@ -97072,8 +97072,8 @@ columns:
 万吨级	wkdj	1
 豌豆	wkdk	1
 辋	wkdy	1	wkdy
-万	wke	1	mkee
-万	wkee	1	mkee
+万	wke	1	wkee
+万	wkee	1	wkee
 万恶	wkem	1
 无可反驳	wkfb	1
 瓦房店	wkfd	1
@@ -97302,10 +97302,10 @@ columns:
 未来之路	wlzl	1
 无论怎样	wlzy	1
 五	wm	1	wmkk
-⑤	wm	1
-Ⅴ	wm	1
-⁵	wm	1
-₅	wm	1
+⑤	wm	1	
+Ⅴ	wm	1	
+⁵	wm	1	
+₅	wm	1	
 五爱街	wmaj	1
 五爱	wmaw	1
 吾辈	wmbf	1
@@ -97364,8 +97364,8 @@ columns:
 五花肉	wmhr	1
 五湖	wmhs	1
 我们还要	wmhy	1
-恶	wmi	1	emii
-恶	wmii	1	emii
+恶	wmi	1	wmii
+恶	wmii	1	wmii
 五级	wmjc	1
 五金店	wmjd	1
 我们几个	wmjg	1
@@ -97565,14 +97565,14 @@ columns:
 晼	wno	1	wnoe
 晼	wnoe	1	wnoe
 旺铺	wnpj	1
-隗	wnq	1	knqx
+隗	wnq	1	wnqx
 卫青	wnqj	1
 晚起	wnql	1
 晚期	wnqm	1
 晚秋	wnqr	1
 卫气	wnqre	1
 晚清	wnqs	1
-隗	wnqx	1	knqx
+隗	wnqx	1	wnqx
 旿	wnr	1	wnrd
 温暖如春	wnrc	1
 旿	wnrd	1	wnrd
@@ -98100,8 +98100,8 @@ columns:
 潍坊市	wsfs	1
 无私奉献	wsfx	1
 卫生防疫	wsfy	1
-涡	wsg	1	gsgd
-涡	wsgd	1	gsgd
+涡	wsg	1	wsgd
+涡	wsgd	1	wsgd
 温哥华	wsgh	1
 无所顾忌	wsgj	1
 网上公开	wsgk	1
@@ -98129,7 +98129,7 @@ columns:
 万事俱备，只欠东风	wsjf	1
 污水净化	wsjh	1
 卫生洁具	wsjj	1
-鋈	wsjje	1	wskk
+鋈	wsjje	1	wsjj
 汪	wsjk	1	wsjk
 温江区	wsjq	1
 温酒	wsjs	1
@@ -99100,18 +99100,18 @@ columns:
 葙	xafd	1	xafd
 薪俸	xafh	1
 菥	xaft	1	xaft
-莶	xah	1	jaho
+莶	xah	1	xaho
 薤	xahf	1	xahf
 萧何	xahh	1
 贤惠	xahm	1
-莶	xaho	1	jaho
+莶	xaho	1	xaho
 蓄洪	xahs	1
 薪火	xahy	1
 芯	xai	1	xaii
 蓰	xaif	1	xaif
 芯	xaii	1	xaii
 荇	xaij	1	xaij
-荤	xaik	1	haik
+荤	xaik	1	xaik
 薪级	xajc	1
 西安交大	xajd	1
 笑傲江湖	xajh	1
@@ -99122,7 +99122,7 @@ columns:
 贤良	xali	1
 蕈	xam	1	xamn
 蓄谋	xami	1
-茜	xamk	1	qamk
+茜	xamk	1	xamk
 贤明	xamn	1
 蕈	xamne	1	xamn
 蓄满	xams	1
@@ -99159,12 +99159,12 @@ columns:
 小爱同学	xatx	1
 蓄	xau	1	xaud
 蓄	xaud	1	xaud
-莘	xaum	1	saum
+莘	xaum	1	xaum
 薪	xaut	1	xaut
 萧	xav	1	xavi
 芎	xavc	1	xavc
 萧	xavi	1	xavi
-荨	xavm	1	qavm
+荨	xavm	1	xavm
 蕸	xavv	1	xavv
 相安无事	xaws	1
 萧萧	xaxa	1
@@ -99213,8 +99213,8 @@ columns:
 醒不过来	xbgl	1
 行不更名	xbgm	1
 西北工业大学	xbgx	1
-孅	xbh	1	qbhf
-孅	xbhf	1	qbhf
+孅	xbh	1	xbhf
+孅	xbhf	1	xbhf
 下班回家	xbhj	1
 下班回来	xbhl	1
 下班很晚	xbhw	1
@@ -99441,7 +99441,7 @@ columns:
 细末	xcmj	1
 系出名门	xcmm	1
 绪	xcmn	1	xcmn
-腊	xcmne	1	lcmn
+腊	xcmne	1	xcmn
 续	xcmo	1	xcmo
 胸闷	xcmp	1
 形成默契	xcmq	1
@@ -99477,9 +99477,9 @@ columns:
 腺	xcqs	1	xcqs
 乡亲	xcqu	1
 胸前	xcqy	1
-纤	xcr	1	qcrd
+纤	xcr	1	xcrd
 绣	xcrb	1	xcrb
-纤	xcrd	1	qcrd
+纤	xcrd	1	xcrd
 线人	xcrh	1
 细软	xcrk	1
 相处融洽	xcrq	1
@@ -99614,10 +99614,10 @@ columns:
 峋	xde	1	xden
 蠏	xdeb	1	xdeb
 信贷额度	xded	1
-见	xdee	1	jdee
+见	xdee	1	xdee
 蟓	xdei	1	xdei
 峋	xden	1	xden
-盷	xdeu	1	tdeu
+盷	xdeu	1	xdeu
 相对而言	xdey	1
 席地而坐	xdez	1
 蜥	xdf	1	xdft
@@ -99660,8 +99660,8 @@ columns:
 虾酱	xdju	1
 县局	xdjv	1
 下定决心	xdjx	1
-蛸	xdk	1	sdkc
-蛸	xdkc	1	sdkc
+蛸	xdk	1	xdkc
+蛸	xdkc	1	xdkc
 相当可观	xdkg	1
 现代科技	xdkj	1
 相当困难	xdkn	1
@@ -99677,10 +99677,10 @@ columns:
 下大力气	xdlq	1
 悬梁	xdls	1
 瞎了眼	xdly	1
-虾	xdm	1	hdmi
+虾	xdm	1	xdmi
 瞎蒙	xdma	1
 县名	xdme	1
-虾	xdmi	1	hdmi
+虾	xdmi	1	xdmi
 瞎忙	xdmo	1
 闲的没事	xdms	1
 想都没想	xdmx	1
@@ -99770,13 +99770,13 @@ columns:
 悬着	xdzy	1
 象	xe	1	xeii
 狭隘	xean	1
-解	xeb	1	jebr
+解	xeb	1	xebr
 笑而不答	xebd	1
 馅饼	xebe	1
-饧	xebee	1	tebe
+饧	xebee	1	xebe
 谑而不虐	xebn	1
 鲜卑	xebq	1
-解	xebr	1	jebr
+解	xebr	1	xebr
 系部	xebu	1
 笑而不语	xeby	1
 鲜菜	xeca	1
@@ -99819,10 +99819,10 @@ columns:
 玺	xeji	1	xeji
 鲜鸡	xejx	1
 鲜姜	xejy	1
-系	xek	1	jekk
+系	xek	1	xekk
 狘	xeki	1	xeki
 旬刊	xekj	1
-系	xekk	1	jekk
+系	xekk	1	xekk
 狭	xel	1	xeli
 狭路	xelg	1
 系列	xelh	1
@@ -99841,7 +99841,7 @@ columns:
 匈奴	xenbi	1
 系念	xenh	1
 旭	xenn	1	xenn
-郇	xenne	1	henn
+郇	xenne	1	xenn
 旬	xenni	1	xenn
 猩	xenr	1	xenr
 鲜品	xepg	1
@@ -99851,7 +99851,7 @@ columns:
 獯	xer	1	xero
 饩	xerc	1	xerc
 鲜肉	xerd	1
-狌	xerk	1	serk
+狌	xerk	1	xerk
 旭日	xern	1
 獯	xero	1	xero
 象声词	xesc	1
@@ -100073,13 +100073,13 @@ columns:
 相恋	xflu	1
 相联系	xflx	1
 相类	xfly	1
-栖	xfm	1	qfmk
+栖	xfm	1	xfmk
 想买	xfmc	1
 相矛盾	xfmd	1
 校名	xfme	1
 朽木	xfmf	1
 相面	xfmh	1
-栖	xfmk	1	qfmk
+栖	xfmk	1	xfmk
 幸福美满	xfmm	1
 校门	xfmp	1
 西方媒体	xfmt	1
@@ -100172,8 +100172,8 @@ columns:
 想逃	xftwe	1
 相通	xftx	1
 想通	xftxe	1
-校	xfu	1	jfuw
-校	xfuw	1	jfuw
+校	xfu	1	xfuw
+校	xfuw	1	xfuw
 樨	xfv	1	xfvs
 榍	xfvk	1	xfvk
 樨	xfvs	1	xfvs
@@ -100303,11 +100303,11 @@ columns:
 兄	xgee	1	xgee
 吸	xgei	1	xgei
 鸮	xgek	1	xgek
-嘘	xgf	1	sgfa
-嘘	xgfa	1	sgfa
-唬	xgfe	1	hgfe
+嘘	xgf	1	xgfa
+嘘	xgfa	1	xgfa
+唬	xgfe	1	xgfe
 相关法规	xgfg	1
-噱	xgfh	1	jgfh
+噱	xgfh	1	xgfh
 吸附剂	xgfj	1
 相关反馈	xgfk	1
 相关法律	xgfl	1
@@ -100321,13 +100321,13 @@ columns:
 小国寡民	xggm	1
 吸管	xggr	1
 相关工作	xggz	1
-嚣	xgh	1	aghg
+嚣	xgh	1	xghg
 喺	xghe	1	xghe
 咻	xghf	1	xghf
 喧哗	xghg	1
 吓唬	xghge	1
 嘻哈	xghgi	1
-嚣	xghgo	1	aghg
+嚣	xghgo	1	xghg
 吓坏	xghl	1
 先公后私	xghs	1
 噏	xghx	1	xghx
@@ -100352,20 +100352,20 @@ columns:
 咺	xgkn	1	xgkn
 嘻	xgl	1	xglg
 吸力	xglb	1
-咭	xglg	1	jglg
+咭	xglg	1	xglg
 嘻	xglge	1	xglg
 响铃	xglj	1
 香格里拉	xgll	1
 响亮	xglu	1
 修改论文	xglw	1
-吓	xgm	1	hgmi
+吓	xgm	1	xgmi
 吓蒙	xgma	1
 兄妹	xgmb	1
 响马	xgmc	1
 哮鸣	xgmg	1
-吓	xgmi	1	hgmi
-咁	xgmk	1	ggmk
-叶	xgmm	1	sgmm
+吓	xgmi	1	xgmi
+咁	xgmk	1	xgmk
+叶	xgmm	1	xgmm
 哮	xgmn	1	xgmn
 宣告灭亡	xgmw	1
 效果明显	xgmx	1
@@ -100431,8 +100431,8 @@ columns:
 啸	xgv	1	xgvi
 啸	xgvi	1	xgvi
 噀	xgvm	1	xgvm
-蹊	xgw	1	qgwc
-蹊	xgwc	1	qgwc
+蹊	xgw	1	xgwc
+蹊	xgwc	1	xgwc
 寻根问底	xgwd	1
 唏	xgwh	1	xgwh
 先干为敬	xgwj	1
@@ -100530,14 +100530,14 @@ columns:
 胸怀大志	xhdz	1
 像	xhe	1	xhei
 脩	xhec	1	xhec
-歙	xheh	1	sheh
+歙	xheh	1	xheh
 夏	xhei	1	xhei
 矽	xheie	1	xhei
 像	xheii	1	xhei
 鸺	xhek	1	xhek
 殉	xhen	1	xhen
 修	xhet	1	xhet
-翛	xhex	1	shex
+翛	xhex	1	xhex
 休	xhf	1	xhff
 信访办	xhfb	1
 信服	xhfc	1
@@ -100577,7 +100577,7 @@ columns:
 仙鹤草	xhhc	1
 信号灯	xhhd	1
 信号弹	xhhde	1
-厦	xhhe	1	shhe
+厦	xhhe	1	xhhe
 信号	xhhg	1
 雄厚	xhhh	1
 休会	xhhhe	1
@@ -100742,11 +100742,11 @@ columns:
 仙台	xhtx	1
 信天游	xhty	1
 袭	xhu	1	xhui
-儴	xhug	1	rhug
+儴	xhug	1	xhug
 袭	xhui	1	xhui
 信	xhuj	1	xhuj
-硍	xhv	1	khvi
-硍	xhvi	1	khvi
+硍	xhv	1	xhvi
+硍	xhvi	1	xhvi
 豨	xhw	1	xhwh
 夏娃	xhwb	1
 傒	xhwc	1	xhwc
@@ -100852,7 +100852,7 @@ columns:
 携号转网	xhzw	1
 相互作用	xhzy	1
 相互指责	xhzz	1
-行	xi	1	hijd
+行	xi	1	xijd
 心安	xiao	1
 心爱	xiaw	1
 心包	xibe	1
@@ -100951,7 +100951,7 @@ columns:
 心肌	xijce	1
 心结	xijci	1
 详见	xijd	1
-行	xijde	1	hijd
+行	xijde	1	xijd
 详解	xije	1
 许久	xijee	1
 心急	xijei	1
@@ -101023,10 +101023,10 @@ columns:
 写满	xims	1
 心魔	ximu	1
 心目中	ximz	1
-裼	xin	1	tine
+裼	xin	1	xine
 心脑	xinc	1
 心内	xind	1
-裼	xine	1	tine
+裼	xine	1	xine
 心念	xinh	1
 许诺	xini	1
 心内科	xink	1
@@ -101230,15 +101230,15 @@ columns:
 先进个人	xjgr	1
 心肌梗死	xjgs	1
 先进工作者	xjgz	1
-契	xjh	1	qjhi
+契	xjh	1	xjhi
 珛	xjhc	1	xjhc
 形骸	xjhd	1
 顼	xjhde	1	xjhd
 型号	xjhg	1
-砉	xjhge	1	hjhg
+砉	xjhge	1	xjhg
 现货	xjhh	1
 销户	xjhi	1
-契	xjhie	1	qjhi
+契	xjhie	1	xjhi
 销魂	xjhj	1
 心急火燎	xjhl	1
 销毁	xjhq	1
@@ -101274,12 +101274,12 @@ columns:
 销量	xjln	1
 现金流入	xjlr	1
 喜结良缘	xjly	1
-镡	xjm	1	cjmn
+镡	xjm	1	xjmn
 现买	xjmc	1
 现名	xjme	1
 形码	xjmh	1
 现卖	xjmm	1
-镡	xjmn	1	cjmn
+镡	xjmn	1	xjmn
 刑满	xjms	1
 现磨	xjmu	1
 形貌	xjmw	1
@@ -101461,7 +101461,7 @@ columns:
 小点	xkdf	1
 小调	xkdi	1
 邪毒	xkdj	1
-省	xkdk	1	skdk
+省	xkdk	1	xkdk
 辖地	xkdl	1
 小队	xkdn	1
 小店区	xkdq	1
@@ -101789,7 +101789,7 @@ columns:
 锡林郭勒	xlgl	1
 心灵沟通	xlgt	1
 雪糕	xlgy	1
-颉	xlh	1	jlhd
+颉	xlh	1	xlhd
 雪花	xlha	1
 喜获	xlhae	1
 喜好	xlhb	1
@@ -101798,7 +101798,7 @@ columns:
 心理活动	xlhd	1
 先来后到	xlhde	1
 需	xlhdi	1	xlhd
-颉	xlhdo	1	jlhd
+颉	xlhdo	1	xlhd
 雪花膏	xlhg	1
 幸会	xlhh	1
 稀里哗啦	xlhl	1
@@ -101809,10 +101809,10 @@ columns:
 喜欢	xlhx	1
 憙	xli	1	xlii
 憙	xlii	1	xlii
-圩	xlj	1	wljd
+圩	xlj	1	xljd
 雪茄	xlja	1
 心力交瘁	xljc	1
-圩	xljd	1	wljd
+圩	xljd	1	xljd
 心理健康	xljk	1
 雪景	xljn	1
 喜剧片	xljp	1
@@ -102202,8 +102202,8 @@ columns:
 项目投资	xmtz	1
 醯	xmu	1	xmud
 醯	xmud	1	xmud
-巷	xmv	1	hmvc
-巷	xmvc	1	hmvc
+巷	xmv	1	xmvc
+巷	xmvc	1	xmvc
 酗	xmw	1	xmwn
 新民晚报	xmwb	1
 下脘	xmwc	1
@@ -102333,7 +102333,7 @@ columns:
 陷	xne	1	xneq
 昫	xneg	1	xneg
 歇	xneh	1	xneh
-降	xnek	1	jnek
+降	xnek	1	xnek
 险恶	xnem	1
 限额	xneo	1
 陷	xneq	1	xneq
@@ -102566,11 +102566,11 @@ columns:
 性功能	xogn	1
 宣告	xogr	1
 性关系	xogx	1
-宿	xoh	1	sohh
+宿	xoh	1	xohh
 学好	xohb	1
 学号	xohg	1
 学会	xohh	1
-宿	xohhe	1	sohh
+宿	xohhe	1	xohh
 学画	xohk	1
 学坏	xohl	1
 兴和	xohr	1
@@ -102685,7 +102685,7 @@ columns:
 宣通	xotx	1
 窨	xou	1	xoun
 窨	xoun	1	xoun
-恔	xouw	1	jouw
+恔	xouw	1	xouw
 兴	xow	1	xoww
 学位办	xowb	1
 性味	xowg	1
@@ -102839,10 +102839,10 @@ columns:
 血管	xqgr	1
 向光性	xqgx	1
 辛勤工作	xqgz	1
-臭	xqh	1	cqhi
+臭	xqh	1	xqhi
 向好	xqhb	1
 血红	xqhc	1
-臭	xqhi	1	cqhi
+臭	xqhi	1	xqhi
 血寒	xqho	1
 血汗钱	xqhq	1
 血汗	xqhs	1
@@ -102892,12 +102892,12 @@ columns:
 血泊	xqps	1
 小区配套	xqpt	1
 血拼	xqpu	1
-皛	xqq	1	pqqq
+皛	xqq	1	xqqq
 向前进	xqqj	1
 血球	xqqje	1
 向前看	xqqk	1
 学期期末	xqqm	1
-皛	xqqq	1	pqqq
+皛	xqqq	1	xqqq
 血气	xqqr	1
 血清	xqqs	1
 血亲	xqqu	1
@@ -103390,7 +103390,7 @@ columns:
 消耗战	xshz	1
 泻	xsi	1	xsik
 泻	xsik	1	xsik
-浒	xsir	1	hsir
+浒	xsir	1	xsir
 形神兼备	xsjb	1
 洗脚	xsjc	1
 行善积德	xsjd	1
@@ -103410,13 +103410,13 @@ columns:
 洗尽	xsjv	1
 形势教育	xsjy	1
 宣誓就职	xsjz	1
-湝	xsk	1	jskq
+湝	xsk	1	xskq
 秀色可餐	xskc	1
 消	xskce	1	xskc
 溪口	xskg	1
 销售客户	xskh	1
 现实可能	xskn	1
-湝	xskq	1	jskq
+湝	xskq	1	xskq
 消渴	xsks	1
 学术刊物	xskw	1
 洗脸	xslc	1
@@ -103536,7 +103536,7 @@ columns:
 现实问题	xswt	1
 消亡	xswu	1
 兴师问罪	xswz	1
-浚	xsx	1	jsxw
+浚	xsx	1	xsxw
 现世现报	xsxb	1
 湘乡	xsxc	1
 消夏	xsxh	1
@@ -103553,7 +103553,7 @@ columns:
 潇湘	xsxse	1
 汹汹	xsxsi	1
 学士学位	xsxw	1
-浚	xsxwe	1	jsxw
+浚	xsxwe	1	xsxw
 泻下药	xsxy	1
 泻药	xsya	1
 学识渊博	xsyb	1
@@ -103712,7 +103712,7 @@ columns:
 新大纲	xudg	1
 新低	xudh	1
 掀动	xudj	1
-畜	xudk	1	cudk
+畜	xudk	1	xudk
 新大陆	xudl	1
 新德里	xudle	1
 席地	xudli	1
@@ -103806,7 +103806,7 @@ columns:
 新开设	xuks	1
 新课题	xukt	1
 新开业	xuky	1
-挟	xul	1	juli
+挟	xul	1	xuli
 辛劳	xula	1
 效劳	xulae	1
 效力	xulb	1
@@ -103820,7 +103820,7 @@ columns:
 撷	xulhi	1	xulh
 旋律	xuli	1
 新郎	xulie	1
-挟	xulii	1	juli
+挟	xulii	1	xuli
 新来	xull	1
 新老	xulm	1
 新浪	xuls	1
@@ -103923,10 +103923,10 @@ columns:
 亵	xuu	1	xuue
 亵	xuue	1	xuue
 痃	xuui	1	xuui
-迒	xuv	1	huvv
-摡	xuvk	1	guvk
+迒	xuv	1	xuvv
+摡	xuvk	1	xuvk
 挦	xuvm	1	xuvm
-迒	xuvv	1	huvv
+迒	xuvv	1	xuvv
 新闻稿	xuwg	1
 席位	xuwh	1
 玄武	xuwj	1
@@ -104028,15 +104028,15 @@ columns:
 迅雷	xvll	1
 犀利	xvlr	1
 巽	xvm	1	xvmw
-☴	xvm	1
+☴	xvm	1	xvm
 弦脉	xvmc	1
 迅猛	xvme	1
 寻梦	xvmf	1
 寻	xvmi	1	xvmi
 寻觅	xvmw	1
 巽	xvmwe	1	xvmw
-𬩽	xvn	1	xvnn
-𬩽	xvnn	1	xvnn
+	xvn	1	xvnn
+	xvnn	1	xvnn
 犀牛	xvnr	1
 寻求	xvqm	1
 寻亲	xvqu	1
@@ -104142,11 +104142,11 @@ columns:
 凶猛	xwme	1
 新闻媒介	xwmj	1
 新闻媒体	xwmt	1
-郄	xwn	1	qwnn
+郄	xwn	1	xwnn
 行为能力	xwnl	1
-郗	xwnn	1	cwnn
+郗	xwnn	1	xwnn
 凶	xwnne	1	xwnn
-郄	xwnni	1	qwnn
+郄	xwnni	1	xwnn
 凶年	xwnr	1
 悉尼	xwnv	1
 新闻频道	xwpd	1
@@ -104225,7 +104225,7 @@ columns:
 戏称	xxcr	1
 信息查询	xxcx	1
 信息产业	xxcy	1
-矞	xxd	1	jxdw
+矞	xxd	1	xxdw
 信息档案	xxda	1
 熊胆	xxdc	1
 许许多多	xxdd	1
@@ -104236,7 +104236,7 @@ columns:
 习得	xxdi	1
 西学东渐	xxdj	1
 形象大使	xxds	1
-矞	xxdw	1	jxdw
+矞	xxdw	1	xxdw
 信心大增	xxdz	1
 相向而行	xxex	1
 信息发布	xxfb	1
@@ -104388,8 +104388,8 @@ columns:
 雄心壮志	xxzz	1
 羞	xy	1	xynk
 翔安区	xyaq	1
-券	xyb	1	qybb
-券	xybb	1	qybb
+券	xyb	1	xybb
+券	xybb	1	xybb
 蓄意报复	xybf	1
 心有不甘	xybg	1
 学艺不精	xybj	1
@@ -104501,7 +104501,7 @@ columns:
 烯烃	xyty	1
 羡	xyu	1	xyue
 羡	xyue	1	xyue
-熇	xyug	1	hyug
+熇	xyug	1	xyug
 炫	xyui	1	xyui
 烯	xyw	1	xywh
 习以为常	xywc	1
@@ -104637,10 +104637,10 @@ columns:
 行政责任	xzzr	1
 修正主义	xzzy	1
 一	y	1	ykkk
-①	y	1
-Ⅰ	y	1
-¹	y	1
-₁	y	1
+①	y	1	
+Ⅰ	y	1	
+¹	y	1	
+₁	y	1	
 英	ya	1	yadi
 药包	yabe	1
 药补	yabi	1
@@ -104740,7 +104740,7 @@ columns:
 有案可查	yakc	1
 芽	yake	1	yake
 营口	yakg	1
-荑	yaki	1	taki
+荑	yaki	1	yaki
 业	yakk	1	yakk
 药科	yakr	1
 营口市	yaks	1
@@ -104774,8 +104774,8 @@ columns:
 药农	yani	1
 邺	yann	1	yann
 英年	yanr	1
-菀	yao	1	waoe
-菀	yaoe	1	waoe
+菀	yao	1	yaoe
+菀	yaoe	1	yaoe
 药品	yapg	1
 药铺	yapj	1
 药片	yapq	1
@@ -104814,9 +104814,9 @@ columns:
 薏	yau	1	yaui
 菸	yauh	1	yauh
 薏	yaui	1	yaui
-蔚	yav	1	wavm
-蔚	yavm	1	wavm
-艾	yaw	1	aaww
+蔚	yav	1	yavm
+蔚	yavm	1	yavm
+艾	yaw	1	yaww
 英文版	yawb	1
 英伟达	yawd	1
 业务	yawe	1
@@ -104830,7 +104830,7 @@ columns:
 营卫	yawn	1
 药物	yawr	1
 英文	yawu	1
-艾	yaww	1	aaww
+艾	yaww	1	yaww
 药物学	yawx	1
 业务员	yawy	1
 艺文志	yawz	1
@@ -104916,7 +104916,7 @@ columns:
 嫄	ybh	1	ybhq
 一报还一报	ybhb	1
 嫣红	ybhc	1
-姶	ybhg	1	ebhg
+姶	ybhg	1	ybhg
 样本含量	ybhl	1
 烟波浩渺	ybhm	1
 一把好牌	ybhp	1
@@ -104925,7 +104925,7 @@ columns:
 妍	ybj	1	ybjd
 眼保健操	ybjc	1
 妍	ybjd	1	ybjd
-妧	ybje	1	wbje
+妧	ybje	1	ybje
 眼不见，心不烦	ybjf	1
 孕检	ybjfe	1
 银保监会	ybjh	1
@@ -105147,7 +105147,7 @@ columns:
 验	ych	1	ycho
 腰花	ycha	1
 约好	ychb	1
-腌	ychd	1	achd
+腌	ychd	1	ychd
 月号	ychg	1
 约会	ychh	1
 验货	ychhe	1
@@ -105408,13 +105408,13 @@ columns:
 野炊	ydcy	1
 远渡重洋	ydcye	1
 邮差	ydcyi	1
-圜	ydd	1	hddg
+圜	ydd	1	yddg
 邮电部	yddb	1
 邮电	yddd	1
 一丁点儿	ydde	1
 圆点	yddf	1
 由低到高	yddg	1
-圜	yddge	1	hddg
+圜	yddge	1	yddg
 眼袋	yddh	1
 移动电话	yddhe	1
 髃	yddi	1	yddi
@@ -105462,7 +105462,7 @@ columns:
 邮费	ydfv	1
 一定范围	ydfw	1
 圆	ydg	1	ydgd
-蜎	ydgc	1	xdgc
+蜎	ydgc	1	ydgc
 因果	ydgd	1
 邮购	ydgde	1
 野果	ydgdi	1
@@ -105613,8 +105613,8 @@ columns:
 遇难	ydnx	1
 印度尼西亚	ydny	1
 遇难者	ydnz	1
-蛇	ydo	1	sdoe
-蛇	ydoe	1	sdoe
+蛇	ydo	1	ydoe
+蛇	ydoe	1	ydoe
 眼皮	ydpb	1
 邮品	ydpg	1
 邮票	ydpm	1
@@ -105693,7 +105693,7 @@ columns:
 遇	ydv	1	ydvv
 蚓	ydvd	1	ydvd
 眼	ydvi	1	ydvi
-遗	ydvv	1	wdvv
+遗	ydvv	1	ydvv
 遇	ydvve	1	ydvv
 峪	ydw	1	ydwg
 有德无才	ydwc	1
@@ -105750,7 +105750,7 @@ columns:
 由于	ydyj	1
 幽雅	ydyk	1
 一带一路	ydyl	1
-蝤	ydym	1	qdym
+蝤	ydym	1	ydym
 眼影	ydyn	1
 移动硬盘	ydyp	1
 压倒一切	ydyq	1
@@ -105907,10 +105907,10 @@ columns:
 用后	yeht	1
 印痕	yehu	1
 用火	yehy	1
-乐	yei	1	leii
+乐	yei	1	yeii
 狱	yeih	1	yeih
 怨	yeii	1	yeii
-乐	yeiie	1	leii
+乐	yeiie	1	yeii
 狱警	yeja	1
 印鉴	yejae	1
 印加	yejb	1
@@ -106142,7 +106142,7 @@ columns:
 优抚对象	yfdx	1
 檐	yfe	1	yfeu
 样儿	yfee	1
-栎	yfei	1	lfei
+栎	yfei	1	yfei
 一发而不可收拾	yfes	1
 檐	yfeu	1	yfeu
 虤	yff	1	yffe
@@ -106206,11 +106206,11 @@ columns:
 研发平台	yfpt	1
 迎风飘扬	yfpy	1
 依法批准	yfpz	1
-梴	yfq	1	cfqx
+梴	yfq	1	yfqx
 一份牵挂	yfqg	1
 一分钱一分货	yfqh	1
 远房亲戚	yfqq	1
-梴	yfqx	1	cfqx
+梴	yfqx	1	yfqx
 䲣	yfr	1	yfri
 椰蓉	yfra	1
 䲣	yfri	1	yfri
@@ -106234,8 +106234,8 @@ columns:
 一份通知	yftz	1
 椸	yfu	1	yfur
 椸	yfur	1	yfur
-龈	yfv	1	kfvi
-龈	yfvi	1	kfvi
+龈	yfv	1	yfvi
+龈	yfvi	1	yfvi
 逌	yfvv	1	yfvv
 一分为二	yfwe	1
 一份文件	yfwj	1
@@ -106301,7 +106301,7 @@ columns:
 嘤	ygdb	1	ygdb
 唁电	ygdd	1
 阳关大道	ygdde	1
-哕	ygde	1	hgde
+哕	ygde	1	ygde
 吲哚	ygdg	1
 员	ygdh	1	ygdh
 咽	ygdhe	1	ygdh
@@ -106351,10 +106351,10 @@ columns:
 哑火	yghye	1
 咏	ygi	1	ygii
 咏	ygii	1	ygii
-吁	ygj	1	xgjd
+吁	ygj	1	ygjd
 咬紧	ygja	1
 牙关紧闭	ygjb	1
-吁	ygjd	1	xgjd
+吁	ygjd	1	ygjd
 一个劲儿	ygje	1
 一个接一个	ygjg	1
 一个机会	ygjh	1
@@ -106380,7 +106380,7 @@ columns:
 雁过留声	yglse	1
 叶绿体	yglt	1
 一国两制	yglz	1
-叶	ygm	1	sgmm
+叶	ygm	1	ygmm
 喓	ygmb	1	ygmb
 跃马	ygmc	1
 一个名额	ygme	1
@@ -106389,7 +106389,7 @@ columns:
 哑谜	ygmi	1
 哑	ygmk	1	ygmk
 阳光明媚	ygmm	1
-叶	ygmme	1	sgmm
+叶	ygmme	1	ygmm
 哑门	ygmp	1
 欲盖弥彰	ygmz	1
 邑	ygn	1	ygnc
@@ -106442,7 +106442,7 @@ columns:
 噫	ygui	1	ygui
 唁	yguj	1	yguj
 喑	ygun	1	ygun
-哜	yguq	1	jguq
+哜	yguq	1	yguq
 喭	ygut	1	ygut
 咬	yguw	1	yguw
 吲	ygv	1	ygvd
@@ -106458,10 +106458,10 @@ columns:
 一个星期	ygxq	1
 一个小时	ygxs	1
 严格限制	ygxz	1
-吖	ygy	1	agyd
+吖	ygy	1	ygyd
 一高一矮	ygya	1
-嗌	ygyd	1	agyd
-吖	ygyde	1	agyd
+嗌	ygyd	1	ygyd
+吖	ygyde	1	ygyd
 应该应分	ygyf	1
 踊跃	ygyg	1
 一个一个	ygyge	1
@@ -106519,7 +106519,7 @@ columns:
 一呼百应	yhbye	1
 烟花爆竹	yhbz	1
 亿	yhc	1	yhcc
-俞	yhca	1	shca
+俞	yhca	1	yhca
 有	yhcc	1	yhcc
 尢	yhcce	1	yhcc
 亿	yhcci	1	yhcc
@@ -106731,7 +106731,7 @@ columns:
 砑	yhke	1	yhke
 伢	yhkee	1	yhke
 一环扣一环	yhkh	1
-侥	yhkhe	1	jhkh
+侥	yhkhe	1	yhkh
 余款	yhkl	1
 压垮	yhkle	1
 硬壳	yhkli	1
@@ -106854,7 +106854,7 @@ columns:
 迂回曲折	yhqz	1
 攸	yhr	1	yhri
 有如	yhrb	1
-仡	yhrc	1	ghrc
+仡	yhrc	1	yhrc
 依然	yhre	1
 悠然	yhree	1
 俨然	yhrei	1
@@ -106940,7 +106940,7 @@ columns:
 依	yhui	1	yhui
 伊	yhv	1	yhve
 伊	yhve	1	yhve
-硍	yhvi	1	khvi
+硍	yhvi	1	yhvi
 逾	yhvv	1	yhvv
 佾	yhw	1	yhwc
 佾	yhwc	1	yhwc
@@ -107262,7 +107262,7 @@ columns:
 译	yix	1	yixj
 永续	yixc	1
 语系	yixe	1
-诒	yixg	1	dixg
+诒	yixg	1	yixg
 永修	yixh	1
 译	yixj	1	yixj
 诱降	yixn	1
@@ -107275,7 +107275,7 @@ columns:
 徉	yiyde	1	yiyd
 御用	yiye	1
 议员	yiyg	1
-说	yiyge	1	siyg
+说	yiyge	1	yiyg
 谚语	yiyi	1
 徭役	yiyie	1
 议	yiyii	1	yiyi
@@ -107381,7 +107381,7 @@ columns:
 运动战	yjdz	1
 元	yje	1	yjee
 元	yjee	1	yjee
-铅	yjeg	1	qjeg
+铅	yjeg	1	yjeg
 银耳	yjem	1
 艳	yjen	1	yjen
 远非	yjff	1
@@ -107591,7 +107591,7 @@ columns:
 运	yjvvi	1	yjvv
 瑶	yjw	1	yjwr
 珧	yjwb	1	yjwb
-铫	yjwbe	1	djwb
+铫	yjwbe	1	yjwb
 运维	yjwc	1
 有奖问答	yjwd	1
 殃及无辜	yjwg	1
@@ -107704,10 +107704,10 @@ columns:
 一半	ykby	1
 一辈子	ykbz	1
 一把抓	ykbze	1
-轧	ykc	1	gkcc
+轧	ykc	1	ykcc
 一茬	ykca	1
 一次次	ykcc	1
-轧	ykcce	1	gkcc
+轧	ykcce	1	ykcc
 一串	ykcd	1
 一幢	ykcde	1
 一处	ykce	1
@@ -107922,7 +107922,7 @@ columns:
 一年级	yknj	1
 一年来	yknl	1
 一年内	yknn	1
-邪	yknne	1	xknn
+邪	yknne	1	yknn
 郾	yknni	1	yknn
 医闹	yknp	1
 一年前	yknq	1
@@ -108243,8 +108243,8 @@ columns:
 霪	ylswe	1	ylsw
 依赖思想	ylsx	1
 养老送终	ylsz	1
-圻	ylt	1	qltd
-圻	yltd	1	qltd
+圻	ylt	1	yltd
+圻	yltd	1	yltd
 一路同行	ylth	1
 有利条件	yltj	1
 盐铁论	yltl	1
@@ -108270,11 +108270,11 @@ columns:
 遗留问题	ylwt	1
 眼泪汪汪	ylww	1
 一览无余	ylwy	1
-趯	ylx	1	tlxh
+趯	ylx	1	ylxh
 月落星沉	ylxc	1
 以礼相待	ylxd	1
 越想	ylxf	1
-趯	ylxh	1	tlxh
+趯	ylxh	1	ylxh
 越小	ylxk	1
 遗留下来	ylxl	1
 以泪洗面	ylxm	1
@@ -108369,10 +108369,10 @@ columns:
 严	ymee	1	ymee
 歅	ymeh	1	ymeh
 掩面而泣	ymeq	1
-枼	ymf	1	ymdd
+枼	ymf	1	ymff
 要饭	ymfe	1
 亚非	ymff	1
-枼	ymffe	1	ymdd
+枼	ymffe	1	ymff
 亚非拉	ymfl	1
 羽毛丰满	ymfm	1
 严防	ymfn	1
@@ -108455,7 +108455,7 @@ columns:
 要么	ymme	1
 酽	ymmee	1	ymme
 要命	ymmh	1
-鞕	ymmi	1	bmmi
+鞕	ymmi	1	ymmi
 燕麦	ymmj	1
 要卖	ymmm	1
 严明	ymmn	1
@@ -108649,15 +108649,15 @@ columns:
 易	yne	1	ynee
 易	ynee	1	ynee
 隐	ynei	1	ynei
-陶	yner	1	tner
+陶	yner	1	yner
 迎难而上	ynes	1
 昀	yneu	1	yneu
 由内而外	ynew	1
-阽	ynf	1	dnfg
+阽	ynf	1	ynfg
 院发	ynfb	1
 阴风	ynfe	1
 也非	ynff	1
-阽	ynfg	1	dnfg
+阽	ynfg	1	ynfg
 隐伏	ynfh	1
 阳辅	ynfk	1
 阴阜	ynfq	1
@@ -108696,7 +108696,7 @@ columns:
 影后	ynht	1
 也会有	ynhy	1
 晕	yni	1	ynik
-疋	ynii	1	pnii
+疋	ynii	1	ynii
 晕	ynik	1	ynik
 阴茎	ynja	1
 易经	ynjc	1
@@ -108997,7 +108997,7 @@ columns:
 窳	yott	1	yott
 誉	you	1	youj
 誉	youj	1	youj
-窨	youn	1	xoun
+窨	youn	1	youn
 慵	youv	1	youv
 宇文	yowu	1
 忆往昔	yowx	1
@@ -109167,7 +109167,7 @@ columns:
 禹	yqi	1	yqii
 臾	yqii	1	yqii
 禹	yqiie	1	yqii
-牖	yqim	1	pqim
+牖	yqim	1	yqim
 一骑绝尘	yqjc	1
 邀集	yqjh	1
 一起解决	yqjj	1
@@ -109340,8 +109340,8 @@ columns:
 以柔克刚	yrkg	1
 移开	yrkj	1
 予人口实	yrks	1
-筠	yrl	1	jrle
-筠	yrle	1	jrle
+筠	yrl	1	yrle
+筠	yrle	1	yrle
 迤逦	yrlk	1
 移来	yrll	1
 用人理念	yrln	1
@@ -109481,7 +109481,7 @@ columns:
 油	ysd	1	ysdk
 游荡	ysda	1
 淫荡	ysdae	1
-泂	ysdg	1	jsdg
+泂	ysdg	1	ysdg
 洇	ysdh	1	ysdh
 泱	ysdi	1	ysdi
 涌动	ysdj	1
@@ -109644,7 +109644,7 @@ columns:
 淤泥	ysns	1
 永生难忘	ysnw	1
 演	yso	1	ysom
-涴	ysoe	1	wsoe
+涴	ysoe	1	ysoe
 演	ysom	1	ysom
 一生平安	yspa	1
 油品	yspg	1
@@ -110007,7 +110007,7 @@ columns:
 抑或	yuhk	1
 夜壶	yuhl	1
 摇晃	yuhn	1
-於	yuho	1	wuho
+於	yuho	1	yuho
 言和	yuhr	1
 夜航	yuht	1
 拥护	yuhu	1
@@ -110051,7 +110051,7 @@ columns:
 掩口	yukg	1
 衣裤	yuki	1
 痍	yukie	1	yuki
-疟	yukk	1	nukk
+疟	yukk	1	yukk
 应考	yukm	1
 亦可	yukme	1
 揠	yukn	1	yukn
@@ -110366,10 +110366,10 @@ columns:
 引路人	yvlr	1
 引流	yvls	1
 异类	yvly	1
-尉	yvm	1	wvmi
+尉	yvm	1	yvmi
 异母	yvmc	1
 异名	yvme	1
-尉	yvmi	1	wvmi
+尉	yvmi	1	yvmi
 已满	yvms	1
 已没有	yvmy	1
 已能	yvnx	1
@@ -110377,8 +110377,8 @@ columns:
 引擎	yvqa	1
 引桥	yvqf	1
 引起	yvql	1
-尾	yvr	1	wvrc
-尾	yvrc	1	wvrc
+尾	yvr	1	yvrc
+尾	yvrc	1	yvrc
 已然	yvre	1
 引人	yvrh	1
 引入了	yvrl	1
@@ -110406,7 +110406,7 @@ columns:
 异物	yvwr	1
 引文	yvwu	1
 已为	yvwy	1
-弪	yvx	1	jvxm
+弪	yvx	1	yvxm
 异姓	yvxb	1
 异乡	yvxc	1
 异象	yvxe	1
@@ -110415,7 +110415,7 @@ columns:
 异心	yvxi	1
 异型	yvxj	1
 异性恋	yvxl	1
-弪	yvxm	1	jvxm
+弪	yvxm	1	yvxm
 异性	yvxo	1
 引向	yvxq	1
 已选	yvxr	1
@@ -110483,9 +110483,9 @@ columns:
 意外发现	ywfx	1
 英文翻译	ywfy	1
 业务发展	ywfz	1
-谷	ywg	1	gwgg
+谷	ywg	1	ywgg
 业务骨干	ywgg	1
-谷	ywgge	1	gwgg
+谷	ywgge	1	ywgg
 遥感	ywgh	1
 业务规模	ywgm	1
 英文歌曲	ywgq	1
@@ -110665,7 +110665,7 @@ columns:
 有些地区	yxdq	1
 有线电视	yxds	1
 有线电视台	yxdt	1
-矞	yxdw	1	jxdw
+矞	yxdw	1	yxdw
 又对	yxdx	1
 优秀党员	yxdy	1
 邮箱地址	yxdz	1
@@ -110897,8 +110897,8 @@ columns:
 以至于	yxzy	1
 一笑置之	yxzz	1
 义	yy	1	yyii
-剡	yya	1	syaa
-剡	yyaa	1	syaa
+剡	yya	1	yyaa
+剡	yyaa	1	yyaa
 业余爱好	yyah	1
 予以安排	yyap	1
 业余爱好者	yyaz	1
@@ -111396,7 +111396,7 @@ columns:
 芷	zaf	1	zafk
 蒸发	zafb	1
 蒸饭	zafe	1
-茈	zafee	1	cafe
+茈	zafee	1	zafe
 芷	zafk	1	zafk
 蒸发量	zafl	1
 䓬	zafn	1	zafn
@@ -111406,8 +111406,8 @@ columns:
 茽	zahd	1	zahd
 藏红花	zahh	1
 葬	zahhe	1	zahh
-葴	zahk	1	qahk
-藏	zahm	1	cahm
+葴	zahk	1	zahk
+藏	zahm	1	zahm
 芝	zai	1	zaii
 芝	zaii	1	zaii
 蓁	zaj	1	zajr
@@ -111442,14 +111442,14 @@ columns:
 蒸	zano	1	zano
 苎	zao	1	zaok
 苎	zaok	1	zaok
-苧	zaom	1	naom
+苧	zaom	1	zaom
 蒸汽机	zaqj	1
 藏区	zaqk	1
 蒸汽	zaqs	1
 茱	zar	1	zari
 茱	zari	1	zari
 藻	zas	1	zasg
-菬	zasb	1	qasb
+菬	zasb	1	zasb
 著书	zasc	1
 菹	zasd	1	zasd
 著述	zasf	1
@@ -111463,9 +111463,9 @@ columns:
 蔗	zau	1	zauo
 蔗	zauo	1	zauo
 藏文	zawu	1
-藋	zax	1	daxh
+藋	zax	1	zaxh
 藏象	zaxe	1
-藋	zaxh	1	daxh
+藋	zaxh	1	zaxh
 作案嫌疑	zaxy	1
 凿	zay	1	zayn
 茱萸	zaya	1
@@ -111484,7 +111484,7 @@ columns:
 著作人	zazr	1
 藏族	zazu	1
 茁壮	zazue	1
-召	zb	1	sbgg
+召	zb	1	zbgg
 治标不治本	zbbb	1
 皂白不分	zbbf	1
 纸包不住火	zbbh	1
@@ -111506,13 +111506,13 @@ columns:
 资不抵债	zbdz	1
 姊	zbe	1	zbee
 姊	zbee	1	zbee
-婤	zbel	1	cbel
+婤	zbel	1	zbel
 这部分人	zbfr	1
-召	zbg	1	sbgg
+召	zbg	1	zbgg
 抓捕归案	zbga	1
 张榜公布	zbgb	1
 资本构成	zbgc	1
-召	zbgg	1	sbgg
+召	zbgg	1	zbgg
 振臂高呼	zbgh	1
 周边国家	zbgj	1
 资本管理	zbgl	1
@@ -111633,7 +111633,7 @@ columns:
 政出多门	zcdm	1
 组队	zcdn	1
 纵队	zcdne	1
-䐃	zcdr	1	jcdr
+䐃	zcdr	1	zcdr
 终端	zcdu	1
 组对	zcdx	1
 终点站	zcdz	1
@@ -111665,7 +111665,7 @@ columns:
 纵贯	zcgc	1
 政策规定	zcgd	1
 展翅高飞	zcgf	1
-缲	zcgfe	1	qcgf
+缲	zcgfe	1	zcgf
 终归	zcgg	1
 资产管理	zcgl	1
 资产规模	zcgm	1
@@ -111691,7 +111691,7 @@ columns:
 脏话	zchi	1
 政策环境	zchj	1
 综合楼	zchl	1
-胕	zchm	1	fchm
+胕	zchm	1	zchm
 组合拳	zchq	1
 脏活	zchs	1
 胗	zcht	1	zcht
@@ -111778,14 +111778,14 @@ columns:
 纸片	zcpqe	1
 终篇	zcpr	1
 支持平台	zcpt	1
-缴	zcq	1	jcqr
+缴	zcq	1	zcqr
 脏器	zcqg	1
 纸钱	zcqj	1
 正常情况	zcqk	1
 骤起	zcql	1
 纵情	zcqo	1
 胀气	zcqr	1
-缴	zcqre	1	jcqr
+缴	zcqre	1	zcqr
 缒	zcqv	1	zcqv
 胀	zcr	1	zcri
 缵	zcrd	1	zcrd
@@ -112093,7 +112093,7 @@ columns:
 中科院	zdky	1
 睁开眼	zdkye	1
 自动控制	zdkz	1
-峙	zdl	1	sdlm
+峙	zdl	1	zdlm
 助力	zdlb	1
 中络	zdlc	1
 蟑螂	zdld	1
@@ -112103,7 +112103,7 @@ columns:
 助理	zdlj	1
 总的来看	zdlk	1
 主导力量	zdll	1
-峙	zdlm	1	sdlm
+峙	zdlm	1	zdlm
 中老年	zdln	1
 总的来说	zdls	1
 中立	zdlu	1
@@ -112227,9 +112227,9 @@ columns:
 助听器	zdtq	1
 助推	zdtu	1
 中通	zdtx	1
-幢	zdu	1	cdud
-幢	zdud	1	cdud
-崒	zduh	1	cduh
+幢	zdu	1	zdud
+幢	zdud	1	zdud
+崒	zduh	1	zduh
 蛀	zduk	1	zduk
 赃	zdul	1	zdul
 嶂	zdun	1	zdun
@@ -112373,9 +112373,9 @@ columns:
 杂病	zebue	1
 周报	zebui	1
 皱	zebx	1	zebx
-氏	zec	1	secc
+氏	zec	1	zecc
 杂草	zeca	1
-氏	zecc	1	secc
+氏	zecc	1	zecc
 鲻	zecd	1	zecd
 杂处	zece	1
 争吵	zecg	1
@@ -112410,7 +112410,7 @@ columns:
 杂	zeffe	1	zeff
 飐	zefg	1	zefg
 争锋	zefj	1
-猹	zefn	1	cefn
+猹	zefn	1	zefn
 周而复始	zefs	1
 杂费	zefv	1
 炙甘草	zegc	1
@@ -112429,8 +112429,8 @@ columns:
 杂活	zehs	1
 杂合型	zehx	1
 杂烩	zehy	1
-鲭	zej	1	qejc
-鲭	zejc	1	qejc
+鲭	zej	1	zejc
+鲭	zejc	1	zejc
 猪圈	zejd	1
 周角	zeje	1
 杂记	zeji	1
@@ -112520,7 +112520,7 @@ columns:
 罪恶滔天	zett	1
 詹天佑	zety	1
 詹	zeu	1	zeuj
-鳣	zeud	1	seud
+鳣	zeud	1	zeud
 詹	zeuj	1	zeuj
 獐	zeun	1	zeun
 馔	zev	1	zevm
@@ -112639,12 +112639,12 @@ columns:
 占道	zfdy	1
 栈道	zfdye	1
 战斗中	zfdz	1
-栅	zfe	1	cfek
+栅	zfe	1	zfek
 觜	zfee	1	zfee
-栅	zfek	1	cfek
-椆	zfel	1	cfel
+栅	zfek	1	zfek
+椆	zfel	1	zfel
 柊	zfeo	1	zfeo
-楂	zff	1	cffn
+楂	zff	1	zffn
 植发	zffb	1
 桢	zffd	1	zffd
 战犯	zffe	1
@@ -112655,7 +112655,7 @@ columns:
 战俘	zffh	1
 贞丰	zffj	1
 棹	zffn	1	zffn
-楂	zffne	1	cffn
+楂	zffne	1	zffn
 战法	zffs	1
 战斧	zffw	1
 战俘营	zffy	1
@@ -112691,18 +112691,18 @@ columns:
 札幌	zfhd	1
 砦	zfhg	1	zfhg
 柘	zfhge	1	zfhg
-枞	zfhh	1	cfhh
+枞	zfhh	1	zfhh
 杖	zfhi	1	zfhi
 执法环境	zfhj	1
 支付货款	zfhk	1
 战壕	zfhl	1
 止汗	zfhs	1
 战后	zfht	1
-椎	zfhu	1	cfhu
+椎	zfhu	1	zfhu
 战火	zfhy	1
-术	zfi	1	sfii
+术	zfi	1	zfii
 枕	zfic	1	zfic
-术	zfii	1	sfii
+术	zfii	1	zfii
 槠	zfim	1	zfim
 栈	zfj	1	zfji
 枝节	zfja	1
@@ -112757,7 +112757,7 @@ columns:
 战略性	zflx	1
 枝	zfm	1	zfmx
 战幕	zfma	1
-椹	zfmc	1	sfmc
+椹	zfmc	1	zfmc
 植	zfmd	1	zfmd
 枕木	zfmf	1
 桌面	zfmh	1
@@ -112768,7 +112768,7 @@ columns:
 卓	zfn	1	zfnm
 樟脑	zfnc	1
 桌	zfnf	1	zfnf
-查	zfnk	1	cfnk
+查	zfnk	1	zfnk
 支付能力	zfnl	1
 卓	zfnm	1	zfnm
 樟脑丸	zfnw	1
@@ -112936,7 +112936,7 @@ columns:
 总工程师	zgcs	1
 足彩	zgcw	1
 只差	zgcy	1
-咀	zgd	1	jgdk
+咀	zgd	1	zgdk
 职工代表	zgdb	1
 种瓜得瓜，种豆得豆	zgdd	1
 枕戈待旦	zgdde	1
@@ -112947,7 +112947,7 @@ columns:
 只读	zgdie	1
 躁动	zgdj	1
 只当	zgdk	1
-咀	zgdke	1	jgdk
+咀	zgdke	1	zgdk
 自甘堕落	zgdl	1
 只等	zgdr	1
 中国地图	zgdt	1
@@ -112962,12 +112962,12 @@ columns:
 足额	zgeo	1
 足	zgf	1	zgfi
 嘴	zgfe	1	zgfe
-呲	zgfee	1	cgfe
+呲	zgfee	1	zgfe
 嘱咐	zgfg	1
 州官放火	zgfh	1
 足	zgfi	1	zgfi
 趾	zgfk	1	zgfk
-喳	zgfn	1	cgfn
+喳	zgfn	1	zgfn
 站岗放哨	zgfs	1
 自告奋勇	zgfy	1
 最高法院	zgfye	1
@@ -113046,9 +113046,9 @@ columns:
 中国联通	zglt	1
 足疗	zglu	1
 最高理想	zglx	1
-嘲	zgm	1	cgmc
-嘲	zgmc	1	cgmc
-喋	zgmf	1	dgmf
+嘲	zgm	1	zgmc
+嘲	zgmc	1	zgmc
+喋	zgmf	1	zgmf
 咒骂	zgmg	1
 咱们	zgmh	1
 中国民用航空总局	zgmj	1
@@ -113057,12 +113057,12 @@ columns:
 啫	zgmne	1	zgmn
 砸锅卖铁	zgmt	1
 吱	zgmx	1	zgmx
-嘬	zgn	1	cgnm
+嘬	zgn	1	zgnm
 中国农工民主党	zgnd	1
 中国农业银行	zgnh	1
 咋弄	zgnj	1
 只能靠	zgnk	1
-嘬	zgnm	1	cgnm
+嘬	zgnm	1	zgnm
 只能说	zgns	1
 这个念头	zgnt	1
 只能	zgnx	1
@@ -113257,8 +113257,8 @@ columns:
 逐层	zhcv	1
 侦察员	zhcy	1
 砸场子	zhcz	1
-侧	zhd	1	chda
-侧	zhda	1	chda
+侧	zhd	1	zhda
+侧	zhda	1	zhda
 仲	zhdd	1	zhdd
 众多	zhde	1
 逐点	zhdf	1
@@ -113332,7 +113332,7 @@ columns:
 作画	zhhk	1
 砸坏	zhhl	1
 佐	zhhm	1	zhhm
-僬	zhho	1	jhho
+僬	zhho	1	zhho
 砸毁	zhhq	1
 砖混	zhhs	1
 在乎	zhhw	1
@@ -113349,7 +113349,7 @@ columns:
 作践	zhjg	1
 作假	zhjh	1
 传记	zhji	1
-传	zhjie	1	chji
+传	zhjie	1	zhji
 砖	zhjii	1	zhji
 住进	zhjj	1
 左键	zhjje	1
@@ -113399,7 +113399,7 @@ columns:
 做媒	zhmb	1
 臧	zhmc	1	zhmc
 值	zhmd	1	zhmd
-殖	zhmde	1	shmd
+殖	zhmde	1	zhmd
 殖民地	zhmdi	1
 做梦	zhmf	1
 中华民国	zhmg	1
@@ -113519,9 +113519,9 @@ columns:
 坐台	zhtx	1
 在会谈中	zhtz	1
 住	zhu	1	zhuk
-僮	zhud	1	thud
+僮	zhud	1	zhud
 詟	zhuj	1	zhuj
-隹	zhuk	1	chuk
+隹	zhuk	1	zhuk
 住	zhuke	1	zhuk
 逐	zhv	1	zhvv
 僎	zhvm	1	zhvm
@@ -113679,7 +113679,7 @@ columns:
 诊断学	zidx	1
 诊断	zidy	1
 诌	zie	1	ziev
-祇	ziec	1	qiec
+祇	ziec	1	ziec
 之恩	zied	1
 祗	ziei	1	ziei
 之二	ziej	1
@@ -113717,7 +113717,7 @@ columns:
 之隔	zign	1
 征稿	zigr	1
 之高	zigu	1
-识	zigw	1	sigw
+识	zigw	1	zigw
 诊	zih	1	ziht
 之花	ziha	1
 祝贺	zihb	1
@@ -113737,7 +113737,7 @@ columns:
 之火	zihy	1
 之	zii	1	ziii
 之	ziii	1	ziii
-诪	zij	1	cijm
+诪	zij	1	zijm
 征缴	zijc	1
 之见	zijd	1
 之久	zije	1
@@ -113748,7 +113748,7 @@ columns:
 之计	ziji	1
 之巨	zijk	1
 证据链	zijl	1
-诪	zijm	1	cijm
+诪	zijm	1	zijm
 之际	zijn	1
 之家	zijo	1
 之举	zijoe	1
@@ -113797,11 +113797,11 @@ columns:
 禛	zimw	1	zimw
 诹	zimx	1	zimx
 之美	zimy	1
-禔	zin	1	tinm
+禔	zin	1	zinm
 之女	zinb	1
 之内	zind	1
 祝你	zinh	1
-禔	zinm	1	tinm
+禔	zinm	1	zinm
 之年	zinr	1
 之能事	zins	1
 之难	zinx	1
@@ -114265,8 +114265,8 @@ columns:
 中看不中用	zkby	1
 真空包装	zkbz	1
 辎	zkc	1	zkcd
-轧	zkcc	1	gkcc
-屯	zkcce	1	tkcc
+轧	zkcc	1	zkcc
+屯	zkcce	1	zkcc
 辎	zkcd	1	zkcd
 至此	zkcf	1
 暂存	zkch	1
@@ -114453,8 +114453,8 @@ columns:
 掌	zku	1	zkuu
 辙	zkur	1	zkur
 掌	zkuu	1	zkuu
-辗	zkv	1	nkvm
-辗	zkvm	1	nkvm
+辗	zkv	1	zkvm
+辗	zkvm	1	zkvm
 迍	zkvv	1	zkvv
 掌纹	zkwc	1
 转位	zkwh	1
@@ -114554,13 +114554,13 @@ columns:
 增产	zlcue	1
 震颤	zlcui	1
 增粗	zlcy	1
-螫	zld	1	sldi
+螫	zld	1	zldi
 震荡	zlda	1
 增订本	zldb	1
 增多	zlde	1
 增大	zldh	1
 走读	zldi	1
-螫	zldie	1	sldi
+螫	zldie	1	zldi
 震动	zldj	1
 走动	zldje	1
 走到	zldk	1
@@ -114596,7 +114596,7 @@ columns:
 增高	zlgu	1
 战略构想	zlgx	1
 震	zlh	1	zlhj
-☳	zlh	1
+☳	zlh	1	zlh
 走好	zlhb	1
 走红	zlhc	1
 走回	zlhd	1
@@ -114711,7 +114711,7 @@ columns:
 智力投资	zltz	1
 趑	zlu	1	zlue
 趑	zlue	1	zlue
-霅	zluj	1	sluj
+霅	zluj	1	zluj
 赵	zlw	1	zlww
 走位	zlwh	1
 走弯路	zlwl	1
@@ -114812,9 +114812,9 @@ columns:
 支部	zmbue	1
 政变	zmbui	1
 执迷不悟	zmbw	1
-朝	zmc	1	cmcc
+朝	zmc	1	zmcc
 直肠	zmcc	1
-朝	zmcce	1	cmcc
+朝	zmcce	1	zmcc
 正财	zmcd	1
 正处	zmce	1
 正餐	zmcf	1
@@ -115084,7 +115084,7 @@ columns:
 醉人	zmrh	1
 再让	zmri	1
 政	zmrie	1	zmri
-酢	zmrk	1	cmrk
+酢	zmrk	1	zmrk
 整日	zmrn	1
 整容	zmro	1
 知名人士	zmrs	1
@@ -115596,7 +115596,7 @@ columns:
 宙	zod	1	zodk
 字典	zodd	1
 宅邸	zode	1
-惴	zodh	1	codh
+惴	zodh	1	zodh
 宙	zodk	1	zodk
 宅地	zodl	1
 窄带	zodm	1
@@ -115692,9 +115692,9 @@ columns:
 字头	zoto	1
 宰	zou	1	zoum
 宰	zoum	1	zoum
-忪	zow	1	sowx
+忪	zow	1	zowx
 憎恶	zowm	1
-忪	zowx	1	sowx
+忪	zowx	1	zowx
 宰相	zoxf	1
 宅心	zoxi	1
 字形	zoxj	1
@@ -116201,7 +116201,7 @@ columns:
 智慧型	zrhx	1
 朱	zri	1	zrii
 怎	zrii	1	zrii
-长	zriie	1	crii
+长	zriie	1	zrii
 朱	zriii	1	zrii
 竺	zrj	1	zrjj
 竹节	zrja	1
@@ -116231,12 +116231,12 @@ columns:
 重奖	zrjui	1
 知己	zrjv	1
 正人君子	zrjz	1
-重	zrk	1	crkk
+重	zrk	1	zrkk
 指日可待	zrkd	1
 怎肯	zrkf	1
 责任考核	zrkh	1
 乍	zrkk	1	zrkk
-重	zrkke	1	crkk
+重	zrkke	1	zrkk
 怎可	zrkm	1
 簪	zrkn	1	zrkn
 制空	zrko	1
@@ -116384,7 +116384,7 @@ columns:
 重头戏	zrtx	1
 制糖	zrty	1
 籀	zru	1	zrue
-穜	zrud	1	trud
+穜	zrud	1	zrud
 籀	zrue	1	zrue
 造	zrv	1	zrvv
 迮	zrvv	1	zrvv
@@ -116530,14 +116530,14 @@ columns:
 潴	zse	1	zsem
 择善而从	zsec	1
 自食恶果	zseg	1
-汋	zsei	1	ysei
+汋	zsei	1	zsei
 潴	zsem	1	zsem
 自上而下	zsex	1
 沾	zsf	1	zsfg
 正式发布	zsfb	1
 涨幅	zsfd	1
 浈	zsfde	1	zsfd
-泚	zsfe	1	csfe
+泚	zsfe	1	zsfe
 沾	zsfg	1	zsfg
 直升飞机	zsfj	1
 政事分开	zsfk	1
@@ -116581,15 +116581,15 @@ columns:
 遵守纪律	zsjl	1
 洲际	zsjn	1
 治家	zsjo	1
-溱	zsjr	1	qsjr
+溱	zsjr	1	zsjr
 浙江	zsjs	1
 湛江	zsjse	1
 转瞬即逝	zsjsi	1
 招生简章	zsjz	1
 增收节支	zsjze	1
 转身就走	zsjzi	1
-沌	zsk	1	dskc
-沌	zskc	1	dskc
+沌	zsk	1	zskc
+沌	zskc	1	zskc
 再三考虑	zskl	1
 正式开幕	zskm	1
 炙手可热	zskr	1
@@ -116944,7 +116944,7 @@ columns:
 主刀	zudb	1
 壮胆	zudc	1
 抓赌	zudd	1
-拽	zude	1	yude
+拽	zude	1	zude
 衷	zudee	1	zude
 指点	zudf	1
 站点	zudfe	1
@@ -117038,7 +117038,7 @@ columns:
 装好	zuhbi	1
 斋	zuhd	1	zuhd
 找回	zuhde	1
-颤	zuhdi	1	cuhd
+颤	zuhdi	1	zuhd
 这会儿	zuhe	1
 招呼	zuhg	1
 折合	zuhh	1
@@ -117050,7 +117050,7 @@ columns:
 瘃	zuhii	1	zuhi
 振	zuhj	1	zuhj
 座	zuhl	1	zuhl
-卒	zuhm	1	cuhm
+卒	zuhm	1	zuhm
 壮怀	zuho	1
 症候群	zuhq	1
 撞毁	zuhqe	1
@@ -117062,7 +117062,7 @@ columns:
 指挥员	zuhy	1
 恣	zui	1	zuii
 癥	zuid	1	zuid
-戆	zuii	1	guii
+戆	zuii	1	zuii
 恣	zuiie	1	zuii
 揍	zuj	1	zujj
 抓紧	zuja	1
@@ -117083,7 +117083,7 @@ columns:
 折价	zujhe	1
 招集	zujhi	1
 准假	zujho	1
-瘈	zujhu	1	cujh
+瘈	zujhu	1	zujh
 主讲	zuji	1
 资金	zujj	1
 撞击	zujje	1
@@ -117171,7 +117171,7 @@ columns:
 装满	zums	1
 折磨	zumu	1
 捉摸	zumue	1
-挝	zumv	1	wumv
+挝	zumv	1	zumv
 这么些	zumx	1
 壮美	zumy	1
 这么着	zumz	1
@@ -117185,7 +117185,7 @@ columns:
 捉弄	zunj	1
 拯	zunk	1	zunk
 指南	zunm	1
-撮	zunme	1	cunm
+撮	zunme	1	zunm
 章	zunmi	1	zunm
 鄣	zunn	1	zunn
 撞南墙	zunq	1
@@ -117242,7 +117242,7 @@ columns:
 族	zur	1	zurr
 招惹	zura	1
 状如	zurb	1
-攒	zurd	1	curd
+攒	zurd	1	zurd
 攥	zurde	1	zurd
 旃	zure	1	zure
 主人公	zurg	1
@@ -117300,7 +117300,7 @@ columns:
 抓	zut	1	zuti
 找她	zutb	1
 折腾	zutc	1
-折	zutd	1	sutd
+折	zutd	1	zutd
 彰	zute	1	zute
 主题歌	zutg	1
 状态	zuth	1
@@ -117513,8 +117513,8 @@ columns:
 展品	zvpg	1
 展评	zvpi	1
 粥铺	zvpj	1
-属	zvq	1	svqi
-属	zvqi	1	svqi
+属	zvq	1	zvqi
+属	zvqi	1	zvqi
 展区	zvqk	1
 展期	zvqm	1
 张骞	zvqo	1
@@ -117540,14 +117540,14 @@ columns:
 展销	zvxje	1
 展现了	zvxl	1
 张岫云	zvxy	1
-粥	zvy	1	yvyv
+粥	zvy	1	zvyv
 粥样	zvyf	1
 张艺谋	zvym	1
 张掖市	zvys	1
 张扬	zvyu	1
 昼夜	zvyue	1
 张掖	zvyui	1
-粥	zvyv	1	yvyv
+粥	zvyv	1	zvyv
 张之洞	zvzd	1
 张嘴	zvzg	1
 张仲景	zvzj	1
@@ -117569,10 +117569,10 @@ columns:
 自我测试	zwcs	1
 自我定位	zwdw	1
 中文大学	zwdx	1
-繇	zwe	1	ywek
+繇	zwe	1	zwek
 在我耳边	zweb	1
 豸	zwee	1	zwee
-繇	zwek	1	ywek
+繇	zwek	1	zwek
 掌握分寸	zwfc	1
 自卫反击	zwfj	1
 治外法权	zwfq	1
@@ -117635,7 +117635,7 @@ columns:
 作威作福	zwzf	1
 醉翁之意不在酒	zwzj	1
 周吴郑王	zwzw	1
-翟	zx	1	dxhu
+翟	zx	1	zxhu
 自行安排	zxap	1
 最新版本	zxbb	1
 暂行办法	zxbf	1
@@ -117683,14 +117683,14 @@ columns:
 执行公务	zxgw	1
 衷心感谢	zxgx	1
 中心工作	zxgz	1
-翟	zxh	1	dxhu
+翟	zxh	1	zxhu
 中西合璧	zxhb	1
 中心环节	zxhj	1
 注销户口	zxhk	1
 秩序混乱	zxhl	1
 自行火炮	zxhp	1
 这些话题	zxht	1
-翟	zxhu	1	dxhu
+翟	zxhu	1	zxhu
 知行合一	zxhy	1
 这些孩子	zxhz	1
 专项检查	zxjc	1
@@ -117786,9 +117786,9 @@ columns:
 总部	zybu	1
 糌粑	zyby	1
 总版主	zybz	1
-兹	zyc	1	cycc
+兹	zyc	1	zycc
 总成本	zycb	1
-兹	zycc	1	cycc
+兹	zycc	1	zycc
 尊崇	zycd	1
 遵从	zych	1
 总厂	zyche	1
@@ -117843,13 +117843,13 @@ columns:
 糌	zyen	1	zyen
 总额	zyeo	1
 早有耳闻	zyew	1
-粘	zyf	1	nyfg
+粘	zyf	1	zyfg
 炸飞	zyfb	1
 造谣诽谤	zyfbe	1
-粘	zyfg	1	nyfg
+粘	zyfg	1	zyfg
 自由泛滥	zyfl	1
 这一方面	zyfm	1
-焯	zyfn	1	cyfn
+焯	zyfn	1	zyfn
 总阀	zyfp	1
 主要负责人	zyfr	1
 总分	zyfw	1
@@ -117873,7 +117873,7 @@ columns:
 总管	zygr	1
 总公司	zygs	1
 中央广播电台	zygt	1
-炽	zygw	1	cygw
+炽	zygw	1	zygw
 重要贡献	zygx	1
 糟糕	zygy	1
 主要工作	zygz	1
@@ -117964,7 +117964,7 @@ columns:
 籽	zynk	1	zynk
 孳	zynke	1	zynk
 中医内科	zynki	1
-曾	zynn	1	cynn
+曾	zynn	1	zynn
 郑	zynne	1	zynn
 主要内容	zynr	1
 自由女神	zyns	1
@@ -117983,11 +117983,11 @@ columns:
 糟粕	zypy	1
 只言片语	zypye	1
 资源配置	zypz	1
-熜	zyq	1	cyqi
+熜	zyq	1	zyqi
 重义轻财	zyqc	1
 转一圈儿	zyqe	1
 中央全会	zyqh	1
-熜	zyqi	1	cyqi
+熜	zyqi	1	zyqi
 中央情报局	zyqj	1
 滋阴清热	zyqr	1
 自圆其说	zyqs	1
