@@ -1,0 +1,17 @@
+---
+name: cqkm_cf
+version: "22.8"
+use_preset_vocabulary: true
+# 词汇表 (*.txt)
+vocabulary: essay-zh-hans # 官方简体词汇表 (https://github.com/rime/rime-essay-simp)
+# 字词典 (*.dict.yaml)
+import_tables:
+  - cqkm_cf.single        # 超强快码(弛放版)的单字码表(3码)
+  - cqkm_cf.phrase        # 超强快码(弛放版)的词组码表(5码)
+  - cqkm_cf.symbol        # 超强快码(弛放版)的简码和符号(u/;/v)
+  - nlp-ge-1000           # 360大词典(词频大于1000)
+...
+
+超强快码
+弛放
+
