@@ -1,0 +1,134 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: cqkm_42
+  name: "快码四二"
+  version: "22.8"
+  description: |
+    兼具单字(码表)和词句(拼音)的混输方案。
+    小于等于四码时，表现为码表形式，与原版基本一致，便于输入单字。
+    大于等于四码时，表现为拼音形式，类似双拼输入法，方便连续输入。
+  author:
+    - 二笔音形编码: "陈劲松 (1992)"
+    - 超强系列编码: "付东升 (2005)"
+    - Rime输入法引擎: "弓辰[号佛振] (2011)"
+    - Fcitx输入法框架: "CSSlayer (2010), Yuking (2001-2010)"
+  dependencies:
+    - cqkm_cf
+    - pinyin_simp
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中, 西 ]
+  - name: full_shape
+    states: [ 半, 全 ]
+  - name: ascii_punct
+    states: [ 。, ． ]
+  - name: zh_trad
+    reset: 0
+    states: [ 简, 繁 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - affix_segmentor@assist
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+    - script_translator@assist
+  filters:
+    - simplifier@zh_trad
+
+speller:
+  alphabet: "qwertasdfgzxcvbyuiophjklnmASDFGYUIOPQWERTZXCVBHJKLNM;"
+  initials: "qwertasdfgzxcvbyuiophjklnm"
+  auto_select: false
+
+translator:
+  initial_quality: 2
+  dictionary: cqkm_42
+  max_phrase_length: 3
+  disable_user_dict_for_patterns:
+    - "^[a-zA-Z;]{1,2}$"   # 保护1简2简
+  enable_completion: true
+  enable_charset_filter: true
+  encode_commit_history: false
+  enable_user_dict: false
+  enable_sentence: false
+  enable_encoder: false
+
+# 副翻译器
+assist:
+  tag: assist
+  initial_quality: 1
+  dictionary: cqkm_cf
+  enable_user_dict: true
+
+# 拼音反查
+reverse_lookup:
+  dictionary: pinyin_simp
+  enable_user_dict: false
+  prefix: "`"
+  tips: 〔拼音反查〕
+  preedit_format:
+    - xform/^`//
+  comment_format:
+    # 以 i,u,v 开头的编码，在反查结果中排除
+    - xform/(^|[ ])[iuv][a-zA-Z]*//
+    - xform/^[ ]+//
+    - xform/([ ])+/ ~/
+
+zh_trad:
+  opencc_config: s2tw.json
+  option_name: zh_trad
+
+# 标点
+punctuator:
+  import_preset: symbols
+
+key_binder:
+# import_preset: default
+  bindings:
+    - { when: composing, accept: 8,                  send: "Shift+BackSpace"  }
+    - { when: composing, accept: 9,                  send: "Shift+Left"       }
+    - { when: composing, accept: parenleft,          send: "Left"             }
+    - { when: composing, accept: "Shift+parenleft",  send: "Left"             }
+    - { when: composing, accept: 0,                  send: "Shift+Right"      }
+    - { when: composing, accept: parenright,         send: "Right"            }
+    - { when: composing, accept: "Shift+parenright", send: "Right"            }
+    - { when: composing, accept: minus,              send: "Right"            }
+    - { when: paging,    accept: grave,              send: "Page_Up"          }
+    - { when: has_menu,  accept: Tab,                send: "Page_Down"        }
+    - { when: always,    accept: "Control+Alt+j",    toggle: full_shape       }
+    - { when: always,    accept: "Control+Alt+f",    toggle: traditional      }
+    - { when: always,    accept: "Control+period",   toggle: ascii_punct      }
+
+# 杂项
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]|[a-z]+)$'
+    assist: "^[a-z](;|[a-zA-Z;]{3})[a-zA-Z;]*$"
+    reverse_lookup: "^`[a-zA-Z]*'?$"
+
+menu:
+  page_size: 5
+  alternative_select_keys: "12345"
+  alternative_select_labels: ["1","2","3","4","5"]
+

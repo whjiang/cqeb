@@ -6,9 +6,8 @@ use_preset_vocabulary: true
 vocabulary: essay-zh-hans # 官方简体词汇表 (https://github.com/rime/rime-essay-simp)
 # 字词典 (*.dict.yaml)
 import_tables:
-  - cqkm_cf.single        # 超强快码(弛放版)的单字码表(3码)
-  - cqkm_cf.phrase        # 超强快码(弛放版)的词组码表(5码)
-  - cqkm_cf.symbol        # 超强快码(弛放版)的简码和符号(u/;/v)
+  - cqkm_cf.single        # 超强快码(弛放版)的单字码表(2码双拼 + 可选的1位辅码)
+  - cqkm_cf.phrase        # 超强快码(弛放版)的词组码表(4码原版 + 必选的1位分号)
   - nlp-ge-1000           # 360大词典(词频大于1000)
 ...
 

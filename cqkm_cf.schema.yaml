@@ -6,19 +6,17 @@ schema:
   name: "超强快码弛放"
   version: "22.8"
   description: |
-    擅长语句输入，两码一字，三码也可，弱化空格。
-    与原版的、基于字词的、码表类传统输入方式相比，
-      - 单字取原版码表的前 3 码，前两码小写，第三码大写
+    仿照带辅助码的双拼输入法，两码一字，辅码大写。
+    在这种输入模式下，与原版的基于码表的输入方式相比，有以下差别——
+      - 每字只取原版码表的前两码，第三码(大写)作为辅码
       - 单字中 26 个一级简码，由一个带分号(;)的字母表示
       - 三字(含)以上的词组，补一个分号(;)在原版编码末尾
       - 包含 24 万词条，由拼音输入引擎动态调整字词组合
-      - 轻度缓解空格焦虑，降低右手姆指腱鞘炎的发病率 :)
   author:
     - 二笔音形编码: "陈劲松 (1992)"
     - 超强系列编码: "付东升 (2005)"
     - Rime输入法引擎: "弓辰[号佛振] (2011)"
-  dependencies:
-    - pinyin_simp
+    - Fcitx输入法框架: "CSSlayer (2010), Yuking (2001-2010)"
 
 switches:
   - name: ascii_mode
@@ -50,72 +48,17 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - reverse_lookup_translator
     - script_translator
   filters:
-    - simplifier
     - uniquifier
 
 speller:
   alphabet: "asdfgyuiopqwertzxcvbhjklnmASDFGYUIOPQWERTZXCVBHJKLNM;"
   initials: "asdfgyuiopqwertzxcvbhjklnm"
-  finals: "ASDFGYUIOPQWERTZXCVBHJKLNM;"
-  delimiter: " '"
   algebra:
     - derive/^([a-z]{2})([A-Z])$/$1/
 
 translator:
   dictionary: cqkm_cf
   prism: cqkm_cf
-  max_phrase_length: 3
-  disable_user_dict_for_patterns:
-    - "^[a-zA-Z]{1,3}$"   # 禁止单字调频
-  preedit_format:
-    - xform/^([a-z])/\U$1/
-    - xform/[ ]([a-z])/ \U$1/
-  comment_format:
-    - "xform/~(.*)$/「$1」/"
-
-reverse_lookup:
-  dictionary: pinyin_simp
-  prefix: "`"
-  tips: 〔拼音反查〕
-  preedit_format:
-    - xform/^`//
-  comment_format:
-    # 以 i,u,v 开头的编码，在反查结果中排除
-    - xform/(^|[ ])[iuv][a-zA-Z]*//
-    - xform/^[ ]+//
-    - xform/([ ])+/ ~/
-
-simplifier:
-  option_name: simplification
-  opencc_config: s2t.json
-
-punctuator:
-  import_preset: symbols
-
-key_binder:
-# import_preset: default
-  bindings:
-    - { when: composing, accept: 8,                  send: "Shift+BackSpace"  }
-    - { when: composing, accept: 9,                  send: "Shift+Left"       }
-    - { when: composing, accept: parenleft,          send: "Left"             }
-    - { when: composing, accept: "Shift+parenleft",  send: "Left"             }
-    - { when: composing, accept: 0,                  send: "Shift+Right"      }
-    - { when: composing, accept: parenright,         send: "Right"            }
-    - { when: composing, accept: "Shift+parenright", send: "Right"            }
-    - { when: paging,    accept: grave,              send: "Page_Up"          }
-    - { when: has_menu,  accept: Tab,                send: "Page_Down"        }
-    - { when: paging,    accept: equal,              send: "Page_Up"          }
-    - { when: has_menu,  accept: minus,              send: "Page_Down"        }
-    - { when: always,    accept: "Control+Alt+j",    toggle: full_shape       }
-    - { when: always,    accept: "Control+Alt+f",    toggle: traditional      }
-    - { when: always,    accept: "Control+period",   toggle: ascii_punct      }
-
-recognizer:
-  import_preset: default
-  patterns:
-    punct: '^/([0-9]|[a-z]+)$'
-    reverse_lookup: "^`[a-z]*'?$"
 
