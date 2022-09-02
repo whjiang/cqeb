@@ -54,6 +54,7 @@ engine:
     - script_translator@assist
   filters:
     - simplifier@zh_trad
+    - uniquifier
 
 speller:
   alphabet: "qwertasdfgzxcvbyuiophjklnmASDFGYUIOPQWERTZXCVBHJKLNM;"
