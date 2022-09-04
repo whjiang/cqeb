@@ -57,6 +57,7 @@ speller:
   initials: "asdfgyuiopqwertzxcvbhjklnm"
   algebra:
     - derive/^([a-z]{2})([A-Z])$/$1/
+    - abbrev/^([a-z]{2})([A-Z])$/$1;/
 
 translator:
   dictionary: cqkm_cf
